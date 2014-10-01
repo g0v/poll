@@ -1,0 +1,416 @@
+[
+    {
+        "name": "更寮國小配膳室",
+        "address": "四維路２號",
+        "neighborhood": "興珍里",
+        "location": {
+            "lat": 25.072826,
+            "lng": 121.4673933
+        }
+    },
+    {
+        "name": "興珍社區活動中心",
+        "address": "四維路２號",
+        "neighborhood": "興珍里",
+        "location": {
+            "lat": 25.072826,
+            "lng": 121.4673933
+        }
+    },
+    {
+        "name": "福興宮",
+        "address": "中興路一段１５１巷４號",
+        "neighborhood": "興珍里",
+        "location": {
+            "lat": 25.0768129,
+            "lng": 121.4346672
+        }
+    },
+    {
+        "name": "更新市民活動中心",
+        "address": "更洲路４５號",
+        "neighborhood": "更寮里",
+        "location": {
+            "lat": 25.0791799,
+            "lng": 121.4578825
+        }
+    },
+    {
+        "name": "觀音市民活動中心",
+        "address": "凌雲路三段１７之２號",
+        "neighborhood": "觀音里",
+        "location": {
+            "lat": 25.1166301,
+            "lng": 121.4304405
+        }
+    },
+    {
+        "name": "清水灣大樓會議室",
+        "address": "成泰路四段２２巷２號１樓",
+        "neighborhood": "集福里",
+        "location": {
+            "lat": 25.1069118,
+            "lng": 121.4534772
+        }
+    },
+    {
+        "name": "薪關渡大樓會議室",
+        "address": "成泰路四段２４號之１０",
+        "neighborhood": "集福里",
+        "location": {
+            "lat": 25.1077259,
+            "lng": 121.4544254
+        }
+    },
+    {
+        "name": "集福市民活動中心",
+        "address": "孝義路５５巷１０號",
+        "neighborhood": "集福里",
+        "location": {
+            "lat": 25.1062977,
+            "lng": 121.4524536
+        }
+    },
+    {
+        "name": "集福社區活動中心",
+        "address": "天乙路３號之１",
+        "neighborhood": "集賢里",
+        "location": {
+            "lat": 25.1041067,
+            "lng": 121.4482514
+        }
+    },
+    {
+        "name": "集福社區活動中心",
+        "address": "天乙路３號之１",
+        "neighborhood": "集賢里",
+        "location": {
+            "lat": 25.1041067,
+            "lng": 121.4482514
+        }
+    },
+    {
+        "name": "成州國小一年一班教室",
+        "address": "成泰路三段４９３號",
+        "neighborhood": "成德里",
+        "location": {
+            "lat": 25.0957,
+            "lng": 121.4485899
+        }
+    },
+    {
+        "name": "成州國小一年三班教室",
+        "address": "成泰路三段４９３號",
+        "neighborhood": "成德里",
+        "location": {
+            "lat": 25.0957,
+            "lng": 121.4485899
+        }
+    },
+    {
+        "name": "成州國小一年五班教室",
+        "address": "成泰路三段４９３號",
+        "neighborhood": "成州里",
+        "location": {
+            "lat": 25.0957,
+            "lng": 121.4485899
+        }
+    },
+    {
+        "name": "成州國小一年七班教室",
+        "address": "成泰路三段４９３號",
+        "neighborhood": "成州里",
+        "location": {
+            "lat": 25.0957,
+            "lng": 121.4485899
+        }
+    },
+    {
+        "name": "成州市民活動中心",
+        "address": "西雲路２６７號",
+        "neighborhood": "成州里",
+        "location": {
+            "lat": 25.0955898,
+            "lng": 121.4476403
+        }
+    },
+    {
+        "name": "成功市民活動中心1樓",
+        "address": "西雲路１６３號１樓",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0946751,
+            "lng": 121.4467132
+        }
+    },
+    {
+        "name": "五股區社教大樓〈圖書館成功分館〉",
+        "address": "西雲路１６５號６樓",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0947851,
+            "lng": 121.4468359
+        }
+    },
+    {
+        "name": "成功市民活動中心2樓",
+        "address": "西雲路１６３號２樓",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0946751,
+            "lng": 121.4467132
+        }
+    },
+    {
+        "name": "成泰里守望相助隊",
+        "address": "御史路１之５號",
+        "neighborhood": "成泰里",
+        "location": {
+            "lat": 25.0910524,
+            "lng": 121.4410336
+        }
+    },
+    {
+        "name": "成泰里守望相助隊",
+        "address": "御史路１之５號",
+        "neighborhood": "成泰里",
+        "location": {
+            "lat": 25.0910524,
+            "lng": 121.4410336
+        }
+    },
+    {
+        "name": "法國宮庭社區大廳",
+        "address": "御成路１４０號",
+        "neighborhood": "成泰里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "空屋",
+        "address": "民義路二段５２之２２號",
+        "neighborhood": "五龍里",
+        "location": {
+            "lat": 25.1046895,
+            "lng": 121.4102593
+        }
+    },
+    {
+        "name": "五福里集會所",
+        "address": "五福路２２巷２５號之１",
+        "neighborhood": "五福里",
+        "location": {
+            "lat": 25.0893264,
+            "lng": 121.4351609
+        }
+    },
+    {
+        "name": "台北愛家大樓會議室",
+        "address": "五福路１４巷底",
+        "neighborhood": "五福里",
+        "location": {
+            "lat": 25.0888129,
+            "lng": 121.4349453
+        }
+    },
+    {
+        "name": "撲滿成家大樓中庭會議室",
+        "address": "五福路３５至５７號中庭",
+        "neighborhood": "六福里",
+        "location": {
+            "lat": 25.0925597,
+            "lng": 121.4416881
+        }
+    },
+    {
+        "name": "撲滿成家大樓中庭會議室",
+        "address": "五福路３５至５７號中庭",
+        "neighborhood": "六福里",
+        "location": {
+            "lat": 25.0925597,
+            "lng": 121.4416881
+        }
+    },
+    {
+        "name": "五股區文康中心",
+        "address": "民義路一段２１８號",
+        "neighborhood": "民義里",
+        "location": {
+            "lat": 25.0899606,
+            "lng": 121.4296606
+        }
+    },
+    {
+        "name": "聖天宮廣場",
+        "address": "工商路１２９巷１之１號",
+        "neighborhood": "民義里",
+        "location": {
+            "lat": 25.0832609,
+            "lng": 121.4395261
+        }
+    },
+    {
+        "name": "五股國小科任教室(三)",
+        "address": "成泰路二段４９號",
+        "neighborhood": "五股里",
+        "location": {
+            "lat": 25.0824077,
+            "lng": 121.4367684
+        }
+    },
+    {
+        "name": "五股國小英語教室(三)",
+        "address": "成泰路二段４９號",
+        "neighborhood": "五股里",
+        "location": {
+            "lat": 25.0824077,
+            "lng": 121.4367684
+        }
+    },
+    {
+        "name": "德音社區活動中心",
+        "address": "蓬萊路１號之５",
+        "neighborhood": "德音里",
+        "location": {
+            "lat": 25.0803576,
+            "lng": 121.4338669
+        }
+    },
+    {
+        "name": "裕昌宮",
+        "address": "成泰路一段２３５號",
+        "neighborhood": "德音里",
+        "location": {
+            "lat": 25.0735512,
+            "lng": 121.4353754
+        }
+    },
+    {
+        "name": "空屋",
+        "address": "成泰路一段１８９巷９弄３號",
+        "neighborhood": "德音里",
+        "location": {
+            "lat": 25.0764251,
+            "lng": 121.434493
+        }
+    },
+    {
+        "name": "德音國小團輔教室(114)",
+        "address": "明德路２號",
+        "neighborhood": "水碓里",
+        "location": {
+            "lat": 25.0712789,
+            "lng": 121.4339579
+        }
+    },
+    {
+        "name": "德音國小群組教室(115)",
+        "address": "明德路２號",
+        "neighborhood": "水碓里",
+        "location": {
+            "lat": 25.0712789,
+            "lng": 121.4339579
+        }
+    },
+    {
+        "name": "德音國小英語教室(116)",
+        "address": "明德路２號",
+        "neighborhood": "水碓里",
+        "location": {
+            "lat": 25.0712789,
+            "lng": 121.4339579
+        }
+    },
+    {
+        "name": "德音國小1樓圓樓(健康中心旁)",
+        "address": "明德路２號",
+        "neighborhood": "水碓里",
+        "location": {
+            "lat": 25.0712789,
+            "lng": 121.4339579
+        }
+    },
+    {
+        "name": "德音國小健康中心",
+        "address": "明德路２號",
+        "neighborhood": "福德里",
+        "location": {
+            "lat": 25.0712789,
+            "lng": 121.4339579
+        }
+    },
+    {
+        "name": "德音國小體育器材室(健康中心旁)",
+        "address": "明德路２號",
+        "neighborhood": "福德里",
+        "location": {
+            "lat": 25.0712789,
+            "lng": 121.4339579
+        }
+    },
+    {
+        "name": "聖源地母宮",
+        "address": "成泰路一段７巷１４弄１７號",
+        "neighborhood": "德泰里",
+        "location": {
+            "lat": 25.0672347,
+            "lng": 121.4335008
+        }
+    },
+    {
+        "name": "台北星洲社區圖書室",
+        "address": "成泰路一段３２巷３２號",
+        "neighborhood": "德泰里",
+        "location": {
+            "lat": 25.076435,
+            "lng": 121.4331422
+        }
+    },
+    {
+        "name": "德泰市民活動中心",
+        "address": "成泰路一段８巷４號",
+        "neighborhood": "德泰里",
+        "location": {
+            "lat": 25.0768129,
+            "lng": 121.4346672
+        }
+    },
+    {
+        "name": "貿商社區活動中心",
+        "address": "貿商里４５６號",
+        "neighborhood": "貿商里",
+        "location": {
+            "lat": 25.0699855,
+            "lng": 121.4309757
+        }
+    },
+    {
+        "name": "貿商社區活動中心",
+        "address": "貿商里４５６號",
+        "neighborhood": "貿商里",
+        "location": {
+            "lat": 25.0699855,
+            "lng": 121.4309757
+        }
+    },
+    {
+        "name": "陸光新城A社區活動中心",
+        "address": "六合街５６號１樓",
+        "neighborhood": "陸一里",
+        "location": {
+            "lat": 25.1135915,
+            "lng": 121.4514321
+        }
+    },
+    {
+        "name": "陸光新城A社區活動中心",
+        "address": "六合街５８號１樓",
+        "neighborhood": "陸一里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    }
+]

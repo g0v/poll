@@ -1,0 +1,119 @@
+[
+    {
+        "name": "石碇社區活動中心",
+        "address": "石碇西街６１號",
+        "neighborhood": "石碇里",
+        "location": {
+            "lat": 24.9910203,
+            "lng": 121.6566548
+        }
+    },
+    {
+        "name": "潭邊市民活動中心",
+        "address": "碇坪路一段３９號",
+        "neighborhood": "潭邊里",
+        "location": {
+            "lat": 24.990636,
+            "lng": 121.6643675
+        }
+    },
+    {
+        "name": "烏塗市民活動中心",
+        "address": "烏塗窟２３之１號",
+        "neighborhood": "烏塗里",
+        "location": {
+            "lat": 24.9907267,
+            "lng": 121.6620001
+        }
+    },
+    {
+        "name": "彭山市民活動中心",
+        "address": "崩山３３之１號",
+        "neighborhood": "彭山里",
+        "location": {
+            "lat": 24.9907267,
+            "lng": 121.6620001
+        }
+    },
+    {
+        "name": "豐田市民活動中心",
+        "address": "磨石坑１０號",
+        "neighborhood": "豐田里",
+        "location": {
+            "lat": 24.9907267,
+            "lng": 121.6620001
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "?頭７號",
+        "neighborhood": "豐田里",
+        "location": {
+            "lat": 24.9559219,
+            "lng": 121.627889
+        }
+    },
+    {
+        "name": "隆盛里和平國小",
+        "address": "靜安路一段５號",
+        "neighborhood": "隆盛里",
+        "location": {
+            "lat": 25.0068677,
+            "lng": 121.6526497
+        }
+    },
+    {
+        "name": "石碇區聯合活動中心暨綜合大樓",
+        "address": "楓子林３２之１號",
+        "neighborhood": "豐林里",
+        "location": {
+            "lat": 25.0086443,
+            "lng": 121.642594
+        }
+    },
+    {
+        "name": "中民市民活動中心",
+        "address": "靜安路一段１８３號",
+        "neighborhood": "中民里",
+        "location": {
+            "lat": 25.0068677,
+            "lng": 121.6526497
+        }
+    },
+    {
+        "name": "永定國小",
+        "address": "靜安路一段２４５號",
+        "neighborhood": "永定里",
+        "location": {
+            "lat": 25.0068677,
+            "lng": 121.6526497
+        }
+    },
+    {
+        "name": "光明市民活動中心",
+        "address": "光明路１２之１號",
+        "neighborhood": "光明里",
+        "location": {
+            "lat": 25.0319259,
+            "lng": 121.6848815
+        }
+    },
+    {
+        "name": "永安里活動中心",
+        "address": "北宜路六段直潭巷２５號",
+        "neighborhood": "永安里",
+        "location": {
+            "lat": 24.9530873,
+            "lng": 121.6338766
+        }
+    },
+    {
+        "name": "格頭市民活動中心",
+        "address": "北宜路五段３號",
+        "neighborhood": "格頭里",
+        "location": {
+            "lat": 24.9535657,
+            "lng": 121.6350782
+        }
+    }
+]

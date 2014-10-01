@@ -1,0 +1,52 @@
+[
+    {
+        "name": "德茂社區活動中心",
+        "address": "下員坑３２７之６號地下３樓",
+        "neighborhood": "德茂里"
+    },
+    {
+        "name": "富基市民活動中心",
+        "address": "楓林３７之６號",
+        "neighborhood": "富基里"
+    },
+    {
+        "name": "老梅市民活動中心",
+        "address": "老梅路４３號3樓",
+        "neighborhood": "老梅里"
+    },
+    {
+        "name": "老人休閒活動中心",
+        "address": "老梅里公地４４號",
+        "neighborhood": "老梅里"
+    },
+    {
+        "name": "山溪市民活動中心",
+        "address": "老崩山６之５號",
+        "neighborhood": "山溪里"
+    },
+    {
+        "name": "石門國中(七年忠班)",
+        "address": "中央路１之９號",
+        "neighborhood": "石門里"
+    },
+    {
+        "name": "尖鹿市民活動中心",
+        "address": "中央路９之３號",
+        "neighborhood": "尖鹿里"
+    },
+    {
+        "name": "妙濟寺",
+        "address": "內阿里磅１號",
+        "neighborhood": "乾華里"
+    },
+    {
+        "name": "茂林市民活動中心",
+        "address": "茂林社區１之１號",
+        "neighborhood": "茂林里"
+    },
+    {
+        "name": "草里市民活動中心",
+        "address": "阿里荖３３之１號３樓",
+        "neighborhood": "草里里"
+    }
+]

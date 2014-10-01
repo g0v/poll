@@ -1,0 +1,2108 @@
+[
+    {
+        "name": "穀保家商（進德樓111教室）",
+        "address": "中正北路５６０巷３８號",
+        "neighborhood": "大有里",
+        "location": {
+            "lat": 25.0693313,
+            "lng": 121.4710028
+        }
+    },
+    {
+        "name": "穀保家商（進德樓112教室）",
+        "address": "中正北路５６０巷３８號",
+        "neighborhood": "大有里",
+        "location": {
+            "lat": 25.0693313,
+            "lng": 121.4710028
+        }
+    },
+    {
+        "name": "穀保家商（進德樓113教室）",
+        "address": "中正北路５６０巷３８號",
+        "neighborhood": "大有里",
+        "location": {
+            "lat": 25.0693313,
+            "lng": 121.4710028
+        }
+    },
+    {
+        "name": "二重國小（133教室）",
+        "address": "大有街１０號",
+        "neighborhood": "博愛里",
+        "location": {
+            "lat": 25.0657511,
+            "lng": 121.477679
+        }
+    },
+    {
+        "name": "二重國小（135教室）",
+        "address": "大有街１０號",
+        "neighborhood": "博愛里",
+        "location": {
+            "lat": 25.0657511,
+            "lng": 121.477679
+        }
+    },
+    {
+        "name": "二重國小(136教室)",
+        "address": "大有街１０號",
+        "neighborhood": "博愛里",
+        "location": {
+            "lat": 25.0657511,
+            "lng": 121.477679
+        }
+    },
+    {
+        "name": "二重國小(137教室)",
+        "address": "大有街１０號",
+        "neighborhood": "二重里",
+        "location": {
+            "lat": 25.0657511,
+            "lng": 121.477679
+        }
+    },
+    {
+        "name": "中山橋市民活動中心",
+        "address": "光復路二段１７０號",
+        "neighborhood": "頂崁里",
+        "location": {
+            "lat": 25.061665,
+            "lng": 121.471427
+        }
+    },
+    {
+        "name": "中山橋市民活動中心",
+        "address": "光復路二段１７０號",
+        "neighborhood": "頂崁里",
+        "location": {
+            "lat": 25.061665,
+            "lng": 121.471427
+        }
+    },
+    {
+        "name": "清傳商職（商二忠）",
+        "address": "五谷王北街１４１巷１號",
+        "neighborhood": "谷王里",
+        "location": {
+            "lat": 25.052015,
+            "lng": 121.4768405
+        }
+    },
+    {
+        "name": "興穀國小（113教室）",
+        "address": "五谷王北街４６號",
+        "neighborhood": "五谷里",
+        "location": {
+            "lat": 25.0501777,
+            "lng": 121.4756585
+        }
+    },
+    {
+        "name": "興穀國小（117教室）",
+        "address": "五谷王北街４６號",
+        "neighborhood": "五谷里",
+        "location": {
+            "lat": 25.0501777,
+            "lng": 121.4756585
+        }
+    },
+    {
+        "name": "興德祠",
+        "address": "中興北街臨４０之２號",
+        "neighborhood": "中興里",
+        "location": {
+            "lat": 25.054726,
+            "lng": 121.4690012
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "中興南街３４號",
+        "neighborhood": "中興里",
+        "location": {
+            "lat": 25.044785,
+            "lng": 121.470463
+        }
+    },
+    {
+        "name": "重新橋第2市民活動中心",
+        "address": "重新路五段２８３號",
+        "neighborhood": "德厚里",
+        "location": {
+            "lat": 25.0475284,
+            "lng": 121.4750427
+        }
+    },
+    {
+        "name": "三重高中（綜合大樓一仁教室）",
+        "address": "集美街２１２號",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0547411,
+            "lng": 121.4914967
+        }
+    },
+    {
+        "name": "三重高中（綜合大樓一愛教室）",
+        "address": "集美街２１２號",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0547411,
+            "lng": 121.4914967
+        }
+    },
+    {
+        "name": "中興橋市民活動中心",
+        "address": "成功路９號之１",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0504899,
+            "lng": 121.490609
+        }
+    },
+    {
+        "name": "中興橋市民活動中心",
+        "address": "成功路９號之１",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0504899,
+            "lng": 121.490609
+        }
+    },
+    {
+        "name": "集美國小（101教室）",
+        "address": "集美街１０號",
+        "neighborhood": "福祉里",
+        "location": {
+            "lat": 25.0564706,
+            "lng": 121.4879933
+        }
+    },
+    {
+        "name": "集美國小（103教室）",
+        "address": "集美街１０號",
+        "neighborhood": "福祉里",
+        "location": {
+            "lat": 25.0564706,
+            "lng": 121.4879933
+        }
+    },
+    {
+        "name": "集美國小（104教室）",
+        "address": "集美街１０號",
+        "neighborhood": "福祉里",
+        "location": {
+            "lat": 25.0564706,
+            "lng": 121.4879933
+        }
+    },
+    {
+        "name": "重新橋第1市民活動中心",
+        "address": "重新路四段２５４之１號",
+        "neighborhood": "福德里",
+        "location": {
+            "lat": 25.053229,
+            "lng": 121.485779
+        }
+    },
+    {
+        "name": "重新橋第1市民活動中心",
+        "address": "重新路四段２５４之１號",
+        "neighborhood": "福德里",
+        "location": {
+            "lat": 25.053229,
+            "lng": 121.485779
+        }
+    },
+    {
+        "name": "三重高中（至聖樓三體教室）",
+        "address": "集美街２１２號",
+        "neighborhood": "福民里",
+        "location": {
+            "lat": 25.0547411,
+            "lng": 121.4914967
+        }
+    },
+    {
+        "name": "三重高中（至聖樓二體教室）",
+        "address": "集美街２１２號",
+        "neighborhood": "福民里",
+        "location": {
+            "lat": 25.0547411,
+            "lng": 121.4914967
+        }
+    },
+    {
+        "name": "過圳市民活動中心",
+        "address": "過圳街１９號",
+        "neighborhood": "過田里",
+        "location": {
+            "lat": 25.0601787,
+            "lng": 121.4882211
+        }
+    },
+    {
+        "name": "過圳市民活動中心",
+        "address": "過圳街１９號",
+        "neighborhood": "過田里",
+        "location": {
+            "lat": 25.0601787,
+            "lng": 121.4882211
+        }
+    },
+    {
+        "name": "過圳市民活動中心",
+        "address": "過圳街１９號",
+        "neighborhood": "過田里",
+        "location": {
+            "lat": 25.0601787,
+            "lng": 121.4882211
+        }
+    },
+    {
+        "name": "過圳市民活動中心",
+        "address": "過圳街１９號",
+        "neighborhood": "過田里",
+        "location": {
+            "lat": 25.0601787,
+            "lng": 121.4882211
+        }
+    },
+    {
+        "name": "明志國中(701教室)",
+        "address": "中正北路１０７號",
+        "neighborhood": "錦田里",
+        "location": {
+            "lat": 25.0634787,
+            "lng": 121.4890227
+        }
+    },
+    {
+        "name": "明志國中(801教室)",
+        "address": "中正北路１０７號",
+        "neighborhood": "錦田里",
+        "location": {
+            "lat": 25.0634787,
+            "lng": 121.4890227
+        }
+    },
+    {
+        "name": "清聖宮",
+        "address": "重陽路一段２０巷１０號",
+        "neighborhood": "重明里",
+        "location": {
+            "lat": 25.057565,
+            "lng": 121.486322
+        }
+    },
+    {
+        "name": "重陽市民活動中心",
+        "address": "重陽路一段６０巷１０１號",
+        "neighborhood": "重明里",
+        "location": {
+            "lat": 25.059562,
+            "lng": 121.4868817
+        }
+    },
+    {
+        "name": "興華市民活動中心",
+        "address": "中華路５號",
+        "neighborhood": "光田里",
+        "location": {
+            "lat": 25.060222,
+            "lng": 121.483396
+        }
+    },
+    {
+        "name": "興華市民活動中心",
+        "address": "中華路５號",
+        "neighborhood": "光田里",
+        "location": {
+            "lat": 25.060222,
+            "lng": 121.483396
+        }
+    },
+    {
+        "name": "護山宮",
+        "address": "三陽路１１號",
+        "neighborhood": "光田里",
+        "location": {
+            "lat": 25.0589569,
+            "lng": 121.486165
+        }
+    },
+    {
+        "name": "山口廟",
+        "address": "中華路２巷３１弄１０號",
+        "neighborhood": "光陽里",
+        "location": {
+            "lat": 25.060268,
+            "lng": 121.482654
+        }
+    },
+    {
+        "name": "興華市民活動中心",
+        "address": "中華路５號",
+        "neighborhood": "光陽里",
+        "location": {
+            "lat": 25.060222,
+            "lng": 121.483396
+        }
+    },
+    {
+        "name": "重陽市民活動中心",
+        "address": "重陽路一段６０巷１０１號",
+        "neighborhood": "光陽里",
+        "location": {
+            "lat": 25.059562,
+            "lng": 121.4868817
+        }
+    },
+    {
+        "name": "重陽市民活動中心",
+        "address": "重陽路一段６０巷１０１號",
+        "neighborhood": "光陽里",
+        "location": {
+            "lat": 25.059562,
+            "lng": 121.4868817
+        }
+    },
+    {
+        "name": "聯邦市民活動中心",
+        "address": "中華路１２５號",
+        "neighborhood": "田心里",
+        "location": {
+            "lat": 25.0640299,
+            "lng": 121.483702
+        }
+    },
+    {
+        "name": "私立智仁幼兒園（視聽室）",
+        "address": "洛陽街５３號",
+        "neighborhood": "田心里",
+        "location": {
+            "lat": 25.0474919,
+            "lng": 121.508079
+        }
+    },
+    {
+        "name": "二重國中（712教室）",
+        "address": "忠孝路三段８９號",
+        "neighborhood": "田心里",
+        "location": {
+            "lat": 25.0656964,
+            "lng": 121.4803284
+        }
+    },
+    {
+        "name": "福田市民活動中心",
+        "address": "三民街２５６號",
+        "neighborhood": "福田里",
+        "location": {
+            "lat": 25.0676085,
+            "lng": 121.47976
+        }
+    },
+    {
+        "name": "福田市民活動中心",
+        "address": "三民街２５６號",
+        "neighborhood": "福田里",
+        "location": {
+            "lat": 25.0676085,
+            "lng": 121.47976
+        }
+    },
+    {
+        "name": "三民市民活動中心",
+        "address": "忠孝路三段４０巷５１號",
+        "neighborhood": "田中里",
+        "location": {
+            "lat": 25.065531,
+            "lng": 121.483024
+        }
+    },
+    {
+        "name": "三民市民活動中心",
+        "address": "忠孝路三段４０巷５１號",
+        "neighborhood": "田中里",
+        "location": {
+            "lat": 25.065531,
+            "lng": 121.483024
+        }
+    },
+    {
+        "name": "二重國中（812教室）",
+        "address": "忠孝路三段８９號",
+        "neighborhood": "田中里",
+        "location": {
+            "lat": 25.0656964,
+            "lng": 121.4803284
+        }
+    },
+    {
+        "name": "二重國中（健促教室）",
+        "address": "忠孝路三段８９號",
+        "neighborhood": "田中里",
+        "location": {
+            "lat": 25.0656964,
+            "lng": 121.4803284
+        }
+    },
+    {
+        "name": "私立來來幼兒園",
+        "address": "中華路４９號",
+        "neighborhood": "田安里",
+        "location": {
+            "lat": 25.061775,
+            "lng": 121.483833
+        }
+    },
+    {
+        "name": "首都巨星大廈會議室",
+        "address": "中華路４９號",
+        "neighborhood": "田安里",
+        "location": {
+            "lat": 25.061775,
+            "lng": 121.483833
+        }
+    },
+    {
+        "name": "私立智仁幼兒園",
+        "address": "洛陽街５３號",
+        "neighborhood": "田安里",
+        "location": {
+            "lat": 25.0474919,
+            "lng": 121.508079
+        }
+    },
+    {
+        "name": "明志國中",
+        "address": "中正北路１０７號",
+        "neighborhood": "三民里",
+        "location": {
+            "lat": 25.0634787,
+            "lng": 121.4890227
+        }
+    },
+    {
+        "name": "明志國中",
+        "address": "中正北路１０７號",
+        "neighborhood": "三民里",
+        "location": {
+            "lat": 25.0634787,
+            "lng": 121.4890227
+        }
+    },
+    {
+        "name": "三重高中（至聖樓一平教室）",
+        "address": "集美街２１２號",
+        "neighborhood": "光明里",
+        "location": {
+            "lat": 25.0547411,
+            "lng": 121.4914967
+        }
+    },
+    {
+        "name": "三重高中（至聖樓一真教室）",
+        "address": "集美街２１２號",
+        "neighborhood": "光明里",
+        "location": {
+            "lat": 25.0547411,
+            "lng": 121.4914967
+        }
+    },
+    {
+        "name": "三重高中（至聖樓一美教室）",
+        "address": "集美街２１２號",
+        "neighborhood": "光明里",
+        "location": {
+            "lat": 25.0547411,
+            "lng": 121.4914967
+        }
+    },
+    {
+        "name": "三重高中（至聖樓一體教室）",
+        "address": "集美街２１２號",
+        "neighborhood": "光明里",
+        "location": {
+            "lat": 25.0547411,
+            "lng": 121.4914967
+        }
+    },
+    {
+        "name": "昭安宮",
+        "address": "集美街２０７巷２９號",
+        "neighborhood": "光正里",
+        "location": {
+            "lat": 25.055767,
+            "lng": 121.487856
+        }
+    },
+    {
+        "name": "三光國小（110教室）",
+        "address": "大同南路１５７號",
+        "neighborhood": "同安里",
+        "location": {
+            "lat": 25.0563509,
+            "lng": 121.4966397
+        }
+    },
+    {
+        "name": "三光國小（111教室）",
+        "address": "大同南路１５７號",
+        "neighborhood": "同慶里",
+        "location": {
+            "lat": 25.0563509,
+            "lng": 121.4966397
+        }
+    },
+    {
+        "name": "菜寮市民活動中心",
+        "address": "中寮街５７巷１８號",
+        "neighborhood": "菜寮里",
+        "location": {
+            "lat": 25.0579178,
+            "lng": 121.4926596
+        }
+    },
+    {
+        "name": "菜寮市民活動中心",
+        "address": "中寮街５７巷１８號",
+        "neighborhood": "菜寮里",
+        "location": {
+            "lat": 25.0579178,
+            "lng": 121.4926596
+        }
+    },
+    {
+        "name": "三千宮",
+        "address": "光明路１０２號",
+        "neighborhood": "永春里",
+        "location": {
+            "lat": 25.0564739,
+            "lng": 121.4926189
+        }
+    },
+    {
+        "name": "重新長老教會",
+        "address": "中寮街１６巷２３號",
+        "neighborhood": "中正里",
+        "location": {
+            "lat": 25.0597725,
+            "lng": 121.4927928
+        }
+    },
+    {
+        "name": "菜寮市民活動中心",
+        "address": "中寮街５７巷１８號",
+        "neighborhood": "吉利里",
+        "location": {
+            "lat": 25.0579178,
+            "lng": 121.4926596
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "重新路三段６０巷１０弄２３號",
+        "neighborhood": "大同里",
+        "location": {
+            "lat": 25.0606407,
+            "lng": 121.4947473
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "中正南路５２巷１７號",
+        "neighborhood": "中民里",
+        "location": {
+            "lat": 25.0601852,
+            "lng": 121.4945856
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "電信街９９號",
+        "neighborhood": "平和里",
+        "location": {
+            "lat": 25.0583184,
+            "lng": 121.4963592
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "大同南路１１７巷６９號",
+        "neighborhood": "大安里",
+        "location": {
+            "lat": 25.0579732,
+            "lng": 121.4948687
+        }
+    },
+    {
+        "name": "光興國小（114教室）",
+        "address": "正義南路６２號",
+        "neighborhood": "仁德里",
+        "location": {
+            "lat": 25.0590567,
+            "lng": 121.4987847
+        }
+    },
+    {
+        "name": "光興國小（116教室）",
+        "address": "正義南路６２號",
+        "neighborhood": "仁德里",
+        "location": {
+            "lat": 25.0590567,
+            "lng": 121.4987847
+        }
+    },
+    {
+        "name": "海清宮",
+        "address": "正義南路８９巷２９號",
+        "neighborhood": "忠孝里",
+        "location": {
+            "lat": 25.0596813,
+            "lng": 121.4973393
+        }
+    },
+    {
+        "name": "光興閱覽室",
+        "address": "正義南路６２號之１",
+        "neighborhood": "仁義里",
+        "location": {
+            "lat": 25.0590567,
+            "lng": 121.4987847
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "福裕街４７號",
+        "neighborhood": "光榮里",
+        "location": {
+            "lat": 25.0616391,
+            "lng": 121.4988107
+        }
+    },
+    {
+        "name": "光興國小（幼稚園餐廳）",
+        "address": "正義南路６２號",
+        "neighborhood": "光輝里",
+        "location": {
+            "lat": 25.0590567,
+            "lng": 121.4987847
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "文化南路１０巷７號",
+        "neighborhood": "福星里",
+        "location": {
+            "lat": 25.0619569,
+            "lng": 121.5005632
+        }
+    },
+    {
+        "name": "光興國小（106教室）",
+        "address": "正義南路６２號",
+        "neighborhood": "福利里",
+        "location": {
+            "lat": 25.0590567,
+            "lng": 121.4987847
+        }
+    },
+    {
+        "name": "光興國小（104教室）",
+        "address": "正義南路６２號",
+        "neighborhood": "福利里",
+        "location": {
+            "lat": 25.0590567,
+            "lng": 121.4987847
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "中央南路４２號",
+        "neighborhood": "清和里",
+        "location": {
+            "lat": 25.0620602,
+            "lng": 121.5014997
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "福和街２３號",
+        "neighborhood": "清和里",
+        "location": {
+            "lat": 25.0617948,
+            "lng": 121.5020003
+        }
+    },
+    {
+        "name": "臺北橋市民活動中心",
+        "address": "重新路一段１之１號對面（臺北橋下橋孔）",
+        "neighborhood": "永興里",
+        "location": {
+            "lat": 25.0644272,
+            "lng": 121.5037157
+        }
+    },
+    {
+        "name": "正義國小（102教室）",
+        "address": "信義西街３１號",
+        "neighborhood": "中山里",
+        "location": {
+            "lat": 25.0645537,
+            "lng": 121.4961518
+        }
+    },
+    {
+        "name": "正義國小（103教室）",
+        "address": "信義西街３１號",
+        "neighborhood": "中山里",
+        "location": {
+            "lat": 25.0645537,
+            "lng": 121.4961518
+        }
+    },
+    {
+        "name": "正義國小（104教室）",
+        "address": "信義西街３１號",
+        "neighborhood": "大園里",
+        "location": {
+            "lat": 25.0645537,
+            "lng": 121.4961518
+        }
+    },
+    {
+        "name": "正義國小（105教室）",
+        "address": "信義西街３１號",
+        "neighborhood": "大園里",
+        "location": {
+            "lat": 25.0645537,
+            "lng": 121.4961518
+        }
+    },
+    {
+        "name": "南聖宮",
+        "address": "大仁街２７號",
+        "neighborhood": "國隆里",
+        "location": {
+            "lat": 25.0649792,
+            "lng": 121.4923971
+        }
+    },
+    {
+        "name": "南聖宮會議室",
+        "address": "大仁街２７號",
+        "neighborhood": "國隆里",
+        "location": {
+            "lat": 25.0649792,
+            "lng": 121.4923971
+        }
+    },
+    {
+        "name": "明志國中",
+        "address": "中正北路１０７號",
+        "neighborhood": "重陽里",
+        "location": {
+            "lat": 25.0634787,
+            "lng": 121.4890227
+        }
+    },
+    {
+        "name": "明志國中",
+        "address": "中正北路１０７號",
+        "neighborhood": "重陽里",
+        "location": {
+            "lat": 25.0634787,
+            "lng": 121.4890227
+        }
+    },
+    {
+        "name": "修德國小（101教室）",
+        "address": "重陽路三段３號",
+        "neighborhood": "民生里",
+        "location": {
+            "lat": 25.06579,
+            "lng": 121.4898282
+        }
+    },
+    {
+        "name": "大同市民活動中心",
+        "address": "大同北路１８６號",
+        "neighborhood": "民生里",
+        "location": {
+            "lat": 25.0663418,
+            "lng": 121.4906846
+        }
+    },
+    {
+        "name": "修德國小（103教室）",
+        "address": "重陽路三段３號",
+        "neighborhood": "民生里",
+        "location": {
+            "lat": 25.06579,
+            "lng": 121.4898282
+        }
+    },
+    {
+        "name": "重新里活動中心",
+        "address": "正義北路２８巷４０號",
+        "neighborhood": "重新里",
+        "location": {
+            "lat": 25.0630585,
+            "lng": 121.4963635
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "正義北路４８巷２６號",
+        "neighborhood": "正德里",
+        "location": {
+            "lat": 25.0635818,
+            "lng": 121.4965948
+        }
+    },
+    {
+        "name": "正義國小（111教室）",
+        "address": "信義西街３１號",
+        "neighborhood": "正義里",
+        "location": {
+            "lat": 25.0645537,
+            "lng": 121.4961518
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "長壽西街７７號",
+        "neighborhood": "正安里",
+        "location": {
+            "lat": 25.0671299,
+            "lng": 121.495275
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "雙園街５７巷６號",
+        "neighborhood": "自強里",
+        "location": {
+            "lat": 25.0676783,
+            "lng": 121.4946676
+        }
+    },
+    {
+        "name": "信義長青中心",
+        "address": "信義西街１號",
+        "neighborhood": "文化里",
+        "location": {
+            "lat": 25.06482,
+            "lng": 121.498013
+        }
+    },
+    {
+        "name": "信義長青中心",
+        "address": "信義西街１號",
+        "neighborhood": "文化里",
+        "location": {
+            "lat": 25.06482,
+            "lng": 121.498013
+        }
+    },
+    {
+        "name": "正義國小（113教室）",
+        "address": "信義西街３１號",
+        "neighborhood": "中央里",
+        "location": {
+            "lat": 25.0645537,
+            "lng": 121.4961518
+        }
+    },
+    {
+        "name": "正義市民活動中心",
+        "address": "雙園街１號",
+        "neighborhood": "雙園里",
+        "location": {
+            "lat": 25.0683434,
+            "lng": 121.497512
+        }
+    },
+    {
+        "name": "慈惠宮會議室",
+        "address": "文化北路１７號",
+        "neighborhood": "錦通里",
+        "location": {
+            "lat": 25.063599,
+            "lng": 121.499952
+        }
+    },
+    {
+        "name": "正義國小（114教室）",
+        "address": "信義西街３１號",
+        "neighborhood": "錦安里",
+        "location": {
+            "lat": 25.0645537,
+            "lng": 121.4961518
+        }
+    },
+    {
+        "name": "正義國小（115教室）",
+        "address": "信義西街３１號",
+        "neighborhood": "錦安里",
+        "location": {
+            "lat": 25.0645537,
+            "lng": 121.4961518
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "長安街４１號",
+        "neighborhood": "長安里",
+        "location": {
+            "lat": 25.0669127,
+            "lng": 121.4996669
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "長安街３７號",
+        "neighborhood": "長安里",
+        "location": {
+            "lat": 25.0668899,
+            "lng": 121.4995594
+        }
+    },
+    {
+        "name": "重新市場4樓（臺北同修會）",
+        "address": "重新路一段８７號４樓",
+        "neighborhood": "光華里",
+        "location": {
+            "lat": 25.0635838,
+            "lng": 121.5012102
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "長生街６５號",
+        "neighborhood": "長生里",
+        "location": {
+            "lat": 25.0666866,
+            "lng": 121.500939
+        }
+    },
+    {
+        "name": "開元市民活動中心",
+        "address": "開元街１號",
+        "neighborhood": "開元里",
+        "location": {
+            "lat": 25.0807024,
+            "lng": 121.4973059
+        }
+    },
+    {
+        "name": "臺北橋市民活動中心",
+        "address": "重新路一段１之１號對面（臺北橋下橋孔）",
+        "neighborhood": "大德里",
+        "location": {
+            "lat": 25.0644272,
+            "lng": 121.5037157
+        }
+    },
+    {
+        "name": "福安宮",
+        "address": "長元街８４號",
+        "neighborhood": "長元里",
+        "location": {
+            "lat": 25.066628,
+            "lng": 121.501934
+        }
+    },
+    {
+        "name": "三重龍門社區（社區通道）",
+        "address": "長安街９８號旁",
+        "neighborhood": "長元里",
+        "location": {
+            "lat": 25.0676757,
+            "lng": 121.5020855
+        }
+    },
+    {
+        "name": "開元市民活動中心",
+        "address": "開元街１號",
+        "neighborhood": "長江里",
+        "location": {
+            "lat": 25.0807024,
+            "lng": 121.4973059
+        }
+    },
+    {
+        "name": "光榮國中（一忠教室）",
+        "address": "介壽路２６號",
+        "neighborhood": "長泰里",
+        "location": {
+            "lat": 25.0704534,
+            "lng": 121.4999178
+        }
+    },
+    {
+        "name": "光榮國中（三忠教室）",
+        "address": "介壽路２６號",
+        "neighborhood": "長泰里",
+        "location": {
+            "lat": 25.0704534,
+            "lng": 121.4999178
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "河邊北街９６號",
+        "neighborhood": "長福里",
+        "location": {
+            "lat": 25.0695999,
+            "lng": 121.50383
+        }
+    },
+    {
+        "name": "三重國小（3114教室）",
+        "address": "三和路三段１號",
+        "neighborhood": "介壽里",
+        "location": {
+            "lat": 25.0699908,
+            "lng": 121.4981736
+        }
+    },
+    {
+        "name": "光榮國小（1年2班教室）",
+        "address": "介壽路３２號",
+        "neighborhood": "萬壽里",
+        "location": {
+            "lat": 25.0708471,
+            "lng": 121.5013491
+        }
+    },
+    {
+        "name": "光榮國小（1年4班教室）",
+        "address": "介壽路３２號",
+        "neighborhood": "萬壽里",
+        "location": {
+            "lat": 25.0708471,
+            "lng": 121.5013491
+        }
+    },
+    {
+        "name": "光榮國小（5年1班教室）",
+        "address": "介壽路３２號",
+        "neighborhood": "錦江里",
+        "location": {
+            "lat": 25.0708471,
+            "lng": 121.5013491
+        }
+    },
+    {
+        "name": "光榮國小（5年3班教室）",
+        "address": "介壽路３２號",
+        "neighborhood": "錦江里",
+        "location": {
+            "lat": 25.0708471,
+            "lng": 121.5013491
+        }
+    },
+    {
+        "name": "龍濱市民活動中心",
+        "address": "秀江街２８號",
+        "neighborhood": "龍濱里",
+        "location": {
+            "lat": 25.0729808,
+            "lng": 121.5023704
+        }
+    },
+    {
+        "name": "龍濱市民活動中心",
+        "address": "秀江街２８號",
+        "neighborhood": "龍濱里",
+        "location": {
+            "lat": 25.0729808,
+            "lng": 121.5023704
+        }
+    },
+    {
+        "name": "光榮國中（911教室）",
+        "address": "介壽路２６號",
+        "neighborhood": "龍門里",
+        "location": {
+            "lat": 25.0704534,
+            "lng": 121.4999178
+        }
+    },
+    {
+        "name": "光榮國中（812教室）",
+        "address": "介壽路２６號",
+        "neighborhood": "秀江里",
+        "location": {
+            "lat": 25.0704534,
+            "lng": 121.4999178
+        }
+    },
+    {
+        "name": "三重國小（3110教室）",
+        "address": "三和路三段１號",
+        "neighborhood": "奕壽里",
+        "location": {
+            "lat": 25.0699908,
+            "lng": 121.4981736
+        }
+    },
+    {
+        "name": "三重國小（3112教室）",
+        "address": "三和路三段１號",
+        "neighborhood": "三安里",
+        "location": {
+            "lat": 25.0699908,
+            "lng": 121.4981736
+        }
+    },
+    {
+        "name": "三重國小（3113教室）",
+        "address": "三和路三段１號",
+        "neighborhood": "三安里",
+        "location": {
+            "lat": 25.0699908,
+            "lng": 121.4981736
+        }
+    },
+    {
+        "name": "六張市民活動中心",
+        "address": "六張街６６號",
+        "neighborhood": "福安里",
+        "location": {
+            "lat": 25.0702882,
+            "lng": 121.4940899
+        }
+    },
+    {
+        "name": "福安市民活動中心",
+        "address": "六張街７３號",
+        "neighborhood": "福安里",
+        "location": {
+            "lat": 25.0702874,
+            "lng": 121.4934963
+        }
+    },
+    {
+        "name": "厚德國小(忠孝樓1樓A1-4教室)",
+        "address": "忠孝路一段７０號",
+        "neighborhood": "信安里",
+        "location": {
+            "lat": 25.0718585,
+            "lng": 121.4885912
+        }
+    },
+    {
+        "name": "民宅(車庫)",
+        "address": "雙園街５７巷２９號",
+        "neighborhood": "安慶里",
+        "location": {
+            "lat": 25.068512,
+            "lng": 121.494815
+        }
+    },
+    {
+        "name": "六張市民活動中心",
+        "address": "六張街６６號",
+        "neighborhood": "安慶里",
+        "location": {
+            "lat": 25.0702882,
+            "lng": 121.4940899
+        }
+    },
+    {
+        "name": "修德國小(105教室)",
+        "address": "重陽路三段３號",
+        "neighborhood": "幸福里",
+        "location": {
+            "lat": 25.06579,
+            "lng": 121.4898282
+        }
+    },
+    {
+        "name": "修德國小(301教室)",
+        "address": "重陽路三段３號",
+        "neighborhood": "幸福里",
+        "location": {
+            "lat": 25.06579,
+            "lng": 121.4898282
+        }
+    },
+    {
+        "name": "六合市民活動中心",
+        "address": "自強路二段５０巷２２號",
+        "neighborhood": "幸福里",
+        "location": {
+            "lat": 25.0691615,
+            "lng": 121.4882606
+        }
+    },
+    {
+        "name": "六合市民活動中心",
+        "address": "自強路二段５０巷２２號",
+        "neighborhood": "六合里",
+        "location": {
+            "lat": 25.0691615,
+            "lng": 121.4882606
+        }
+    },
+    {
+        "name": "六合市民活動中心",
+        "address": "自強路二段５０巷２２號",
+        "neighborhood": "六合里",
+        "location": {
+            "lat": 25.0691615,
+            "lng": 121.4882606
+        }
+    },
+    {
+        "name": "重陽國小(102教室)",
+        "address": "中正北路１１３號",
+        "neighborhood": "六福里",
+        "location": {
+            "lat": 25.066668,
+            "lng": 121.4839082
+        }
+    },
+    {
+        "name": "重陽國小(106教室)",
+        "address": "中正北路１１３號",
+        "neighborhood": "六福里",
+        "location": {
+            "lat": 25.066668,
+            "lng": 121.4839082
+        }
+    },
+    {
+        "name": "重陽國小(114教室)",
+        "address": "中正北路１１３號",
+        "neighborhood": "六福里",
+        "location": {
+            "lat": 25.066668,
+            "lng": 121.4839082
+        }
+    },
+    {
+        "name": "三德市民活動中心",
+        "address": "龍門路２７４巷３６號",
+        "neighborhood": "順德里",
+        "location": {
+            "lat": 25.0751904,
+            "lng": 121.5009721
+        }
+    },
+    {
+        "name": "三德市民活動中心",
+        "address": "龍門路２７４巷３６號",
+        "neighborhood": "順德里",
+        "location": {
+            "lat": 25.0751904,
+            "lng": 121.5009721
+        }
+    },
+    {
+        "name": "三德市民活動中心",
+        "address": "龍門路２７４巷３６號",
+        "neighborhood": "承德里",
+        "location": {
+            "lat": 25.0751904,
+            "lng": 121.5009721
+        }
+    },
+    {
+        "name": "市立幼兒園崇德分班(公共空間)",
+        "address": "仁孝街６２號",
+        "neighborhood": "瑞德里",
+        "location": {
+            "lat": 25.0746292,
+            "lng": 121.497257
+        }
+    },
+    {
+        "name": "慈雲宮",
+        "address": "仁興街４２巷１２號",
+        "neighborhood": "瑞德里",
+        "location": {
+            "lat": 25.0753776,
+            "lng": 121.4983857
+        }
+    },
+    {
+        "name": "市立幼兒園崇德分班(大班)",
+        "address": "仁孝街６２號",
+        "neighborhood": "崇德里",
+        "location": {
+            "lat": 25.0746292,
+            "lng": 121.497257
+        }
+    },
+    {
+        "name": "市立幼兒園崇德分班(辦公室)",
+        "address": "仁孝街６２號",
+        "neighborhood": "崇德里",
+        "location": {
+            "lat": 25.0746292,
+            "lng": 121.497257
+        }
+    },
+    {
+        "name": "玄?慈惠堂",
+        "address": "仁愛街７７號",
+        "neighborhood": "崇德里",
+        "location": {
+            "lat": 25.073067,
+            "lng": 121.496204
+        }
+    },
+    {
+        "name": "市立幼兒園厚德分班",
+        "address": "忠孝路一段２１巷７號",
+        "neighborhood": "厚德里",
+        "location": {
+            "lat": 25.072542,
+            "lng": 121.4918577
+        }
+    },
+    {
+        "name": "厚德市民活動中心",
+        "address": "三和路三段１７０巷４９號",
+        "neighborhood": "厚德里",
+        "location": {
+            "lat": 25.07273,
+            "lng": 121.490812
+        }
+    },
+    {
+        "name": "民宅(車庫)",
+        "address": "三和路三段１２５巷３１號旁車庫",
+        "neighborhood": "維德里",
+        "location": {
+            "lat": 25.0735307,
+            "lng": 121.4937977
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "溪尾街５巷２７號",
+        "neighborhood": "維德里",
+        "location": {
+            "lat": 25.0744888,
+            "lng": 121.4927859
+        }
+    },
+    {
+        "name": "德林寺",
+        "address": "三和路三段８５號",
+        "neighborhood": "尚德里",
+        "location": {
+            "lat": 25.072308,
+            "lng": 121.494905
+        }
+    },
+    {
+        "name": "厚德國小(忠孝樓1樓A1-2教室)",
+        "address": "忠孝路一段７０號",
+        "neighborhood": "尚德里",
+        "location": {
+            "lat": 25.0718585,
+            "lng": 121.4885912
+        }
+    },
+    {
+        "name": "市立圖書館三重培德分館",
+        "address": "忠孝路二段３５號",
+        "neighborhood": "培德里",
+        "location": {
+            "lat": 25.071195,
+            "lng": 121.4862159
+        }
+    },
+    {
+        "name": "市立圖書館三重培德分館",
+        "address": "忠孝路二段３５號",
+        "neighborhood": "培德里",
+        "location": {
+            "lat": 25.071195,
+            "lng": 121.4862159
+        }
+    },
+    {
+        "name": "厚德體操館",
+        "address": "自強路二段９３號",
+        "neighborhood": "立德里",
+        "location": {
+            "lat": 25.070716,
+            "lng": 121.488418
+        }
+    },
+    {
+        "name": "平和市民活動中心",
+        "address": "自強路二段９０號",
+        "neighborhood": "立德里",
+        "location": {
+            "lat": 25.0706556,
+            "lng": 121.4878161
+        }
+    },
+    {
+        "name": "永德市民活動中心",
+        "address": "自強路三段４３巷２３號",
+        "neighborhood": "永德里",
+        "location": {
+            "lat": 25.0728203,
+            "lng": 121.4876819
+        }
+    },
+    {
+        "name": "後竹圍市民活動中心",
+        "address": "自強路三段４２巷１１號",
+        "neighborhood": "永德里",
+        "location": {
+            "lat": 25.072085,
+            "lng": 121.48726
+        }
+    },
+    {
+        "name": "後竹圍市民活動中心",
+        "address": "自強路三段４２巷１１號",
+        "neighborhood": "永德里",
+        "location": {
+            "lat": 25.072085,
+            "lng": 121.48726
+        }
+    },
+    {
+        "name": "民宅(車庫)",
+        "address": "車路頭街４４巷３２號",
+        "neighborhood": "永煇里",
+        "location": {
+            "lat": 25.0718756,
+            "lng": 121.4830139
+        }
+    },
+    {
+        "name": "六玄宮",
+        "address": "車路頭街７２巷１８號",
+        "neighborhood": "永煇里",
+        "location": {
+            "lat": 25.0728712,
+            "lng": 121.4835326
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "力行路一段１７８巷２４號",
+        "neighborhood": "永發里",
+        "location": {
+            "lat": 25.0713002,
+            "lng": 121.4811833
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "中正北路１９３巷２１弄２５號",
+        "neighborhood": "永發里",
+        "location": {
+            "lat": 25.0707189,
+            "lng": 121.47788
+        }
+    },
+    {
+        "name": "太璞宮(仙公廟)圖書室",
+        "address": "中正北路３１７巷１號",
+        "neighborhood": "永發里",
+        "location": {
+            "lat": 25.072205,
+            "lng": 121.474323
+        }
+    },
+    {
+        "name": "永盛市民活動中心",
+        "address": "車路頭街１３３號",
+        "neighborhood": "永盛里",
+        "location": {
+            "lat": 25.076315,
+            "lng": 121.484637
+        }
+    },
+    {
+        "name": "永盛市民活動中心",
+        "address": "車路頭街１３３號",
+        "neighborhood": "永盛里",
+        "location": {
+            "lat": 25.076315,
+            "lng": 121.484637
+        }
+    },
+    {
+        "name": "三和國中(828教室)",
+        "address": "三和路四段２１６號",
+        "neighborhood": "永吉里",
+        "location": {
+            "lat": 25.0763803,
+            "lng": 121.4868247
+        }
+    },
+    {
+        "name": "三和國中(830教室)",
+        "address": "三和路四段２１６號",
+        "neighborhood": "永吉里",
+        "location": {
+            "lat": 25.0763803,
+            "lng": 121.4868247
+        }
+    },
+    {
+        "name": "永安里民活動中心",
+        "address": "車路頭街１０８號",
+        "neighborhood": "永安里",
+        "location": {
+            "lat": 25.074901,
+            "lng": 121.484097
+        }
+    },
+    {
+        "name": "義天宮",
+        "address": "車路頭街１５０號",
+        "neighborhood": "永安里",
+        "location": {
+            "lat": 25.0764245,
+            "lng": 121.483793
+        }
+    },
+    {
+        "name": "永福國小(A107教室)",
+        "address": "永福街６６號",
+        "neighborhood": "永豐里",
+        "location": {
+            "lat": 25.0770435,
+            "lng": 121.4806326
+        }
+    },
+    {
+        "name": "永豐市民活動中心",
+        "address": "永福街１９７巷６之１號",
+        "neighborhood": "永豐里",
+        "location": {
+            "lat": 25.0746092,
+            "lng": 121.478258
+        }
+    },
+    {
+        "name": "永豐市民活動中心",
+        "address": "永福街１９７巷６之１號",
+        "neighborhood": "永豐里",
+        "location": {
+            "lat": 25.0746092,
+            "lng": 121.478258
+        }
+    },
+    {
+        "name": "義天宮",
+        "address": "車路頭街１５０號",
+        "neighborhood": "永福里",
+        "location": {
+            "lat": 25.0764245,
+            "lng": 121.483793
+        }
+    },
+    {
+        "name": "永福市民活動中心",
+        "address": "力行路二段１６２巷５５號",
+        "neighborhood": "永福里",
+        "location": {
+            "lat": 25.0765291,
+            "lng": 121.4810339
+        }
+    },
+    {
+        "name": "永福市民活動中心",
+        "address": "力行路二段１６２巷５５號",
+        "neighborhood": "永福里",
+        "location": {
+            "lat": 25.0765291,
+            "lng": 121.4810339
+        }
+    },
+    {
+        "name": "永福國小(A108教室)",
+        "address": "永福街６６號",
+        "neighborhood": "永清里",
+        "location": {
+            "lat": 25.0770435,
+            "lng": 121.4806326
+        }
+    },
+    {
+        "name": "永福國小(A109教室)",
+        "address": "永福街６６號",
+        "neighborhood": "永清里",
+        "location": {
+            "lat": 25.0770435,
+            "lng": 121.4806326
+        }
+    },
+    {
+        "name": "永福國小(A103教室)",
+        "address": "永福街６６號",
+        "neighborhood": "永清里",
+        "location": {
+            "lat": 25.0770435,
+            "lng": 121.4806326
+        }
+    },
+    {
+        "name": "永福國小(B102教室)",
+        "address": "永福街６６號",
+        "neighborhood": "永順里",
+        "location": {
+            "lat": 25.0770435,
+            "lng": 121.4806326
+        }
+    },
+    {
+        "name": "永福國小(B105教室)",
+        "address": "永福街６６號",
+        "neighborhood": "永順里",
+        "location": {
+            "lat": 25.0770435,
+            "lng": 121.4806326
+        }
+    },
+    {
+        "name": "永福國小(B106教室)",
+        "address": "永福街６６號",
+        "neighborhood": "永順里",
+        "location": {
+            "lat": 25.0770435,
+            "lng": 121.4806326
+        }
+    },
+    {
+        "name": "聖安宮",
+        "address": "仁政街４９號",
+        "neighborhood": "溪美里",
+        "location": {
+            "lat": 25.0771117,
+            "lng": 121.4931578
+        }
+    },
+    {
+        "name": "三重社會福利大樓",
+        "address": "溪尾街７３號",
+        "neighborhood": "溪美里",
+        "location": {
+            "lat": 25.0776935,
+            "lng": 121.4908498
+        }
+    },
+    {
+        "name": "聚善祠",
+        "address": "仁愛街２６６號",
+        "neighborhood": "溪美里",
+        "location": {
+            "lat": 25.078385,
+            "lng": 121.492924
+        }
+    },
+    {
+        "name": "三重社會福利大樓",
+        "address": "溪尾街７３號",
+        "neighborhood": "溪美里",
+        "location": {
+            "lat": 25.0776935,
+            "lng": 121.4908498
+        }
+    },
+    {
+        "name": "三和國中(927教室)",
+        "address": "三和路四段２１６號",
+        "neighborhood": "福隆里",
+        "location": {
+            "lat": 25.0763803,
+            "lng": 121.4868247
+        }
+    },
+    {
+        "name": "三和國中(928教室)",
+        "address": "三和路四段２１６號",
+        "neighborhood": "福隆里",
+        "location": {
+            "lat": 25.0763803,
+            "lng": 121.4868247
+        }
+    },
+    {
+        "name": "三和國中(929教室)",
+        "address": "三和路四段２１６號",
+        "neighborhood": "福隆里",
+        "location": {
+            "lat": 25.0763803,
+            "lng": 121.4868247
+        }
+    },
+    {
+        "name": "新北市立圖書館五常分館1樓",
+        "address": "五華街７巷３０號",
+        "neighborhood": "五常里",
+        "location": {
+            "lat": 25.08079,
+            "lng": 121.496026
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "仁愛街２６９巷３２號",
+        "neighborhood": "五常里",
+        "location": {
+            "lat": 25.0794563,
+            "lng": 121.4939882
+        }
+    },
+    {
+        "name": "新北市立圖書館五常分館1樓",
+        "address": "五華街７巷３０號",
+        "neighborhood": "五常里",
+        "location": {
+            "lat": 25.08079,
+            "lng": 121.496026
+        }
+    },
+    {
+        "name": "碧華國中(805班教室)",
+        "address": "自強路五段６６號",
+        "neighborhood": "五福里",
+        "location": {
+            "lat": 25.0823063,
+            "lng": 121.495165
+        }
+    },
+    {
+        "name": "碧華國中(815班教室)",
+        "address": "自強路五段６６號",
+        "neighborhood": "五福里",
+        "location": {
+            "lat": 25.0823063,
+            "lng": 121.495165
+        }
+    },
+    {
+        "name": "碧華國中(808班教室)",
+        "address": "自強路五段６６號",
+        "neighborhood": "仁忠里",
+        "location": {
+            "lat": 25.0823063,
+            "lng": 121.495165
+        }
+    },
+    {
+        "name": "碧華國中(907班教室)",
+        "address": "自強路五段６６號",
+        "neighborhood": "仁忠里",
+        "location": {
+            "lat": 25.0823063,
+            "lng": 121.495165
+        }
+    },
+    {
+        "name": "慈福臨時活動中心",
+        "address": "三和路四段１６７巷１１１號旁",
+        "neighborhood": "慈福里",
+        "location": {
+            "lat": 25.0800055,
+            "lng": 121.4872644
+        }
+    },
+    {
+        "name": "慈福臨時活動中心",
+        "address": "三和路四段１６３巷９２號旁",
+        "neighborhood": "慈福里",
+        "location": {
+            "lat": 25.0798735,
+            "lng": 121.4873354
+        }
+    },
+    {
+        "name": "慈生市民活動中心",
+        "address": "三和路四段１９１巷７８號",
+        "neighborhood": "慈生里",
+        "location": {
+            "lat": 25.0798617,
+            "lng": 121.4844131
+        }
+    },
+    {
+        "name": "慈生市民活動中心",
+        "address": "三和路四段１９１巷７８號",
+        "neighborhood": "慈生里",
+        "location": {
+            "lat": 25.0798617,
+            "lng": 121.4844131
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "溪尾街２１８巷７號",
+        "neighborhood": "慈惠里",
+        "location": {
+            "lat": 25.0814635,
+            "lng": 121.4874758
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "溪尾街２１８巷１６號",
+        "neighborhood": "慈惠里",
+        "location": {
+            "lat": 25.0811621,
+            "lng": 121.4873117
+        }
+    },
+    {
+        "name": "慈愛市民活動中心",
+        "address": "仁美街１０８巷１３號",
+        "neighborhood": "慈愛里",
+        "location": {
+            "lat": 25.0806301,
+            "lng": 121.4850054
+        }
+    },
+    {
+        "name": "慈愛市民活動中心",
+        "address": "仁美街１０８巷１３號",
+        "neighborhood": "慈愛里",
+        "location": {
+            "lat": 25.0806301,
+            "lng": 121.4850054
+        }
+    },
+    {
+        "name": "慈化市民活動中心",
+        "address": "溪尾街327號旁",
+        "neighborhood": "慈化里",
+        "location": {
+            "lat": 25.0845335,
+            "lng": 121.4879021
+        }
+    },
+    {
+        "name": "慈化市民活動中心",
+        "address": "溪尾街３２７號旁",
+        "neighborhood": "慈化里",
+        "location": {
+            "lat": 25.0845335,
+            "lng": 121.4879021
+        }
+    },
+    {
+        "name": "靈聖宮",
+        "address": "溪尾街２２７巷６號",
+        "neighborhood": "慈祐里",
+        "location": {
+            "lat": 25.081516,
+            "lng": 121.488486
+        }
+    },
+    {
+        "name": "慈祐市民活動中心",
+        "address": "仁愛街４２５巷９號之１",
+        "neighborhood": "慈祐里",
+        "location": {
+            "lat": 25.0817707,
+            "lng": 121.4908395
+        }
+    },
+    {
+        "name": "慈祐市民活動中心",
+        "address": "仁愛街４２５巷９號之１",
+        "neighborhood": "慈祐里",
+        "location": {
+            "lat": 25.0817707,
+            "lng": 121.4908395
+        }
+    },
+    {
+        "name": "五華國小(一年一班教室)",
+        "address": "集賢路８９號",
+        "neighborhood": "富華里",
+        "location": {
+            "lat": 25.0892717,
+            "lng": 121.4909848
+        }
+    },
+    {
+        "name": "五華國小(一年三班教室)",
+        "address": "集賢路８９號",
+        "neighborhood": "富華里",
+        "location": {
+            "lat": 25.0892717,
+            "lng": 121.4909848
+        }
+    },
+    {
+        "name": "五華國小(一年五班教室)",
+        "address": "集賢路８９號",
+        "neighborhood": "富貴里",
+        "location": {
+            "lat": 25.0892717,
+            "lng": 121.4909848
+        }
+    },
+    {
+        "name": "五華國小(一年七班教室)",
+        "address": "集賢路８９號",
+        "neighborhood": "富貴里",
+        "location": {
+            "lat": 25.0892717,
+            "lng": 121.4909848
+        }
+    },
+    {
+        "name": "五華國小(一年九班)",
+        "address": "集賢路８９號",
+        "neighborhood": "富貴里",
+        "location": {
+            "lat": 25.0892717,
+            "lng": 121.4909848
+        }
+    },
+    {
+        "name": "碧華國小(忠101教室)",
+        "address": "五華街１６０號",
+        "neighborhood": "富福里",
+        "location": {
+            "lat": 25.0850812,
+            "lng": 121.4900307
+        }
+    },
+    {
+        "name": "碧華國小(仁101教室)",
+        "address": "五華街１６０號",
+        "neighborhood": "富福里",
+        "location": {
+            "lat": 25.0850812,
+            "lng": 121.4900307
+        }
+    },
+    {
+        "name": "五華市民活動中心",
+        "address": "仁義街２２８巷１２號",
+        "neighborhood": "五華里",
+        "location": {
+            "lat": 25.084305,
+            "lng": 121.4941483
+        }
+    },
+    {
+        "name": "五華市民活動中心",
+        "address": "仁義街２２８巷１２號",
+        "neighborhood": "五華里",
+        "location": {
+            "lat": 25.084305,
+            "lng": 121.4941483
+        }
+    },
+    {
+        "name": "五華市民活動中心",
+        "address": "仁義街２２８巷１２號",
+        "neighborhood": "五華里",
+        "location": {
+            "lat": 25.084305,
+            "lng": 121.4941483
+        }
+    },
+    {
+        "name": "水流公廟(碧華公園內)",
+        "address": "仁華街１１８巷９號",
+        "neighborhood": "碧華里",
+        "location": {
+            "lat": 25.0836255,
+            "lng": 121.4858284
+        }
+    },
+    {
+        "name": "水流公廟(碧華公園內)",
+        "address": "仁華街１１８巷９號",
+        "neighborhood": "碧華里",
+        "location": {
+            "lat": 25.0836255,
+            "lng": 121.4858284
+        }
+    },
+    {
+        "name": "碧華公園老人會辦公室",
+        "address": "仁華街１１８巷９之８號",
+        "neighborhood": "碧華里",
+        "location": {
+            "lat": 25.0816637,
+            "lng": 121.4835513
+        }
+    },
+    {
+        "name": "三和國中(930教室)",
+        "address": "三和路四段２１６號",
+        "neighborhood": "福樂里",
+        "location": {
+            "lat": 25.0763803,
+            "lng": 121.4868247
+        }
+    },
+    {
+        "name": "三和國中(931教室)",
+        "address": "三和路四段２１６號",
+        "neighborhood": "福樂里",
+        "location": {
+            "lat": 25.0763803,
+            "lng": 121.4868247
+        }
+    },
+    {
+        "name": "蘆洲永安兒童公園活動中心(舞蹈武術教室)",
+        "address": "永安北路二段４２之６號仁華里",
+        "neighborhood": "1-7",
+        "location": {
+            "lat": 25.0814098,
+            "lng": 121.4818488
+        }
+    },
+    {
+        "name": "奉興宮",
+        "address": "永安北路二段２５巷６０號對面",
+        "neighborhood": "仁華里",
+        "location": {
+            "lat": 25.0820929,
+            "lng": 121.4833328
+        }
+    },
+    {
+        "name": "優悅賞公寓大廈",
+        "address": "仁安街８９號",
+        "neighborhood": "仁華里",
+        "location": {
+            "lat": 25.0831885,
+            "lng": 121.4827267
+        }
+    },
+    {
+        "name": "碧華國中(903班教室)",
+        "address": "自強路五段６６號",
+        "neighborhood": "五順里",
+        "location": {
+            "lat": 25.0823063,
+            "lng": 121.495165
+        }
+    },
+    {
+        "name": "碧華國中(902班教室)",
+        "address": "自強路五段６６號",
+        "neighborhood": "五順里",
+        "location": {
+            "lat": 25.0823063,
+            "lng": 121.495165
+        }
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "name": "三忠廟",
+        "address": "長安街１５號",
+        "neighborhood": "雙溪里"
+    },
+    {
+        "name": "新基市民活動中心",
+        "address": "新基北街６４號",
+        "neighborhood": "新基里"
+    },
+    {
+        "name": "新基西街活動中心",
+        "address": "新基西街１５號",
+        "neighborhood": "新基里"
+    },
+    {
+        "name": "三港市民活動中心",
+        "address": "三港７號",
+        "neighborhood": "三港里"
+    },
+    {
+        "name": "牡丹市民活動中心",
+        "address": "下坑３６號",
+        "neighborhood": "牡丹里"
+    },
+    {
+        "name": "中正市民活動中心",
+        "address": "中正路６４號",
+        "neighborhood": "牡丹里"
+    },
+    {
+        "name": "牡丹國小",
+        "address": "政光３號",
+        "neighborhood": "三貂里"
+    },
+    {
+        "name": "平林市民活動中心",
+        "address": "外平林５２號",
+        "neighborhood": "平林里"
+    },
+    {
+        "name": "新北市立雙溪高中",
+        "address": "梅竹蹊３號",
+        "neighborhood": "平林里"
+    },
+    {
+        "name": "上林國小",
+        "address": "內平林６０號",
+        "neighborhood": "上林里"
+    },
+    {
+        "name": "外柑市民活動中心",
+        "address": "外柑腳４９號",
+        "neighborhood": "外柑里"
+    },
+    {
+        "name": "長源市民活動中心",
+        "address": "柑腳１９號",
+        "neighborhood": "長源里"
+    },
+    {
+        "name": "雙溪國小",
+        "address": "東榮街５４號",
+        "neighborhood": "共和里"
+    },
+    {
+        "name": "共和市民活動中心",
+        "address": "中山路４１巷６號",
+        "neighborhood": "共和里"
+    },
+    {
+        "name": "保民殿",
+        "address": "魚杭１號",
+        "neighborhood": "魚行里"
+    },
+    {
+        "name": "合壽產業股份有限公司",
+        "address": "坤溪３之５號",
+        "neighborhood": "魚行里"
+    },
+    {
+        "name": "泰平市民活動中心",
+        "address": "溪尾寮４６號",
+        "neighborhood": "泰平里"
+    },
+    {
+        "name": "聖寶宮",
+        "address": "烏山40號",
+        "neighborhood": "泰平里"
+    }
+]

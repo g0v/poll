@@ -1,0 +1,457 @@
+[
+    {
+        "name": "中和市民活動中心",
+        "address": "小中寮１９之２號",
+        "neighborhood": "中和里"
+    },
+    {
+        "name": "屯山國小",
+        "address": "淡金路五段１１１號",
+        "neighborhood": "屯山里"
+    },
+    {
+        "name": "正德國中賢孝校區",
+        "address": "後洲子１１號",
+        "neighborhood": "賢孝里"
+    },
+    {
+        "name": "興仁國小",
+        "address": "興仁路１０１巷１０號",
+        "neighborhood": "興仁里"
+    },
+    {
+        "name": "玄玄廟（原仙媽廟）",
+        "address": "安子內１２號旁",
+        "neighborhood": "蕃薯里"
+    },
+    {
+        "name": "忠山市民活動中心",
+        "address": "椿子林１８號",
+        "neighborhood": "忠山里"
+    },
+    {
+        "name": "集應廟",
+        "address": "下圭柔山３５之３號",
+        "neighborhood": "義山里"
+    },
+    {
+        "name": "集應廟",
+        "address": "下圭柔山３５之３號",
+        "neighborhood": "義山里"
+    },
+    {
+        "name": "無極天元宮",
+        "address": "北新路三段３６號",
+        "neighborhood": "水源里"
+    },
+    {
+        "name": "無極天元宮",
+        "address": "北新路三段３６號",
+        "neighborhood": "水源里"
+    },
+    {
+        "name": "北新有機農場",
+        "address": "演戲埔腳３之２號",
+        "neighborhood": "忠寮里"
+    },
+    {
+        "name": "樹興市民活動中心",
+        "address": "糞箕湖２５號",
+        "neighborhood": "樹興里"
+    },
+    {
+        "name": "坪頂市民活動中心",
+        "address": "坪頂路７１０巷１號",
+        "neighborhood": "坪頂里"
+    },
+    {
+        "name": "臺灣長老教會關渡教會",
+        "address": "自強路３０７巷４號",
+        "neighborhood": "福德里"
+    },
+    {
+        "name": "中華基督教長老會信友堂-關渡自強分堂",
+        "address": "自強路３０７巷２號",
+        "neighborhood": "福德里"
+    },
+    {
+        "name": "竹圍國小自強分校",
+        "address": "自強路３５號",
+        "neighborhood": "福德里"
+    },
+    {
+        "name": "竹圍國小自強分校",
+        "address": "自強路３５號",
+        "neighborhood": "福德里"
+    },
+    {
+        "name": "土地公廟旁",
+        "address": "民族路１７巷底",
+        "neighborhood": "竹圍里"
+    },
+    {
+        "name": "土地公廟旁",
+        "address": "民族路１７巷底",
+        "neighborhood": "竹圍里"
+    },
+    {
+        "name": "關渡大國",
+        "address": "民族路２９巷２弄６號（觀海極品後方）",
+        "neighborhood": "竹圍里"
+    },
+    {
+        "name": "竹圍慈濟資源回收場",
+        "address": "民族路６５巷２號",
+        "neighborhood": "竹圍里"
+    },
+    {
+        "name": "私宅",
+        "address": "民權路１７９巷６號",
+        "neighborhood": "民權里"
+    },
+    {
+        "name": "關渡站前A區中庭廣場",
+        "address": "民權路１７７巷５３號",
+        "neighborhood": "民權里"
+    },
+    {
+        "name": "民生市民活動中心",
+        "address": "民生路２７號１樓(托兒所)",
+        "neighborhood": "民生里"
+    },
+    {
+        "name": "民生里土地公廟",
+        "address": "民生路１１３巷３弄３２號對面",
+        "neighborhood": "民生里"
+    },
+    {
+        "name": "民生里休閒區",
+        "address": "民生路１１３巷３弄３２號旁(民生里土地公廟對面)",
+        "neighborhood": "民生里"
+    },
+    {
+        "name": "民生市民活動中心",
+        "address": "民生路２７號６樓",
+        "neighborhood": "民生里"
+    },
+    {
+        "name": "竹圍國小",
+        "address": "中正東路二段１４５號",
+        "neighborhood": "八勢里"
+    },
+    {
+        "name": "竹圍國小",
+        "address": "中正東路二段１４５號",
+        "neighborhood": "八勢里"
+    },
+    {
+        "name": "八勢里活動中心",
+        "address": "八勢一街１２巷３號旁",
+        "neighborhood": "八勢里"
+    },
+    {
+        "name": "綠波山莊交誼廳",
+        "address": "坪頂路７０巷３７號",
+        "neighborhood": "竿蓁里"
+    },
+    {
+        "name": "紅樹林護理之家",
+        "address": "中正東路一段１１１巷２２號",
+        "neighborhood": "竿蓁里"
+    },
+    {
+        "name": "竿蓁市民活動中心",
+        "address": "中正東路一段３巷６號１樓",
+        "neighborhood": "竿蓁里"
+    },
+    {
+        "name": "竿蓁市民活動中心",
+        "address": "中正東路一段３巷６號１樓",
+        "neighborhood": "竿蓁里"
+    },
+    {
+        "name": "消防隊活動中心",
+        "address": "中正東路一段１２５號",
+        "neighborhood": "竿蓁里"
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "崁頂里"
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "崁頂里"
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "崁頂里"
+    },
+    {
+        "name": "育英國小",
+        "address": "埤島１４號",
+        "neighborhood": "崁頂里"
+    },
+    {
+        "name": "埤島市民活動中心",
+        "address": "埤島１４號",
+        "neighborhood": "埤島里"
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "水碓里"
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "水碓里"
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "水碓里"
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "北新里"
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "北新里"
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "正德里"
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "正德里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新興里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新興里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新興里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新義里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新義里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新義里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新春里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新春里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新春里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新春里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新民里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新民里"
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新民里"
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "北投里"
+    },
+    {
+        "name": "北投里福德宮",
+        "address": "北新路２２３號旁",
+        "neighborhood": "北投里"
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "北投里"
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "北投里"
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "鄧公里"
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "鄧公里"
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "鄧公里"
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "幸福里"
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "幸福里"
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "幸福里"
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "學府里"
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "學府里"
+    },
+    {
+        "name": "中興市民活動中心",
+        "address": "水源街一段２９號１樓",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "中興市民活動中心",
+        "address": "水源街一段２９號２樓",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "中興市民活動中心",
+        "address": "水源街一段２９號３樓",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "長庚市民活動中心",
+        "address": "中山路７２巷１弄１０號",
+        "neighborhood": "長庚里"
+    },
+    {
+        "name": "淡水清水巖活動中心",
+        "address": "清水街１６０號",
+        "neighborhood": "清文里"
+    },
+    {
+        "name": "觀宗寺",
+        "address": "中正路１５號",
+        "neighborhood": "草東里"
+    },
+    {
+        "name": "淡水國小",
+        "address": "中山路１６０號",
+        "neighborhood": "協元里"
+    },
+    {
+        "name": "永吉里集會所",
+        "address": "清水街２１２號",
+        "neighborhood": "永吉里"
+    },
+    {
+        "name": "福佑宮",
+        "address": "中正路２００號",
+        "neighborhood": "民安里"
+    },
+    {
+        "name": "新北市淡水地政事務所",
+        "address": "中正路２３３號",
+        "neighborhood": "新生里"
+    },
+    {
+        "name": "文化國小",
+        "address": "真理街６號",
+        "neighborhood": "文化里"
+    },
+    {
+        "name": "忠義宮蘇府王爺廟",
+        "address": "中正路一段３２號",
+        "neighborhood": "油車里"
+    },
+    {
+        "name": "天生國小",
+        "address": "淡海路７２巷２６號",
+        "neighborhood": "油車里"
+    },
+    {
+        "name": "天生國小",
+        "address": "淡海路７２巷２６號",
+        "neighborhood": "油車里"
+    },
+    {
+        "name": "保安廟",
+        "address": "淡海路１８９巷１０號",
+        "neighborhood": "沙崙里"
+    },
+    {
+        "name": "保安廟（聚福廳）",
+        "address": "淡海路１８９巷２５號",
+        "neighborhood": "沙崙里"
+    },
+    {
+        "name": "淡海市民活動中心",
+        "address": "淡海路１１１號",
+        "neighborhood": "大庄里"
+    },
+    {
+        "name": "大庄福德廟府",
+        "address": "新民街一段１３６號",
+        "neighborhood": "大庄里"
+    },
+    {
+        "name": "行忠宮",
+        "address": "新民街一段８０號",
+        "neighborhood": "大庄里"
+    }
+]

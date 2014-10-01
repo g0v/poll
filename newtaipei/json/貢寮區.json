@@ -1,0 +1,92 @@
+[
+    {
+        "name": "貢寮市民活動中心",
+        "address": "長泰路１８之２號",
+        "neighborhood": "貢寮里"
+    },
+    {
+        "name": "龍吉市民活動中心",
+        "address": "嵩陽街４１號",
+        "neighborhood": "龍崗里"
+    },
+    {
+        "name": "貢寮國小吉林校區",
+        "address": "內寮街５５號",
+        "neighborhood": "吉林里"
+    },
+    {
+        "name": "雙玉第一市民活動中心",
+        "address": "德心街１１之１號",
+        "neighborhood": "雙玉里"
+    },
+    {
+        "name": "雙玉里集會所",
+        "address": "田寮洋街４４號",
+        "neighborhood": "雙玉里"
+    },
+    {
+        "name": "利洋宮",
+        "address": "福興街２５號",
+        "neighborhood": "福連里"
+    },
+    {
+        "name": "馬崗市民活動中心",
+        "address": "馬崗街３１之６號",
+        "neighborhood": "福連里"
+    },
+    {
+        "name": "福隆國小",
+        "address": "東興街３５號",
+        "neighborhood": "福隆里"
+    },
+    {
+        "name": "福隆青少年活動中心",
+        "address": "福隆街６０號",
+        "neighborhood": "福隆里"
+    },
+    {
+        "name": "龍門市民活動中心",
+        "address": "龍門街６０之１號",
+        "neighborhood": "龍門里"
+    },
+    {
+        "name": "澳底國小",
+        "address": "延平街１０號",
+        "neighborhood": "真理里"
+    },
+    {
+        "name": "澳底國小",
+        "address": "延平街１０號",
+        "neighborhood": "真理里"
+    },
+    {
+        "name": "仁和宮",
+        "address": "仁和路９號",
+        "neighborhood": "仁里里"
+    },
+    {
+        "name": "仁里第一市民活動中心",
+        "address": "仁義街８號",
+        "neighborhood": "仁里里"
+    },
+    {
+        "name": "五美市民活動中心",
+        "address": "丹裡街１６之１２號",
+        "neighborhood": "美豐里"
+    },
+    {
+        "name": "福安廟",
+        "address": "雞母嶺街７號",
+        "neighborhood": "美豐里"
+    },
+    {
+        "name": "和美市民活動中心",
+        "address": "和美街３５之２號",
+        "neighborhood": "和美里"
+    },
+    {
+        "name": "和美國小",
+        "address": "龍洞街１之９號",
+        "neighborhood": "和美里"
+    }
+]

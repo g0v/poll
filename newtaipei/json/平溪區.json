@@ -1,0 +1,62 @@
+[
+    {
+        "name": "薯榔市民活動中心",
+        "address": "靜安路二段６３號",
+        "neighborhood": "薯榔里"
+    },
+    {
+        "name": "菁桐市民活動中心",
+        "address": "菁桐街６５之１號",
+        "neighborhood": "菁桐里"
+    },
+    {
+        "name": "白石市民活動中心",
+        "address": "靜安路二段２４１號",
+        "neighborhood": "白石里"
+    },
+    {
+        "name": "平溪市民活動中心",
+        "address": "公園街１７號",
+        "neighborhood": "石底里"
+    },
+    {
+        "name": "平溪國小禮堂",
+        "address": "平溪街５６號",
+        "neighborhood": "平溪里"
+    },
+    {
+        "name": "嶺腳市民活動中心",
+        "address": "嶺腳寮１４號",
+        "neighborhood": "嶺腳里"
+    },
+    {
+        "name": "東勢市民活動中心",
+        "address": "?蓁林６２之１號",
+        "neighborhood": "東勢里"
+    },
+    {
+        "name": "十分市民活動中心",
+        "address": "十分街１５９號",
+        "neighborhood": "十分里"
+    },
+    {
+        "name": "十分國小三年級教室",
+        "address": "十分街１５７號",
+        "neighborhood": "望古里"
+    },
+    {
+        "name": "南山市民活動中心",
+        "address": "靜安路三段２３２號",
+        "neighborhood": "南山里"
+    },
+    {
+        "name": "十分國小四年級教室",
+        "address": "十分街１５７號",
+        "neighborhood": "新寮里"
+    },
+    {
+        "name": "平湖市民活動中心",
+        "address": "大湖１０號",
+        "neighborhood": "平湖里"
+    }
+]

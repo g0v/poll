@@ -1,0 +1,511 @@
+[
+    {
+        "name": "三峽興隆宮",
+        "address": "民權街５０號",
+        "neighborhood": [
+            "里",
+            "峽",
+            "三"
+        ],
+        "location": {
+            "lat": 24.9335419,
+            "lng": 121.369505
+        },
+        "power": 1
+    },
+    {
+        "name": "三峽祖師廟會議室",
+        "address": "長福街１號",
+        "neighborhood": [
+            "里",
+            "川",
+            "秀"
+        ],
+        "location": {
+            "lat": 24.9337917,
+            "lng": 121.3703715
+        },
+        "power": 1
+    },
+    {
+        "name": "八張市民活動中心",
+        "address": "民族街１２２號",
+        "neighborhood": [
+            "里",
+            "張",
+            "八"
+        ],
+        "location": {
+            "lat": 24.9290369,
+            "lng": 121.369085
+        },
+        "power": 1
+    },
+    {
+        "name": "基督長老教會",
+        "address": "民族街１號",
+        "neighborhood": [
+            "里",
+            "張",
+            "八"
+        ],
+        "location": {
+            "lat": 24.9315969,
+            "lng": 121.3691824
+        },
+        "power": 1
+    },
+    {
+        "name": "中園國小（C11",
+        "address": "大同路２２２巷２２弄２號",
+        "neighborhood": [
+            "里",
+            "埔",
+            "中"
+        ],
+        "location": {
+            "lat": 24.9278283,
+            "lng": 121.3671784
+        },
+        "power": 2
+    },
+    {
+        "name": "弘道市民活動中心",
+        "address": "弘道２５之１號",
+        "neighborhood": [
+            "里",
+            "道",
+            "弘"
+        ],
+        "location": {
+            "lat": 24.9031318,
+            "lng": 121.3282164
+        },
+        "power": 1
+    },
+    {
+        "name": "三峽國小",
+        "address": "中山路１６號",
+        "neighborhood": [
+            "里",
+            "?",
+            "永",
+            "山",
+            "鳶"
+        ],
+        "location": {
+            "lat": 24.9348504,
+            "lng": 121.3695626
+        },
+        "power": 8
+    },
+    {
+        "name": "三峽國中補教教室",
+        "address": "復興路238號",
+        "neighborhood": [
+            "里",
+            "?",
+            "永"
+        ],
+        "location": {
+            "lat": 24.939053,
+            "lng": 121.369127
+        },
+        "power": 2
+    },
+    {
+        "name": "長青市民活動中心",
+        "address": "中山路６５號",
+        "neighborhood": [
+            "里",
+            "山",
+            "鳶"
+        ],
+        "location": {
+            "lat": 24.934847,
+            "lng": 121.366952
+        },
+        "power": 1
+    },
+    {
+        "name": "龍埔市民活動中心",
+        "address": "三樹路２１４巷９號",
+        "neighborhood": [
+            "里",
+            "埔",
+            "龍"
+        ],
+        "location": {
+            "lat": 24.9420122,
+            "lng": 121.379625
+        },
+        "power": 1
+    },
+    {
+        "name": "啟育幼稚園",
+        "address": "民生街５９號",
+        "neighborhood": [
+            "里",
+            "埔",
+            "龍"
+        ],
+        "location": {
+            "lat": 24.9361209,
+            "lng": 121.375338
+        },
+        "power": 3
+    },
+    {
+        "name": "三峽國中903教室",
+        "address": "復興路２３８號",
+        "neighborhood": [
+            "里",
+            "埔",
+            "龍"
+        ],
+        "location": {
+            "lat": 24.939053,
+            "lng": 121.369127
+        },
+        "power": 1
+    },
+    {
+        "name": "台北大學商學院1F0",
+        "address": "大學路１５１號",
+        "neighborhood": [
+            "里",
+            "恩",
+            "龍"
+        ],
+        "location": {
+            "lat": 24.9434525,
+            "lng": 121.3749348
+        },
+        "power": 3
+    },
+    {
+        "name": "龍埔國小",
+        "address": "大學路６號",
+        "neighborhood": [
+            "里",
+            "學",
+            "龍"
+        ],
+        "location": {
+            "lat": 24.9434525,
+            "lng": 121.3749348
+        },
+        "power": 7
+    },
+    {
+        "name": "介壽國小",
+        "address": "大同路１號",
+        "neighborhood": [
+            "里",
+            "溪",
+            "礁",
+            "壽",
+            "介"
+        ],
+        "location": {
+            "lat": 24.9299258,
+            "lng": 121.3785248
+        },
+        "power": 4
+    },
+    {
+        "name": "安溪國小",
+        "address": "中華路４２號",
+        "neighborhood": [
+            "里",
+            "溪",
+            "礁",
+            "安"
+        ],
+        "location": {
+            "lat": 24.9310827,
+            "lng": 121.372483
+        },
+        "power": 6
+    },
+    {
+        "name": "安溪、礁溪、介壽、中正市民活動中心",
+        "address": "永安街９巷５號",
+        "neighborhood": [
+            "里",
+            "壽",
+            "介"
+        ],
+        "location": {
+            "lat": 24.9297149,
+            "lng": 121.376464
+        },
+        "power": 1
+    },
+    {
+        "name": "安溪國中",
+        "address": "大同路１３５號",
+        "neighborhood": [
+            "里",
+            "正",
+            "中"
+        ],
+        "location": {
+            "lat": 24.9266425,
+            "lng": 121.3728213
+        },
+        "power": 3
+    },
+    {
+        "name": "大埔國小",
+        "address": "大埔路１３０號",
+        "neighborhood": [
+            "里",
+            "埔",
+            "大"
+        ],
+        "location": {
+            "lat": 24.9056439,
+            "lng": 121.3664778
+        },
+        "power": 3
+    },
+    {
+        "name": "仁愛市民活動中心",
+        "address": "嘉添３０號",
+        "neighborhood": [
+            "里",
+            "添",
+            "嘉"
+        ],
+        "location": {
+            "lat": 24.911269,
+            "lng": 121.368532
+        },
+        "power": 1
+    },
+    {
+        "name": "臺北榮家外廣場",
+        "address": "白雞路１２７號",
+        "neighborhood": [
+            "里",
+            "添",
+            "嘉"
+        ],
+        "location": {
+            "lat": 24.9122777,
+            "lng": 121.3861881
+        },
+        "power": 1
+    },
+    {
+        "name": "添福市民活動中心",
+        "address": "添福５７之１號",
+        "neighborhood": [
+            "里",
+            "福",
+            "添"
+        ],
+        "location": {
+            "lat": 24.9040279,
+            "lng": 121.375404
+        },
+        "power": 1
+    },
+    {
+        "name": "互助橋旁",
+        "address": "圳頭1-1號",
+        "neighborhood": [
+            "里",
+            "圳",
+            "金"
+        ],
+        "location": {
+            "lat": 24.89007,
+            "lng": 121.374264
+        },
+        "power": 1
+    },
+    {
+        "name": "五寮市民活動中心",
+        "address": "五寮８９之９號",
+        "neighborhood": [
+            "里",
+            "寮",
+            "五"
+        ],
+        "location": {
+            "lat": 24.8567321,
+            "lng": 121.359463
+        },
+        "power": 1
+    },
+    {
+        "name": "插角國小",
+        "address": "插角３９號",
+        "neighborhood": [
+            "里",
+            "角",
+            "插"
+        ],
+        "location": {
+            "lat": 24.8721077,
+            "lng": 121.405037
+        },
+        "power": 1
+    },
+    {
+        "name": "有木國小",
+        "address": "有木１３１號",
+        "neighborhood": [
+            "里",
+            "木",
+            "有"
+        ],
+        "location": {
+            "lat": 24.8534547,
+            "lng": 121.4369622
+        },
+        "power": 1
+    },
+    {
+        "name": "明德高中",
+        "address": "中正路二段３９９號",
+        "neighborhood": [
+            "里",
+            "鬮",
+            "二"
+        ],
+        "location": {
+            "lat": 24.9068496,
+            "lng": 121.3639204
+        },
+        "power": 2
+    },
+    {
+        "name": "中興市民活動中心",
+        "address": "介壽路二段１３６巷６３號",
+        "neighborhood": [
+            "里",
+            "南",
+            "溪"
+        ],
+        "location": {
+            "lat": 24.932683,
+            "lng": 121.391707
+        },
+        "power": 1
+    },
+    {
+        "name": "林絨",
+        "address": "介壽路三段１８３號",
+        "neighborhood": [
+            "里",
+            "北",
+            "溪"
+        ],
+        "location": {
+            "lat": 24.9439949,
+            "lng": 121.4018995
+        },
+        "power": 1
+    },
+    {
+        "name": "溪北市民活動中心",
+        "address": "溪北街８７號",
+        "neighborhood": [
+            "里",
+            "北",
+            "溪"
+        ],
+        "location": {
+            "lat": 24.9356785,
+            "lng": 121.3979705
+        },
+        "power": 1
+    },
+    {
+        "name": "成福國小",
+        "address": "溪東路２１３號",
+        "neighborhood": [
+            "里",
+            "東",
+            "溪"
+        ],
+        "location": {
+            "lat": 24.9330941,
+            "lng": 121.4055416
+        },
+        "power": 1
+    },
+    {
+        "name": "溪東市民活動中心",
+        "address": "溪東路２１８巷１號",
+        "neighborhood": [
+            "里",
+            "東",
+            "溪"
+        ],
+        "location": {
+            "lat": 24.935296,
+            "lng": 121.399903
+        },
+        "power": 1
+    },
+    {
+        "name": "成福市民活動中心",
+        "address": "成福路４４號",
+        "neighborhood": [
+            "里",
+            "福",
+            "成"
+        ],
+        "location": {
+            "lat": 24.929386,
+            "lng": 121.419111
+        },
+        "power": 1
+    },
+    {
+        "name": "竹崙市民活動中心",
+        "address": "竹崙路１４６號",
+        "neighborhood": [
+            "里",
+            "崙",
+            "竹"
+        ],
+        "location": {
+            "lat": 24.8997081,
+            "lng": 121.442966
+        },
+        "power": 1
+    },
+    {
+        "name": "靈隱寺",
+        "address": "紫微南路１１號",
+        "neighborhood": [
+            "里",
+            "崙",
+            "竹"
+        ],
+        "location": {
+            "lat": 24.9029691,
+            "lng": 121.4202862
+        },
+        "power": 1
+    },
+    {
+        "name": "建安國小",
+        "address": "建安６７號",
+        "neighborhood": [
+            "里",
+            "坑",
+            "安"
+        ],
+        "location": {
+            "lat": 24.9195039,
+            "lng": 121.4597933
+        },
+        "power": 1
+    }
+]

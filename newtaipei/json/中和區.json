@@ -1,0 +1,1222 @@
+[
+    {
+        "name": "中和區公所路面搶修組",
+        "address": "永和路８９巷２號",
+        "neighborhood": "中原里"
+    },
+    {
+        "name": "霹靂宮",
+        "address": "永和路５１４號地下室",
+        "neighborhood": "中原里"
+    },
+    {
+        "name": "城龍登科文康中心",
+        "address": "永和路１２８巷４１號",
+        "neighborhood": "中原里"
+    },
+    {
+        "name": "連和市民活動中心",
+        "address": "連城路５４號",
+        "neighborhood": "連和里"
+    },
+    {
+        "name": "四知新城活動中心",
+        "address": "連城路１４８號",
+        "neighborhood": "連和里"
+    },
+    {
+        "name": "美國華城(文康室)",
+        "address": "連城路８９巷９號",
+        "neighborhood": "連城里"
+    },
+    {
+        "name": "連城里活動中心",
+        "address": "連城路１７１巷７號(安邦街１６號)",
+        "neighborhood": "連城里"
+    },
+    {
+        "name": "美國華城EF棟(會議室)",
+        "address": "連城路８９巷３８號",
+        "neighborhood": "連城里"
+    },
+    {
+        "name": "聖慈宮",
+        "address": "圓通路１５８巷９弄１１號",
+        "neighborhood": "力行里"
+    },
+    {
+        "name": "力行里巡守崗亭",
+        "address": "圓通路１７６號旁",
+        "neighborhood": "力行里"
+    },
+    {
+        "name": "我的故鄉管委會",
+        "address": "圓通路２４０巷５號",
+        "neighborhood": "力行里"
+    },
+    {
+        "name": "崇愛發展中心",
+        "address": "圓通路１４３之１號",
+        "neighborhood": "正行里"
+    },
+    {
+        "name": "崇愛發展中心",
+        "address": "圓通路１４３之１號",
+        "neighborhood": "正行里"
+    },
+    {
+        "name": "天喜花園社區活動中心",
+        "address": "中正路１６７巷２７號",
+        "neighborhood": "德行里"
+    },
+    {
+        "name": "捷運森林社區活動中心",
+        "address": "中正路２１１巷３８號",
+        "neighborhood": "德行里"
+    },
+    {
+        "name": "國泰晶鑽社區活動中心",
+        "address": "圓通路２９７巷９弄８號",
+        "neighborhood": "德行里"
+    },
+    {
+        "name": "漳和國中信義樓",
+        "address": "廣福路３９號",
+        "neighborhood": "枋寮里"
+    },
+    {
+        "name": "漳和國中(信義樓歡喜班)",
+        "address": "廣福路３９號",
+        "neighborhood": "枋寮里"
+    },
+    {
+        "name": "中和國小",
+        "address": "中和路１００號",
+        "neighborhood": "漳和里"
+    },
+    {
+        "name": "中和國小",
+        "address": "中和路１００號",
+        "neighborhood": "漳和里"
+    },
+    {
+        "name": "中和國小",
+        "address": "中和路１００號",
+        "neighborhood": "廟美里"
+    },
+    {
+        "name": "中和國小",
+        "address": "中和路１００號",
+        "neighborhood": "廟美里"
+    },
+    {
+        "name": "中和國小",
+        "address": "中和路１００號",
+        "neighborhood": "廟美里"
+    },
+    {
+        "name": "福真里活動中心",
+        "address": "中山路二段３１２巷３３弄２９號旁福真里",
+        "neighborhood": "1-10"
+    },
+    {
+        "name": "德明幼兒園",
+        "address": "中山路二段３１２巷３弄７號",
+        "neighborhood": "福真里"
+    },
+    {
+        "name": "一江社區會議室",
+        "address": "永和路９巷１號",
+        "neighborhood": "福善里"
+    },
+    {
+        "name": "福善民活動中心",
+        "address": "福美路３０１巷２３號",
+        "neighborhood": "福善里"
+    },
+    {
+        "name": "福善民活動中心",
+        "address": "福美路３０１巷２５號",
+        "neighborhood": "福善里"
+    },
+    {
+        "name": "中和新城管委會",
+        "address": "莊敬路４９巷２０弄１２號",
+        "neighborhood": "福美里"
+    },
+    {
+        "name": "山北民活動中心",
+        "address": "莊敬路４９巷２９弄２號",
+        "neighborhood": "福美里"
+    },
+    {
+        "name": "山北民活動中心",
+        "address": "莊敬路４９巷２９弄２號",
+        "neighborhood": "福美里"
+    },
+    {
+        "name": "惜福社區中庭（B棟）",
+        "address": "永和路８巷７號",
+        "neighborhood": "福祥里"
+    },
+    {
+        "name": "美的時代社區",
+        "address": "福祥路６８號",
+        "neighborhood": "福祥里"
+    },
+    {
+        "name": "大眾爺廟",
+        "address": "福美路２５６巷１８－１號",
+        "neighborhood": "福祥里"
+    },
+    {
+        "name": "漳和國中羽球館",
+        "address": "廣福路３９號",
+        "neighborhood": "瓦?里"
+    },
+    {
+        "name": "漳和國中羽球館",
+        "address": "廣福路３９號",
+        "neighborhood": "瓦?里"
+    },
+    {
+        "name": "漳和國中羽球館",
+        "address": "廣福路３９號",
+        "neighborhood": "瓦?里"
+    },
+    {
+        "name": "漳和國中和平樓101教室",
+        "address": "廣福路３９號",
+        "neighborhood": "福和里"
+    },
+    {
+        "name": "漳和國中和平樓301教室",
+        "address": "廣福路３９號",
+        "neighborhood": "福和里"
+    },
+    {
+        "name": "漳和國中仁愛樓912教室",
+        "address": "廣福路３９號",
+        "neighborhood": "福和里"
+    },
+    {
+        "name": "自強游泳池側門",
+        "address": "中山路二段６４巷７弄底",
+        "neighborhood": "佳和里"
+    },
+    {
+        "name": "自強游泳池正門",
+        "address": "中山路二段６４巷９號",
+        "neighborhood": "佳和里"
+    },
+    {
+        "name": "雙和慈安宮",
+        "address": "中山路二段２巷６３號",
+        "neighborhood": "佳和里"
+    },
+    {
+        "name": "中和大同圖書閱覽室",
+        "address": "圓通路１２１巷５號",
+        "neighborhood": "新南里"
+    },
+    {
+        "name": "九玄宮",
+        "address": "景平路４９３巷１２弄１６號",
+        "neighborhood": "新南里"
+    },
+    {
+        "name": "中和社區管理委員會",
+        "address": "景平路６１０巷２號地下室",
+        "neighborhood": "新南里"
+    },
+    {
+        "name": "華南名人巷A棟庭院",
+        "address": "景平路４３１巷",
+        "neighborhood": "新南里"
+    },
+    {
+        "name": "中和國小",
+        "address": "中和路１００號",
+        "neighborhood": "南山里"
+    },
+    {
+        "name": "中和國小",
+        "address": "中和路１００號",
+        "neighborhood": "南山里"
+    },
+    {
+        "name": "中和國小",
+        "address": "中和路１００號",
+        "neighborhood": "南山里"
+    },
+    {
+        "name": "騰達汽車有限公司",
+        "address": "中山路二段４３９巷１號",
+        "neighborhood": "平河里"
+    },
+    {
+        "name": "連戰連勝社區活動中心",
+        "address": "中正路７５１巷３弄４號",
+        "neighborhood": "平河里"
+    },
+    {
+        "name": "積穗國小",
+        "address": "員山路１５４號",
+        "neighborhood": "平河里"
+    },
+    {
+        "name": "花園廣場社區媽媽教室",
+        "address": "中正路８３１號",
+        "neighborhood": "平河里"
+    },
+    {
+        "name": "心中市大廈大廳",
+        "address": "中正路６８１號",
+        "neighborhood": "平河里"
+    },
+    {
+        "name": "聖中幼兒園",
+        "address": "新生街１６６巷１８號",
+        "neighborhood": "信和里"
+    },
+    {
+        "name": "勝利幼兒園",
+        "address": "新生街１８６巷５弄１３號",
+        "neighborhood": "信和里"
+    },
+    {
+        "name": "八府龍鳳宮會議室",
+        "address": "員山路１４８巷２３弄１５號",
+        "neighborhood": "信和里"
+    },
+    {
+        "name": "中正花園廣場社區會議室",
+        "address": "連城路４６９巷７弄２７號",
+        "neighborhood": "仁和里"
+    },
+    {
+        "name": "安邦幼兒園",
+        "address": "連城路４７７巷６弄１號",
+        "neighborhood": "仁和里"
+    },
+    {
+        "name": "元護宮",
+        "address": "連城路４６９巷７９弄２號",
+        "neighborhood": "仁和里"
+    },
+    {
+        "name": "歡喜城社區活動中心",
+        "address": "連城路３６９號",
+        "neighborhood": "中正里"
+    },
+    {
+        "name": "育心寶貝幼兒園(操場)",
+        "address": "連城路３８９巷１１號",
+        "neighborhood": "中正里"
+    },
+    {
+        "name": "和東市民活動中心",
+        "address": "連城路２６３巷４號",
+        "neighborhood": "建和里"
+    },
+    {
+        "name": "和東市民活動中心",
+        "address": "連城路２６３巷４弄２號",
+        "neighborhood": "建和里"
+    },
+    {
+        "name": "民宅",
+        "address": "錦和路９３巷３號",
+        "neighborhood": "建和里"
+    },
+    {
+        "name": "民宅",
+        "address": "連城路３１９巷３弄１０號",
+        "neighborhood": "中山里"
+    },
+    {
+        "name": "民宅",
+        "address": "錦和路１９６巷４弄５號",
+        "neighborhood": "中山里"
+    },
+    {
+        "name": "全晟幼兒園",
+        "address": "連城路２１９巷９號",
+        "neighborhood": "碧河里"
+    },
+    {
+        "name": "碧河宮",
+        "address": "連城路２４９巷２號",
+        "neighborhood": "碧河里"
+    },
+    {
+        "name": "新南山語文技藝補習班",
+        "address": "興南路二段８９巷４號１樓",
+        "neighborhood": "正南里"
+    },
+    {
+        "name": "凱旋大廈活動中心",
+        "address": "華新街１２６號",
+        "neighborhood": "正南里"
+    },
+    {
+        "name": "游氏祠堂",
+        "address": "華新街１９２巷６弄９號",
+        "neighborhood": "正南里"
+    },
+    {
+        "name": "頂南市民活動中心",
+        "address": "興南路二段１５９巷２８號",
+        "neighborhood": "頂南里"
+    },
+    {
+        "name": "飛駝社區管理委員會",
+        "address": "興南路二段１５９巷２號",
+        "neighborhood": "頂南里"
+    },
+    {
+        "name": "華夏技術學院(教學大樓C101教室)",
+        "address": "工專路１１１號",
+        "neighborhood": "華新里"
+    },
+    {
+        "name": "華夏技術學院(教學大樓C103教室)",
+        "address": "工專路１１１號",
+        "neighborhood": "華新里"
+    },
+    {
+        "name": "竹林高中",
+        "address": "華新街１４３巷１２號",
+        "neighborhood": "華新里"
+    },
+    {
+        "name": "竹林高中",
+        "address": "華新街１４３巷１２號",
+        "neighborhood": "華新里"
+    },
+    {
+        "name": "興南國小",
+        "address": "興南路一段１３５巷２４號",
+        "neighborhood": "東南里"
+    },
+    {
+        "name": "興南國小",
+        "address": "興南路一段１３５巷２４號",
+        "neighborhood": "東南里"
+    },
+    {
+        "name": "興南國小",
+        "address": "興南路一段１３５巷２４號",
+        "neighborhood": "東南里"
+    },
+    {
+        "name": "飛駝市民活動中心",
+        "address": "忠孝街４８號２樓",
+        "neighborhood": "華南里"
+    },
+    {
+        "name": "桔運青山管委會活動中心",
+        "address": "忠孝街２巷１４弄９號",
+        "neighborhood": "華南里"
+    },
+    {
+        "name": "放生寺",
+        "address": "忠孝街１０８號",
+        "neighborhood": "華南里"
+    },
+    {
+        "name": "興南國小",
+        "address": "興南路一段１３５巷２４號",
+        "neighborhood": "忠孝里"
+    },
+    {
+        "name": "興南國小",
+        "address": "興南路一段１３５巷２４號",
+        "neighborhood": "忠孝里"
+    },
+    {
+        "name": "中和國中中和1樓",
+        "address": "興南路二段３巷１７號",
+        "neighborhood": "忠孝里"
+    },
+    {
+        "name": "中和國中中和1樓",
+        "address": "興南路二段３巷１７號",
+        "neighborhood": "忠孝里"
+    },
+    {
+        "name": "崇南市民活動中心",
+        "address": "景新街４９６巷２６弄２號",
+        "neighborhood": "崇南里"
+    },
+    {
+        "name": "名家花園社區活動中心",
+        "address": "景新街４９６巷３３弄１號地下室",
+        "neighborhood": "崇南里"
+    },
+    {
+        "name": "興南活動中心",
+        "address": "信義街４１巷１２號",
+        "neighborhood": "興南里"
+    },
+    {
+        "name": "興南活動中心",
+        "address": "信義街４１巷１６號",
+        "neighborhood": "興南里"
+    },
+    {
+        "name": "受殿宮",
+        "address": "景新街４６７巷３５弄２號",
+        "neighborhood": "景南里"
+    },
+    {
+        "name": "三介廟",
+        "address": "景新街４６７巷５０弄２０號",
+        "neighborhood": "景南里"
+    },
+    {
+        "name": "景新國小",
+        "address": "景新街４３７巷３１號旁",
+        "neighborhood": "景本里"
+    },
+    {
+        "name": "停車場",
+        "address": "景新街４３７巷３１號旁",
+        "neighborhood": "景本里"
+    },
+    {
+        "name": "農民活動中心",
+        "address": "興南路三段５２巷２之５號",
+        "neighborhood": "橫路里"
+    },
+    {
+        "name": "內南市民活動中心",
+        "address": "興南路二段２４２巷５號",
+        "neighborhood": "內南里"
+    },
+    {
+        "name": "大地新象社區中庭",
+        "address": "興南路二段１４２巷１０號",
+        "neighborhood": "內南里"
+    },
+    {
+        "name": "福神宮",
+        "address": "興南路二段２４２巷３號旁",
+        "neighborhood": "內南里"
+    },
+    {
+        "name": "裕和祠土地公廟",
+        "address": "南山路３２０巷１０弄６號旁",
+        "neighborhood": "壽南里"
+    },
+    {
+        "name": "興南國小",
+        "address": "興南路一段１３５巷２４號",
+        "neighborhood": "壽南里"
+    },
+    {
+        "name": "歌德花園城活動中心",
+        "address": "興南路二段３４巷５７弄１２號地下１樓",
+        "neighborhood": "福南里"
+    },
+    {
+        "name": "歌德花園城活動中心",
+        "address": "興南路二段３４巷５７弄１２號地下１樓",
+        "neighborhood": "福南里"
+    },
+    {
+        "name": "復興國小",
+        "address": "復興路３０１巷６號",
+        "neighborhood": "外南里"
+    },
+    {
+        "name": "復興國小",
+        "address": "復興路３０１巷６號",
+        "neighborhood": "外南里"
+    },
+    {
+        "name": "復興國小",
+        "address": "復興路３０１巷６號",
+        "neighborhood": "外南里"
+    },
+    {
+        "name": "復興國小",
+        "address": "復興路３０１巷６號",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "復興國小",
+        "address": "復興路３０１巷６號",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "復興國小",
+        "address": "復興路３０１巷６號",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "復興國小",
+        "address": "復興路３０１巷６號",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "復興國小",
+        "address": "復興路３０１巷６號",
+        "neighborhood": "吉興里"
+    },
+    {
+        "name": "復興國小",
+        "address": "復興路３０１巷６號",
+        "neighborhood": "吉興里"
+    },
+    {
+        "name": "中和區客家文化會館",
+        "address": "復興路２８０巷６號",
+        "neighborhood": "復興里"
+    },
+    {
+        "name": "中和區客家文化會館",
+        "address": "復興路２８０巷６號",
+        "neighborhood": "復興里"
+    },
+    {
+        "name": "兆元幼兒園",
+        "address": "復興路２８０巷４６弄３號",
+        "neighborhood": "復興里"
+    },
+    {
+        "name": "和興里巡守隊崗亭前廣場",
+        "address": "板南路１６０號對面",
+        "neighborhood": "和興里"
+    },
+    {
+        "name": "和興汽車商行",
+        "address": "中正路４６號前",
+        "neighborhood": "和興里"
+    },
+    {
+        "name": "北聖宮",
+        "address": "復興路２８０巷１８弄１１號(板南路１５０號對面)",
+        "neighborhood": "和興里"
+    },
+    {
+        "name": "巡守隊崗亭",
+        "address": "景新街２７３巷３２號旁",
+        "neighborhood": "景平里"
+    },
+    {
+        "name": "冠德新世界",
+        "address": "景平路１５３號",
+        "neighborhood": "景平里"
+    },
+    {
+        "name": "快易居管委會",
+        "address": "景平路２９０號",
+        "neighborhood": "景平里"
+    },
+    {
+        "name": "民宅",
+        "address": "興南路一段５６巷３２號(景新里辦公處前)",
+        "neighborhood": "景新里"
+    },
+    {
+        "name": "車庫",
+        "address": "和平街２巷６弄１４號旁(景新里辦公處對面)",
+        "neighborhood": "景新里"
+    },
+    {
+        "name": "台電K書中心(走廊)",
+        "address": "和平街３３號",
+        "neighborhood": "景福里"
+    },
+    {
+        "name": "景福市民活動中心",
+        "address": "和平街１６４巷２號",
+        "neighborhood": "景福里"
+    },
+    {
+        "name": "景福市民活動中心",
+        "address": "和平街１６４巷２號",
+        "neighborhood": "景福里"
+    },
+    {
+        "name": "明仁大樓社區會議室",
+        "address": "明仁街１５號",
+        "neighborhood": "景安里"
+    },
+    {
+        "name": "台貿景安社區管委會",
+        "address": "景安路１７７巷１９號地下室",
+        "neighborhood": "景安里"
+    },
+    {
+        "name": "景新幼兒園",
+        "address": "景新街２３１之６號",
+        "neighborhood": "景安里"
+    },
+    {
+        "name": "民宅",
+        "address": "安平路１０號",
+        "neighborhood": "景安里"
+    },
+    {
+        "name": "新元幼兒園",
+        "address": "景安路８２巷８弄３號",
+        "neighborhood": "景文里"
+    },
+    {
+        "name": "土地公廟",
+        "address": "景平路５０４巷１０號",
+        "neighborhood": "景文里"
+    },
+    {
+        "name": "錦和市民活動中心",
+        "address": "圓通路３６９巷２號",
+        "neighborhood": "錦和里"
+    },
+    {
+        "name": "錦和國小",
+        "address": "圓通路２９２號",
+        "neighborhood": "錦和里"
+    },
+    {
+        "name": "錦和國小",
+        "address": "圓通路２９２號",
+        "neighborhood": "錦和里"
+    },
+    {
+        "name": "中和新莊餐廳大樓",
+        "address": "圓通路３６５號",
+        "neighborhood": "錦昌里"
+    },
+    {
+        "name": "灰?里活動中心",
+        "address": "員山路２６號",
+        "neighborhood": "灰?里"
+    },
+    {
+        "name": "東德宮",
+        "address": "新生街１１２巷２０號",
+        "neighborhood": "積穗里"
+    },
+    {
+        "name": "捷年高昇社區圖書室",
+        "address": "台新街５至３５號",
+        "neighborhood": "積穗里"
+    },
+    {
+        "name": "元氣大鎮F棟會議室",
+        "address": "中山路三段３７巷２號",
+        "neighborhood": "積穗里"
+    },
+    {
+        "name": "元氣大鎮G棟會議室",
+        "address": "中山路三段３９號",
+        "neighborhood": "積穗里"
+    },
+    {
+        "name": "廣福宮",
+        "address": "中山路三段６３巷２７號",
+        "neighborhood": "積穗里"
+    },
+    {
+        "name": "江南園林活動中心",
+        "address": "中山路二段５２３巷３５號",
+        "neighborhood": "積穗里"
+    },
+    {
+        "name": "民宅",
+        "address": "民治街１３４巷４號",
+        "neighborhood": "民享里"
+    },
+    {
+        "name": "民宅",
+        "address": "民享街８９巷４弄２號",
+        "neighborhood": "民享里"
+    },
+    {
+        "name": "捷和國際大樓中庭",
+        "address": "員山路５０２號",
+        "neighborhood": "員山里"
+    },
+    {
+        "name": "飛躍21科技園區",
+        "address": "中山路三段１０２號",
+        "neighborhood": "員山里"
+    },
+    {
+        "name": "環球購物社教中心(公園旁)",
+        "address": "中山路三段１２０號",
+        "neighborhood": "員山里"
+    },
+    {
+        "name": "嘉穗市民活動中心",
+        "address": "民利街８５巷４號",
+        "neighborhood": "嘉穗里"
+    },
+    {
+        "name": "積穗國小",
+        "address": "員山路１５４號",
+        "neighborhood": "嘉穗里"
+    },
+    {
+        "name": "積穗國小",
+        "address": "員山路１５４號",
+        "neighborhood": "文元里"
+    },
+    {
+        "name": "積穗國小",
+        "address": "員山路１５４號",
+        "neighborhood": "文元里"
+    },
+    {
+        "name": "中和牧心堂",
+        "address": "連城路５２３巷１３弄２號",
+        "neighborhood": "文元里"
+    },
+    {
+        "name": "積穗國中",
+        "address": "民安街６６號",
+        "neighborhood": "嘉新里"
+    },
+    {
+        "name": "積穗國中",
+        "address": "民安街６６號",
+        "neighborhood": "嘉新里"
+    },
+    {
+        "name": "積穗國中",
+        "address": "民安街６６號",
+        "neighborhood": "民安里"
+    },
+    {
+        "name": "積穗國中",
+        "address": "民安街６６號",
+        "neighborhood": "民安里"
+    },
+    {
+        "name": "積穗國中",
+        "address": "民安街６６號",
+        "neighborhood": "民安里"
+    },
+    {
+        "name": "安穗市民活動中心",
+        "address": "員山路２９４巷７號",
+        "neighborhood": "安穗里"
+    },
+    {
+        "name": "積穗國小",
+        "address": "員山路１５４號",
+        "neighborhood": "安穗里"
+    },
+    {
+        "name": "積穗國小",
+        "address": "員山路１５４號",
+        "neighborhood": "安穗里"
+    },
+    {
+        "name": "日新國宅",
+        "address": "中山路三段１８１巷２０至３０號地下室",
+        "neighborhood": "瑞穗里"
+    },
+    {
+        "name": "日新國宅",
+        "address": "中山路三段１８１巷２０至３０號地下室",
+        "neighborhood": "瑞穗里"
+    },
+    {
+        "name": "私立中仁幼兒園",
+        "address": "民享街９２巷２３號",
+        "neighborhood": "明穗里"
+    },
+    {
+        "name": "明穗市民活動中心",
+        "address": "民享街１１４巷９號",
+        "neighborhood": "明穗里"
+    },
+    {
+        "name": "明德市民活動中心",
+        "address": "民德路１９７號（明德公園內）",
+        "neighborhood": "清穗里"
+    },
+    {
+        "name": "明德市民活動中心",
+        "address": "民德路１９７號（明德公園內）",
+        "neighborhood": "清穗里"
+    },
+    {
+        "name": "自強國小145教室",
+        "address": "莒光路２００號（後門進入）",
+        "neighborhood": "自強里"
+    },
+    {
+        "name": "自強國小147教室",
+        "address": "莒光路２００號（後門進入）",
+        "neighborhood": "自強里"
+    },
+    {
+        "name": "自強國小附設幼稚園餐廳",
+        "address": "莒光路２００號（後門進入）",
+        "neighborhood": "自強里"
+    },
+    {
+        "name": "德穗國華市民活動中心",
+        "address": "國光街１號",
+        "neighborhood": "德穗里"
+    },
+    {
+        "name": "時代幼兒園",
+        "address": "莒光路８４巷２２號",
+        "neighborhood": "德穗里"
+    },
+    {
+        "name": "尊爵富邑聯誼廳",
+        "address": "莒光路８４巷４６號（１２鄰）",
+        "neighborhood": "德穗里"
+    },
+    {
+        "name": "民生市民活動中心",
+        "address": "民生街２８巷２之１號",
+        "neighborhood": "民生里"
+    },
+    {
+        "name": "民宅",
+        "address": "民生街２８巷２號",
+        "neighborhood": "民生里"
+    },
+    {
+        "name": "松柏幼兒園",
+        "address": "國光街１１２巷４２號",
+        "neighborhood": "國光里"
+    },
+    {
+        "name": "天下為公社區會議室",
+        "address": "民德路５４號",
+        "neighborhood": "國光里"
+    },
+    {
+        "name": "大順天廈社區活動中心",
+        "address": "民德路３７０號",
+        "neighborhood": "壽德里"
+    },
+    {
+        "name": "壽德丙區管委會",
+        "address": "華順街１３６號",
+        "neighborhood": "壽德里"
+    },
+    {
+        "name": "壽德甲區管委會",
+        "address": "壽德街２５號",
+        "neighborhood": "壽德里"
+    },
+    {
+        "name": "華福市民活動中心",
+        "address": "民德路３１１號",
+        "neighborhood": "明德里"
+    },
+    {
+        "name": "華福市民活動中心",
+        "address": "民德路３１１號",
+        "neighborhood": "明德里"
+    },
+    {
+        "name": "華福市民活動中心",
+        "address": "民德路３１１號",
+        "neighborhood": "明德里"
+    },
+    {
+        "name": "錦和高中",
+        "address": "錦和路１６３號",
+        "neighborhood": "錦中里"
+    },
+    {
+        "name": "錦和高中",
+        "address": "錦和路１６３號",
+        "neighborhood": "錦中里"
+    },
+    {
+        "name": "錦和國小",
+        "address": "圓通路２９２號",
+        "neighborhood": "錦中里"
+    },
+    {
+        "name": "錦和園社區管理委員會",
+        "address": "圓通路３０５巷１８號",
+        "neighborhood": "錦盛里"
+    },
+    {
+        "name": "錦盛市民活動中心",
+        "address": "圓通路３３５巷３７弄１２號",
+        "neighborhood": "錦盛里"
+    },
+    {
+        "name": "民有市民活動中心",
+        "address": "自治街５６號對面",
+        "neighborhood": "民有里"
+    },
+    {
+        "name": "莒東社區長壽俱樂部",
+        "address": "民享街３７號",
+        "neighborhood": "民有里"
+    },
+    {
+        "name": "富貴賞社區中庭",
+        "address": "中正路１２０５號",
+        "neighborhood": "員富里"
+    },
+    {
+        "name": "慈安宮",
+        "address": "員山路６１１巷１１弄４號",
+        "neighborhood": "員富里"
+    },
+    {
+        "name": "中和高中至誠樓社團辦公室",
+        "address": "連城路４６０號",
+        "neighborhood": "嘉慶里"
+    },
+    {
+        "name": "中和高中",
+        "address": "連城路４６０號",
+        "neighborhood": "嘉慶里"
+    },
+    {
+        "name": "中和高中",
+        "address": "連城路４６０號",
+        "neighborhood": "嘉慶里"
+    },
+    {
+        "name": "名人花園廣場活動中心",
+        "address": "民享街３６巷１號",
+        "neighborhood": "冠穗里"
+    },
+    {
+        "name": "冠穗市民活動中心",
+        "address": "莒光路１２９巷２弄２４號",
+        "neighborhood": "冠穗里"
+    },
+    {
+        "name": "鎮南宮",
+        "address": "國光街８１號",
+        "neighborhood": "國華里"
+    },
+    {
+        "name": "頂天立地公寓大廈",
+        "address": "民德路６９號",
+        "neighborhood": "國華里"
+    },
+    {
+        "name": "停車場旁",
+        "address": "宜安路32號旁",
+        "neighborhood": "宜安里"
+    },
+    {
+        "name": "觀音禪院",
+        "address": "安樂路２１７巷２２號",
+        "neighborhood": "安樂里"
+    },
+    {
+        "name": "空地",
+        "address": "安平路與中安街口(四號公園角落)",
+        "neighborhood": "安樂里"
+    },
+    {
+        "name": "安和市民活動中心",
+        "address": "保健路４４巷２號",
+        "neighborhood": "安和里"
+    },
+    {
+        "name": "樂墘宮",
+        "address": "安平路９９號",
+        "neighborhood": "安和里"
+    },
+    {
+        "name": "甜蕃茄社區中庭",
+        "address": "安平路３６巷５３號",
+        "neighborhood": "安順里"
+    },
+    {
+        "name": "華泰椰城椰林區中庭",
+        "address": "安平路７２號",
+        "neighborhood": "安順里"
+    },
+    {
+        "name": "配天宮",
+        "address": "保健路２９巷２號",
+        "neighborhood": "安平里"
+    },
+    {
+        "name": "民宅車庫",
+        "address": "中和路２６２巷２４弄５號",
+        "neighborhood": "安平里"
+    },
+    {
+        "name": "林氏公廳",
+        "address": "中和路３５０巷８弄１之２號１樓",
+        "neighborhood": "安平里"
+    },
+    {
+        "name": "中央圖書館台灣分館B1樂學室",
+        "address": "中安街８５號地下室",
+        "neighborhood": "中安里"
+    },
+    {
+        "name": "中央圖書館台灣分館B1文化走廊",
+        "address": "中安街８５號地下室",
+        "neighborhood": "中安里"
+    },
+    {
+        "name": "中央圖書館台灣分館B1國際會議廳",
+        "address": "中安街８５號地下室",
+        "neighborhood": "中安里"
+    },
+    {
+        "name": "中華幼兒園",
+        "address": "中和路２４４巷１０號",
+        "neighborhood": "泰安里"
+    },
+    {
+        "name": "雙和幼兒園",
+        "address": "保健路４０號",
+        "neighborhood": "泰安里"
+    },
+    {
+        "name": "玉聖宮",
+        "address": "保健路１０巷２４號",
+        "neighborhood": "泰安里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀山里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀山里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀山里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀成里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀成里"
+    },
+    {
+        "name": "永愛幼兒園中庭",
+        "address": "秀朗路三段１１４號",
+        "neighborhood": "秀義里"
+    },
+    {
+        "name": "民宅",
+        "address": "秀朗路三段７８巷１弄３號",
+        "neighborhood": "秀義里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀福里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀福里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀福里"
+    },
+    {
+        "name": "力霸大廈活動中心",
+        "address": "成功路１３１號",
+        "neighborhood": "秀景里"
+    },
+    {
+        "name": "百年好合親子園",
+        "address": "秀朗路三段１７５巷１０號",
+        "neighborhood": "秀景里"
+    },
+    {
+        "name": "尖山腳市民活動中心",
+        "address": "成功路９７巷７號",
+        "neighborhood": "秀景里"
+    },
+    {
+        "name": "翠隄雙星中庭",
+        "address": "成功路９至２３號",
+        "neighborhood": "秀景里"
+    },
+    {
+        "name": "中和基督之家",
+        "address": "景平路２７８巷１４弄１６號",
+        "neighborhood": "秀明里"
+    },
+    {
+        "name": "東帝巿大廈管理室",
+        "address": "景平路２００號內",
+        "neighborhood": "秀明里"
+    },
+    {
+        "name": "秀明公園",
+        "address": "大勇街２９巷１號對面",
+        "neighborhood": "秀明里"
+    },
+    {
+        "name": "土地公廟活動中心",
+        "address": "秀峰街８５巷３３號",
+        "neighborhood": "秀峰里"
+    },
+    {
+        "name": "土地公廟活動中心",
+        "address": "秀峰街８５巷３３號",
+        "neighborhood": "秀峰里"
+    },
+    {
+        "name": "冠德住易中庭",
+        "address": "景德街２６號旁",
+        "neighborhood": "秀峰里"
+    },
+    {
+        "name": "景新國小(風雨操場)",
+        "address": "景平路１１１巷１９號旁(景新國小後門)",
+        "neighborhood": "秀士里"
+    },
+    {
+        "name": "景新國小(風雨操場)",
+        "address": "景平路１１１巷１９號旁(景新國小後門)",
+        "neighborhood": "秀士里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀水里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立仁街２號",
+        "neighborhood": "秀水里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀水里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀仁里"
+    },
+    {
+        "name": "秀山國小",
+        "address": "立人街２號",
+        "neighborhood": "秀仁里"
+    }
+]

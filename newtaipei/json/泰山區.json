@@ -1,0 +1,237 @@
+[
+    {
+        "name": "大科市民活動中心",
+        "address": "大科路４２號",
+        "neighborhood": "大科里"
+    },
+    {
+        "name": "南亞林口廠福利社",
+        "address": "南林路１０１號",
+        "neighborhood": "大科里"
+    },
+    {
+        "name": "黎明市民活動中心",
+        "address": "黎明路２３號",
+        "neighborhood": "黎明里"
+    },
+    {
+        "name": "泰山國中",
+        "address": "泰林路二段４９８號",
+        "neighborhood": "黎明里"
+    },
+    {
+        "name": "泰山國中",
+        "address": "泰林路二段４９８號",
+        "neighborhood": "山腳里"
+    },
+    {
+        "name": "泰山國中",
+        "address": "泰林路二段４９８號",
+        "neighborhood": "山腳里"
+    },
+    {
+        "name": "泰山國小",
+        "address": "泰林路二段２５５號",
+        "neighborhood": "山腳里"
+    },
+    {
+        "name": "泰山國小",
+        "address": "泰林路二段２５５號",
+        "neighborhood": "山腳里"
+    },
+    {
+        "name": "楓樹福泰市民活動中心",
+        "address": "楓江路２６巷２６號",
+        "neighborhood": "福泰里"
+    },
+    {
+        "name": "楓樹福泰市民活動中心",
+        "address": "楓江路２６巷２６號",
+        "neighborhood": "福泰里"
+    },
+    {
+        "name": "泰山國小",
+        "address": "泰林路二段２５５號",
+        "neighborhood": "福興里"
+    },
+    {
+        "name": "泰山國小",
+        "address": "泰林路二段２５５號",
+        "neighborhood": "福興里"
+    },
+    {
+        "name": "山腳市民活動中心",
+        "address": "福德街１４號",
+        "neighborhood": "楓樹里"
+    },
+    {
+        "name": "泰山國小",
+        "address": "泰林路二段２５５號",
+        "neighborhood": "楓樹里"
+    },
+    {
+        "name": "楓樹福泰市民活動中心2樓",
+        "address": "楓江路２６巷２６號２樓",
+        "neighborhood": "楓樹里"
+    },
+    {
+        "name": "泰山高中",
+        "address": "辭修路７號",
+        "neighborhood": "同榮里"
+    },
+    {
+        "name": "泰山高中",
+        "address": "辭修路７號",
+        "neighborhood": "同榮里"
+    },
+    {
+        "name": "同榮國小",
+        "address": "公園路３３號",
+        "neighborhood": "同榮里"
+    },
+    {
+        "name": "泰山高中",
+        "address": "辭修路７號",
+        "neighborhood": "同興里"
+    },
+    {
+        "name": "泰山高中",
+        "address": "辭修路７號",
+        "neighborhood": "同興里"
+    },
+    {
+        "name": "義學國小",
+        "address": "民生路３０號",
+        "neighborhood": "全興里"
+    },
+    {
+        "name": "義學國小",
+        "address": "民生路３０號",
+        "neighborhood": "全興里"
+    },
+    {
+        "name": "義學國小",
+        "address": "民生路３０號",
+        "neighborhood": "全興里"
+    },
+    {
+        "name": "義學國小",
+        "address": "民生路３０號",
+        "neighborhood": "全興里"
+    },
+    {
+        "name": "義學國小",
+        "address": "民生路３０號",
+        "neighborhood": "全興里"
+    },
+    {
+        "name": "同榮國小",
+        "address": "公園路３３號",
+        "neighborhood": "義學里"
+    },
+    {
+        "name": "同榮國小",
+        "address": "公園路３３號",
+        "neighborhood": "義學里"
+    },
+    {
+        "name": "義學市民活動中心",
+        "address": "明志路二段１０６號",
+        "neighborhood": "義學里"
+    },
+    {
+        "name": "義學國中",
+        "address": "民生路３３號",
+        "neighborhood": "義仁里"
+    },
+    {
+        "name": "義學國中",
+        "address": "民生路３３號",
+        "neighborhood": "義仁里"
+    },
+    {
+        "name": "義仁市民活動中心",
+        "address": "明志路二段１７７號",
+        "neighborhood": "義仁里"
+    },
+    {
+        "name": "義學國中",
+        "address": "民生路３３號",
+        "neighborhood": "義仁里"
+    },
+    {
+        "name": "明志國小",
+        "address": "新生路２號",
+        "neighborhood": "明志里"
+    },
+    {
+        "name": "明志國小",
+        "address": "新生路２號",
+        "neighborhood": "明志里"
+    },
+    {
+        "name": "明志市民活動中心",
+        "address": "明志路二段４２６號",
+        "neighborhood": "明志里"
+    },
+    {
+        "name": "明志國小",
+        "address": "新生路２號",
+        "neighborhood": "泰友里"
+    },
+    {
+        "name": "明志國小",
+        "address": "新生路２號",
+        "neighborhood": "泰友里"
+    },
+    {
+        "name": "明志國小",
+        "address": "新生路２號",
+        "neighborhood": "新明里"
+    },
+    {
+        "name": "明志國小",
+        "address": "新生路２號",
+        "neighborhood": "新明里"
+    },
+    {
+        "name": "頂泰山巖交誼中心",
+        "address": "應化街３２號",
+        "neighborhood": "貴子里"
+    },
+    {
+        "name": "明志科技大學（綜合大樓1樓）",
+        "address": "工專路８４號",
+        "neighborhood": "貴子里"
+    },
+    {
+        "name": "貴子市民活動中心",
+        "address": "工專路２２號",
+        "neighborhood": "貴子里"
+    },
+    {
+        "name": "明志國小",
+        "address": "新生路２號",
+        "neighborhood": "貴賢里"
+    },
+    {
+        "name": "貴賢市民活動中心",
+        "address": "明志路三段１９７號",
+        "neighborhood": "貴賢里"
+    },
+    {
+        "name": "道明幼稚園",
+        "address": "明志路三段２９５號",
+        "neighborhood": "貴和里"
+    },
+    {
+        "name": "道明幼稚園",
+        "address": "明志路三段２９５號",
+        "neighborhood": "貴和里"
+    },
+    {
+        "name": "貴和市民活動中心",
+        "address": "明志路三段３６５號",
+        "neighborhood": "貴和里"
+    }
+]

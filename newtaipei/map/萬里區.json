@@ -1,0 +1,146 @@
+[
+    {
+        "name": "萬里國小",
+        "address": "瑪鋉路１８號",
+        "neighborhood": "萬里里",
+        "location": {
+            "lat": 25.1821074,
+            "lng": 121.6880895
+        }
+    },
+    {
+        "name": "萬里國小",
+        "address": "瑪鋉路１８號",
+        "neighborhood": "萬里里",
+        "location": {
+            "lat": 25.1821074,
+            "lng": 121.6880895
+        }
+    },
+    {
+        "name": "萬里區老人會",
+        "address": "瑪鋉路２６１號",
+        "neighborhood": "萬里里",
+        "location": {
+            "lat": 25.1821074,
+            "lng": 121.6880895
+        }
+    },
+    {
+        "name": "中華商業海事學校",
+        "address": "瑪鋉路１５號",
+        "neighborhood": "北基里",
+        "location": {
+            "lat": 25.1753594,
+            "lng": 121.6871523
+        }
+    },
+    {
+        "name": "中華商業海事學校",
+        "address": "瑪鋉路１５號",
+        "neighborhood": "北基里",
+        "location": {
+            "lat": 25.1753594,
+            "lng": 121.6871523
+        }
+    },
+    {
+        "name": "龜吼里活動中心",
+        "address": "玉田４５號之３",
+        "neighborhood": "龜吼里",
+        "location": {
+            "lat": 25.200692,
+            "lng": 121.676295
+        }
+    },
+    {
+        "name": "龜吼里保民宮",
+        "address": "鼓亭１４號",
+        "neighborhood": "龜吼里",
+        "location": {
+            "lat": 25.1901006,
+            "lng": 121.6837325
+        }
+    },
+    {
+        "name": "野柳國小",
+        "address": "港東１６７號",
+        "neighborhood": "野柳里",
+        "location": {
+            "lat": 25.2040931,
+            "lng": 121.6878148
+        }
+    },
+    {
+        "name": "野柳市民活動中心",
+        "address": "港東新?１之６號",
+        "neighborhood": "野柳里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "大鵬國小",
+        "address": "加投１４號",
+        "neighborhood": "大鵬里",
+        "location": {
+            "lat": 25.214718,
+            "lng": 121.6476673
+        }
+    },
+    {
+        "name": "加投社區活動中心",
+        "address": "加投１５３之１號",
+        "neighborhood": "大鵬里",
+        "location": {
+            "lat": 25.214718,
+            "lng": 121.6476673
+        }
+    },
+    {
+        "name": "大鵬國小",
+        "address": "加投１４號",
+        "neighborhood": "磺潭里",
+        "location": {
+            "lat": 25.214718,
+            "lng": 121.6476673
+        }
+    },
+    {
+        "name": "雙興里活動中心",
+        "address": "二坪１之１號",
+        "neighborhood": "雙興里",
+        "location": {
+            "lat": 25.1677033,
+            "lng": 121.6446346
+        }
+    },
+    {
+        "name": "大坪國小溪底分校",
+        "address": "富士坪２號",
+        "neighborhood": "溪底里",
+        "location": {
+            "lat": 25.153413,
+            "lng": 121.618522
+        }
+    },
+    {
+        "name": "崁?市民活動中心",
+        "address": "崁?５５之１號",
+        "neighborhood": "崁?里",
+        "location": {
+            "lat": 25.1759227,
+            "lng": 121.6877855
+        }
+    },
+    {
+        "name": "中幅社區活動中心",
+        "address": "中福１１２之１號",
+        "neighborhood": "中幅里",
+        "location": {
+            "lat": 25.171926,
+            "lng": 121.6796549
+        }
+    }
+]

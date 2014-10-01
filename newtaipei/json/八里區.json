@@ -1,0 +1,92 @@
+[
+    {
+        "name": "空屋",
+        "address": "頂寮２街８５號",
+        "neighborhood": "龍源里"
+    },
+    {
+        "name": "龍米市民活動中心",
+        "address": "龍米路一段２２３號",
+        "neighborhood": "龍源里"
+    },
+    {
+        "name": "聖心小學活動中心",
+        "address": "龍米路一段２６１號",
+        "neighborhood": "龍源里"
+    },
+    {
+        "name": "米倉國小（101）教室",
+        "address": "龍米路二段１２９巷１號",
+        "neighborhood": "米倉里"
+    },
+    {
+        "name": "渡船頭市民活動中心",
+        "address": "渡船頭街１１巷８號",
+        "neighborhood": "米倉里"
+    },
+    {
+        "name": "大崁老人文康活動中心",
+        "address": "中山路一段２１號",
+        "neighborhood": "大崁里"
+    },
+    {
+        "name": "大埤頂市民活動中心",
+        "address": "中山路一段９５號",
+        "neighborhood": "埤頭里"
+    },
+    {
+        "name": "中庄市場綜合大樓3樓(市民活動中心）",
+        "address": "中山路一段１０９號",
+        "neighborhood": "埤頭里"
+    },
+    {
+        "name": "北極宮",
+        "address": "文昌路８９號之２",
+        "neighborhood": "頂罟里"
+    },
+    {
+        "name": "文化活動中心",
+        "address": "中山路二段２５１號",
+        "neighborhood": "舊城里"
+    },
+    {
+        "name": "八里國小明德樓(1106)教室",
+        "address": "中山路二段３３８號",
+        "neighborhood": "舊城里"
+    },
+    {
+        "name": "八里國小明德樓(1107)教室",
+        "address": "中山路二段３３８號",
+        "neighborhood": "舊城里"
+    },
+    {
+        "name": "八里國小明德樓(1108)教室",
+        "address": "中山路二段３３８號",
+        "neighborhood": "舊城里"
+    },
+    {
+        "name": "八里國小朝陽樓(4104)教室",
+        "address": "中山路二段３３８號",
+        "neighborhood": "訊塘里"
+    },
+    {
+        "name": "八里國小朝陽樓(4105)教室",
+        "address": "中山路二段３３８號",
+        "neighborhood": "訊塘里"
+    },
+    {
+        "name": "下庄市場綜合大樓4樓(市民活動中心）",
+        "address": "舊城路１９號４樓",
+        "neighborhood": "荖阡里"
+    },
+    {
+        "name": "長坑活動中心（長坑國小內）",
+        "address": "中華路三段２３６號",
+        "neighborhood": "長坑里"
+    },
+    {
+        "name": "下罟長青活動中心",
+        "address": "中山三段１７３號",
+        "neighborhood": "下罟里"
+    }
+]

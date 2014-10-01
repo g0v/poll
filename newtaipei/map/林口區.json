@@ -1,0 +1,443 @@
+[
+    {
+        "name": "醒吾中學",
+        "address": "粉寮路一段７５巷８０號",
+        "neighborhood": "東林里",
+        "location": {
+            "lat": 25.073376,
+            "lng": 121.3720511
+        }
+    },
+    {
+        "name": "醒吾中學",
+        "address": "粉寮路一段７５巷８０號",
+        "neighborhood": "東林里",
+        "location": {
+            "lat": 25.073376,
+            "lng": 121.3720511
+        }
+    },
+    {
+        "name": "醒吾中學",
+        "address": "粉寮路一段７５巷８０號",
+        "neighborhood": "東林里",
+        "location": {
+            "lat": 25.073376,
+            "lng": 121.3720511
+        }
+    },
+    {
+        "name": "醒吾中學",
+        "address": "粉寮路一段７５巷８０號",
+        "neighborhood": "林口里",
+        "location": {
+            "lat": 25.073376,
+            "lng": 121.3720511
+        }
+    },
+    {
+        "name": "醒吾中學",
+        "address": "粉寮路一段７５巷８０號",
+        "neighborhood": "林口里",
+        "location": {
+            "lat": 25.073376,
+            "lng": 121.3720511
+        }
+    },
+    {
+        "name": "醒吾中學",
+        "address": "粉寮路一段７５巷８０號",
+        "neighborhood": "林口里",
+        "location": {
+            "lat": 25.073376,
+            "lng": 121.3720511
+        }
+    },
+    {
+        "name": "林口高中",
+        "address": "仁愛路二段１７３號",
+        "neighborhood": "西林里",
+        "location": {
+            "lat": 25.0744316,
+            "lng": 121.3825094
+        }
+    },
+    {
+        "name": "林口高中",
+        "address": "仁愛路二段１７３號",
+        "neighborhood": "西林里",
+        "location": {
+            "lat": 25.0744316,
+            "lng": 121.3825094
+        }
+    },
+    {
+        "name": "林口高中",
+        "address": "仁愛路二段１７３號",
+        "neighborhood": "西林里",
+        "location": {
+            "lat": 25.0744316,
+            "lng": 121.3825094
+        }
+    },
+    {
+        "name": "林口高中",
+        "address": "仁愛路二段１７３號",
+        "neighborhood": "西林里",
+        "location": {
+            "lat": 25.0744316,
+            "lng": 121.3825094
+        }
+    },
+    {
+        "name": "林口高中",
+        "address": "仁愛路二段１７３號　",
+        "neighborhood": "西林里",
+        "location": {
+            "lat": 25.0744316,
+            "lng": 121.3825094
+        }
+    },
+    {
+        "name": "林口國小",
+        "address": "林口路７６號",
+        "neighborhood": "菁湖里",
+        "location": {
+            "lat": 25.0805749,
+            "lng": 121.389193
+        }
+    },
+    {
+        "name": "林口國小",
+        "address": "林口路７６號",
+        "neighborhood": "菁湖里",
+        "location": {
+            "lat": 25.0805749,
+            "lng": 121.389193
+        }
+    },
+    {
+        "name": "林口國小",
+        "address": "林口路７６號",
+        "neighborhood": "菁湖里",
+        "location": {
+            "lat": 25.0805749,
+            "lng": 121.389193
+        }
+    },
+    {
+        "name": "佳林國中",
+        "address": "中山路２６８號",
+        "neighborhood": "中湖里",
+        "location": {
+            "lat": 25.0284866,
+            "lng": 121.4120735
+        }
+    },
+    {
+        "name": "佳林國中",
+        "address": "中山路２６８號",
+        "neighborhood": "中湖里",
+        "location": {
+            "lat": 25.0284866,
+            "lng": 121.4120735
+        }
+    },
+    {
+        "name": "湖北市民活動中心",
+        "address": "後湖１７之６號",
+        "neighborhood": "湖北里",
+        "location": {
+            "lat": 25.0854533,
+            "lng": 121.4048034
+        }
+    },
+    {
+        "name": "頭湖國小",
+        "address": "民權路１０１號",
+        "neighborhood": "湖南里",
+        "location": {
+            "lat": 25.0827248,
+            "lng": 121.3733423
+        }
+    },
+    {
+        "name": "頭湖國小",
+        "address": "民權路１０１號　",
+        "neighborhood": "湖南里",
+        "location": {
+            "lat": 25.0827248,
+            "lng": 121.3733423
+        }
+    },
+    {
+        "name": "頭湖國小",
+        "address": "民權路１０１號　",
+        "neighborhood": "湖南里",
+        "location": {
+            "lat": 25.0827248,
+            "lng": 121.3733423
+        }
+    },
+    {
+        "name": "頭湖國小",
+        "address": "民權路１０１號　",
+        "neighborhood": "湖南里",
+        "location": {
+            "lat": 25.0827248,
+            "lng": 121.3733423
+        }
+    },
+    {
+        "name": "林口國中",
+        "address": "民治路２５號",
+        "neighborhood": "湖南里",
+        "location": {
+            "lat": 25.0758303,
+            "lng": 121.3773441
+        }
+    },
+    {
+        "name": "林口國中",
+        "address": "民治路２５號",
+        "neighborhood": "湖南里",
+        "location": {
+            "lat": 25.0758303,
+            "lng": 121.3773441
+        }
+    },
+    {
+        "name": "林口國中",
+        "address": "民治路２５號",
+        "neighborhood": "湖南里",
+        "location": {
+            "lat": 25.0758303,
+            "lng": 121.3773441
+        }
+    },
+    {
+        "name": "林口國中",
+        "address": "民治路２５號",
+        "neighborhood": "湖南里",
+        "location": {
+            "lat": 25.0758303,
+            "lng": 121.3773441
+        }
+    },
+    {
+        "name": "南勢國小",
+        "address": "南勢街２１５號",
+        "neighborhood": "南勢里",
+        "location": {
+            "lat": 25.0741718,
+            "lng": 121.3832913
+        }
+    },
+    {
+        "name": "南勢國小",
+        "address": "南勢街２１５號",
+        "neighborhood": "南勢里",
+        "location": {
+            "lat": 25.0741718,
+            "lng": 121.3832913
+        }
+    },
+    {
+        "name": "南勢國小",
+        "address": "南勢街２１５號",
+        "neighborhood": "南勢里",
+        "location": {
+            "lat": 25.0741718,
+            "lng": 121.3832913
+        }
+    },
+    {
+        "name": "南勢國小",
+        "address": "南勢街２１５號",
+        "neighborhood": "南勢里",
+        "location": {
+            "lat": 25.0741718,
+            "lng": 121.3832913
+        }
+    },
+    {
+        "name": "新北特殊教育學校",
+        "address": "文化北路一段４２５號",
+        "neighborhood": "南勢里",
+        "location": {
+            "lat": 25.0736725,
+            "lng": 121.3614489
+        }
+    },
+    {
+        "name": "新北特殊教育學校",
+        "address": "文化北路一段４２５號",
+        "neighborhood": "南勢里",
+        "location": {
+            "lat": 25.0736725,
+            "lng": 121.3614489
+        }
+    },
+    {
+        "name": "新北特殊教育學校",
+        "address": "文化北路一段４２５號",
+        "neighborhood": "南勢里",
+        "location": {
+            "lat": 25.0736725,
+            "lng": 121.3614489
+        }
+    },
+    {
+        "name": "林口國中",
+        "address": "民治路２５號",
+        "neighborhood": "仁愛里",
+        "location": {
+            "lat": 25.0758303,
+            "lng": 121.3773441
+        }
+    },
+    {
+        "name": "林口國中",
+        "address": "民治路２５號",
+        "neighborhood": "仁愛里",
+        "location": {
+            "lat": 25.0758303,
+            "lng": 121.3773441
+        }
+    },
+    {
+        "name": "林口國中",
+        "address": "民治路２５號",
+        "neighborhood": "仁愛里",
+        "location": {
+            "lat": 25.0758303,
+            "lng": 121.3773441
+        }
+    },
+    {
+        "name": "麗林國小",
+        "address": "公園路４６號",
+        "neighborhood": "麗林里",
+        "location": {
+            "lat": 25.0682715,
+            "lng": 121.3673341
+        }
+    },
+    {
+        "name": "麗林國小",
+        "address": "公園路４６號",
+        "neighborhood": "麗林里",
+        "location": {
+            "lat": 25.0682715,
+            "lng": 121.3673341
+        }
+    },
+    {
+        "name": "麗林國小",
+        "address": "公園路４６號",
+        "neighborhood": "麗林里",
+        "location": {
+            "lat": 25.0682715,
+            "lng": 121.3673341
+        }
+    },
+    {
+        "name": "麗林國小",
+        "address": "公園路４６號",
+        "neighborhood": "麗林里",
+        "location": {
+            "lat": 25.0682715,
+            "lng": 121.3673341
+        }
+    },
+    {
+        "name": "麗園國小",
+        "address": "忠孝路５９１號",
+        "neighborhood": "東勢里",
+        "location": {
+            "lat": 25.06844,
+            "lng": 121.3777353
+        }
+    },
+    {
+        "name": "麗園國小",
+        "address": "忠孝路５９１號",
+        "neighborhood": "東勢里",
+        "location": {
+            "lat": 25.06844,
+            "lng": 121.3777353
+        }
+    },
+    {
+        "name": "麗園國小",
+        "address": "忠孝路５９１號",
+        "neighborhood": "東勢里",
+        "location": {
+            "lat": 25.06844,
+            "lng": 121.3777353
+        }
+    },
+    {
+        "name": "麗園國小",
+        "address": "忠孝路５９１號",
+        "neighborhood": "麗園里",
+        "location": {
+            "lat": 25.06844,
+            "lng": 121.3777353
+        }
+    },
+    {
+        "name": "麗園國小",
+        "address": "忠孝路５９１號",
+        "neighborhood": "麗園里",
+        "location": {
+            "lat": 25.06844,
+            "lng": 121.3777353
+        }
+    },
+    {
+        "name": "頂福里集會所",
+        "address": "頂福２０號之１６（祖師公廟旁）",
+        "neighborhood": "頂福里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "興福國小",
+        "address": "下福１０之１號",
+        "neighborhood": "下福里",
+        "location": {
+            "lat": 25.1115592,
+            "lng": 121.3084221
+        }
+    },
+    {
+        "name": "嘉寶國小",
+        "address": "嘉溪雅坑２２號",
+        "neighborhood": "嘉寶里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "瑞平國小",
+        "address": "後坑３４之１號",
+        "neighborhood": "瑞平里",
+        "location": {
+            "lat": 25.13222,
+            "lng": 121.3565918
+        }
+    },
+    {
+        "name": "瑞平國小",
+        "address": "後坑３４之１號",
+        "neighborhood": "太平里",
+        "location": {
+            "lat": 25.13222,
+            "lng": 121.3565918
+        }
+    }
+]

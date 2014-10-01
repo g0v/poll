@@ -1,0 +1,342 @@
+[
+    {
+        "name": "三峽興隆宮",
+        "address": "民權街５０號",
+        "neighborhood": "三峽里"
+    },
+    {
+        "name": "三峽祖師廟會議室",
+        "address": "長福街１號",
+        "neighborhood": "秀川里"
+    },
+    {
+        "name": "八張市民活動中心",
+        "address": "民族街１２２號",
+        "neighborhood": "八張里"
+    },
+    {
+        "name": "基督長老教會",
+        "address": "民族街１號",
+        "neighborhood": "八張里"
+    },
+    {
+        "name": "中園國小（C112）",
+        "address": "大同路２２２巷２２弄２號",
+        "neighborhood": "中埔里"
+    },
+    {
+        "name": "中園國小（C113）",
+        "address": "大同路２２２巷２２弄２號",
+        "neighborhood": "中埔里"
+    },
+    {
+        "name": "弘道市民活動中心",
+        "address": "弘道２５之１號",
+        "neighborhood": "弘道里"
+    },
+    {
+        "name": "三峽國小2年1班",
+        "address": "中山路１６號",
+        "neighborhood": "永?里"
+    },
+    {
+        "name": "三峽國小2年2班",
+        "address": "中山路１６號",
+        "neighborhood": "永?里"
+    },
+    {
+        "name": "三峽國小1年1班",
+        "address": "中山路１６號",
+        "neighborhood": "永?里"
+    },
+    {
+        "name": "三峽國中補教教室一",
+        "address": "復興路238號",
+        "neighborhood": "永?里"
+    },
+    {
+        "name": "三峽國中補教教室二",
+        "address": "復興路238號",
+        "neighborhood": "永?里"
+    },
+    {
+        "name": "三峽國小1年2班",
+        "address": "中山路１６號",
+        "neighborhood": "鳶山里"
+    },
+    {
+        "name": "三峽國小1年3班",
+        "address": "中山路１６號",
+        "neighborhood": "鳶山里"
+    },
+    {
+        "name": "三峽國小1年4班",
+        "address": "中山路１６號",
+        "neighborhood": "鳶山里"
+    },
+    {
+        "name": "三峽國小幼兒園３０１（長青市民活動中心對面）",
+        "address": "中山路１６號",
+        "neighborhood": "鳶山里"
+    },
+    {
+        "name": "三峽國小幼兒園５０７（長青市民活動中心對面）",
+        "address": "中山路１６號",
+        "neighborhood": "鳶山里"
+    },
+    {
+        "name": "長青市民活動中心",
+        "address": "中山路６５號",
+        "neighborhood": "鳶山里"
+    },
+    {
+        "name": "龍埔市民活動中心",
+        "address": "三樹路２１４巷９號",
+        "neighborhood": "龍埔里"
+    },
+    {
+        "name": "啟育幼稚園",
+        "address": "民生街５９號",
+        "neighborhood": "龍埔里"
+    },
+    {
+        "name": "啟育幼稚園",
+        "address": "民生街５９號",
+        "neighborhood": "龍埔里"
+    },
+    {
+        "name": "啟育幼稚園",
+        "address": "民生街５９號",
+        "neighborhood": "龍埔里"
+    },
+    {
+        "name": "三峽國中903教室",
+        "address": "復興路２３８號",
+        "neighborhood": "龍埔里"
+    },
+    {
+        "name": "台北大學商學院1F04",
+        "address": "大學路１５１號",
+        "neighborhood": "龍恩里"
+    },
+    {
+        "name": "台北大學商學院1F05",
+        "address": "大學路１５１號",
+        "neighborhood": "龍恩里"
+    },
+    {
+        "name": "台北大學商學院1F09",
+        "address": "大學路１５１號",
+        "neighborhood": "龍恩里"
+    },
+    {
+        "name": "龍埔國小101",
+        "address": "大學路６號",
+        "neighborhood": "龍學里"
+    },
+    {
+        "name": "龍埔國小103",
+        "address": "大學路６號",
+        "neighborhood": "龍學里"
+    },
+    {
+        "name": "龍埔國小107",
+        "address": "大學路６號",
+        "neighborhood": "龍學里"
+    },
+    {
+        "name": "龍埔國小301",
+        "address": "大學路６號",
+        "neighborhood": "龍學里"
+    },
+    {
+        "name": "龍埔國小303",
+        "address": "大學路６號",
+        "neighborhood": "龍學里"
+    },
+    {
+        "name": "龍埔國小英語1",
+        "address": "大學路６號",
+        "neighborhood": "龍學里"
+    },
+    {
+        "name": "龍埔國小502",
+        "address": "大學路６號",
+        "neighborhood": "龍學里"
+    },
+    {
+        "name": "介壽國小1年1班教室",
+        "address": "大同路１號",
+        "neighborhood": "礁溪里"
+    },
+    {
+        "name": "安溪國小6年9班",
+        "address": "中華路４２號",
+        "neighborhood": "礁溪里"
+    },
+    {
+        "name": "安溪國小4年8班",
+        "address": "中華路４２號",
+        "neighborhood": "礁溪里"
+    },
+    {
+        "name": "安溪國小2年6班",
+        "address": "中華路４２號",
+        "neighborhood": "安溪里"
+    },
+    {
+        "name": "安溪國小1年5班",
+        "address": "中華路４２號",
+        "neighborhood": "安溪里"
+    },
+    {
+        "name": "安溪國小1年6班",
+        "address": "中華路４２號",
+        "neighborhood": "安溪里"
+    },
+    {
+        "name": "安溪國小3年6班",
+        "address": "中華路４２號",
+        "neighborhood": "安溪里"
+    },
+    {
+        "name": "安溪、礁溪、介壽、中正市民活動中心",
+        "address": "永安街９巷５號",
+        "neighborhood": "介壽里"
+    },
+    {
+        "name": "介壽國小1年級4班教室",
+        "address": "大同路１號",
+        "neighborhood": "介壽里"
+    },
+    {
+        "name": "介壽國小1年級5班教室",
+        "address": "大同路１號",
+        "neighborhood": "介壽里"
+    },
+    {
+        "name": "介壽國小1年級6班教室",
+        "address": "大同路１號",
+        "neighborhood": "介壽里"
+    },
+    {
+        "name": "安溪國中(中宇樓一樓教室第1間)",
+        "address": "大同路１３５號",
+        "neighborhood": "中正里"
+    },
+    {
+        "name": "安溪國中(中宇樓一樓教室第2間)",
+        "address": "大同路１３５號",
+        "neighborhood": "中正里"
+    },
+    {
+        "name": "安溪國中(中宇樓一樓教室第3間)",
+        "address": "大同路１３５號",
+        "neighborhood": "中正里"
+    },
+    {
+        "name": "大埔國小一忠教室",
+        "address": "大埔路１３０號",
+        "neighborhood": "大埔里"
+    },
+    {
+        "name": "大埔國小二忠教室",
+        "address": "大埔路１３０號",
+        "neighborhood": "大埔里"
+    },
+    {
+        "name": "大埔國小三忠教室",
+        "address": "大埔路１３０號",
+        "neighborhood": "大埔里"
+    },
+    {
+        "name": "仁愛市民活動中心",
+        "address": "嘉添３０號",
+        "neighborhood": "嘉添里"
+    },
+    {
+        "name": "臺北榮家外廣場",
+        "address": "白雞路１２７號",
+        "neighborhood": "嘉添里"
+    },
+    {
+        "name": "添福市民活動中心",
+        "address": "添福５７之１號",
+        "neighborhood": "添福里"
+    },
+    {
+        "name": "互助橋旁(綠竹香餐廳邊)",
+        "address": "圳頭1-1號",
+        "neighborhood": "金圳里"
+    },
+    {
+        "name": "五寮市民活動中心",
+        "address": "五寮８９之９號",
+        "neighborhood": "五寮里"
+    },
+    {
+        "name": "插角國小",
+        "address": "插角３９號",
+        "neighborhood": "插角里"
+    },
+    {
+        "name": "有木國小",
+        "address": "有木１３１號",
+        "neighborhood": "有木里"
+    },
+    {
+        "name": "明德高中(擎藝樓一樓410教室)",
+        "address": "中正路二段３９９號",
+        "neighborhood": "二鬮里"
+    },
+    {
+        "name": "明德高中(擎藝樓一樓611教室)",
+        "address": "中正路二段３９９號",
+        "neighborhood": "二鬮里"
+    },
+    {
+        "name": "中興市民活動中心",
+        "address": "介壽路二段１３６巷６３號",
+        "neighborhood": "溪南里"
+    },
+    {
+        "name": "林絨(民宅)",
+        "address": "介壽路三段１８３號",
+        "neighborhood": "溪北里"
+    },
+    {
+        "name": "溪北市民活動中心",
+        "address": "溪北街８７號",
+        "neighborhood": "溪北里"
+    },
+    {
+        "name": "成福國小(視聽教室)",
+        "address": "溪東路２１３號",
+        "neighborhood": "溪東里"
+    },
+    {
+        "name": "溪東市民活動中心",
+        "address": "溪東路２１８巷１號",
+        "neighborhood": "溪東里"
+    },
+    {
+        "name": "成福市民活動中心",
+        "address": "成福路４４號",
+        "neighborhood": "成福里"
+    },
+    {
+        "name": "竹崙市民活動中心",
+        "address": "竹崙路１４６號",
+        "neighborhood": "竹崙里"
+    },
+    {
+        "name": "靈隱寺",
+        "address": "紫微南路１１號",
+        "neighborhood": "竹崙里"
+    },
+    {
+        "name": "建安國小",
+        "address": "建安６７號",
+        "neighborhood": "安坑里"
+    }
+]

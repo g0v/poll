@@ -1,0 +1,82 @@
+[
+    {
+        "name": "萬順市民活動中心",
+        "address": "北深路三段１０７巷２６號",
+        "neighborhood": "萬順里"
+    },
+    {
+        "name": "佳麗寶大樓 ",
+        "address": "北深路三段３４７號　　",
+        "neighborhood": "萬順里"
+    },
+    {
+        "name": "郵政修護所 ",
+        "address": "北深路三段２６４號　",
+        "neighborhood": "萬福里"
+    },
+    {
+        "name": "水尾福德宮  ",
+        "address": "北深路三段２８０號旁",
+        "neighborhood": "萬福里"
+    },
+    {
+        "name": "土庫第一市民活動中心(新)",
+        "address": "北深路一段８３巷８弄３６號",
+        "neighborhood": "土庫里"
+    },
+    {
+        "name": "土庫第二市民活動中心(舊)",
+        "address": "北深路一段１６４號",
+        "neighborhood": "土庫里"
+    },
+    {
+        "name": "深坑國小(一) ",
+        "address": "文化街４５號",
+        "neighborhood": "深坑里"
+    },
+    {
+        "name": "深坑國小(二) ",
+        "address": "文化街４５號",
+        "neighborhood": "深坑里"
+    },
+    {
+        "name": "深坑國中(一) ",
+        "address": "文化街４１號",
+        "neighborhood": "埔新里"
+    },
+    {
+        "name": "深坑國中 (二) ",
+        "address": "文化街４１號",
+        "neighborhood": "埔新里"
+    },
+    {
+        "name": "深坑國中(三) ",
+        "address": "文化街４１號",
+        "neighborhood": "埔新里"
+    },
+    {
+        "name": "昇高市民活動中心 ",
+        "address": "旺?路２５號",
+        "neighborhood": "昇高里"
+    },
+    {
+        "name": "雲鄉社區會議室",
+        "address": "雲鄉路１號地下1樓",
+        "neighborhood": "昇高里"
+    },
+    {
+        "name": "慈聖宮   ",
+        "address": "北深路一段３００號　",
+        "neighborhood": "賴仲里"
+    },
+    {
+        "name": "青山雄觀 -北區大樓(休閒室) ",
+        "address": "深南路１９０號地下1樓",
+        "neighborhood": "賴仲里"
+    },
+    {
+        "name": "阿柔市民活動中心",
+        "address": "阿柔洋６６號對面",
+        "neighborhood": "阿柔里"
+    }
+]

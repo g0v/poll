@@ -1,0 +1,232 @@
+[
+    {
+        "name": "瑞芳國小",
+        "address": "中山路２號",
+        "neighborhood": "龍潭里"
+    },
+    {
+        "name": "新北市立圖書館瑞芳分館",
+        "address": "中正路１號",
+        "neighborhood": "龍興里"
+    },
+    {
+        "name": "龍興市民活動中心",
+        "address": "民權街１０號",
+        "neighborhood": "龍興里"
+    },
+    {
+        "name": "民宅",
+        "address": "逢甲路９６之１號",
+        "neighborhood": "龍鎮里"
+    },
+    {
+        "name": "龍安市民活動中心",
+        "address": "瑞芳街１１２巷７號１樓",
+        "neighborhood": "龍安里"
+    },
+    {
+        "name": "瑞芳國小",
+        "address": "中山路２號",
+        "neighborhood": "龍川里"
+    },
+    {
+        "name": "瑞芳國小",
+        "address": "中山路２號",
+        "neighborhood": "龍川里"
+    },
+    {
+        "name": "瑞樂社",
+        "address": "逢甲路２５０號",
+        "neighborhood": "龍山里"
+    },
+    {
+        "name": "爪?社區活動中心",
+        "address": "子坑路６６之６號",
+        "neighborhood": "爪?里"
+    },
+    {
+        "name": "爪?市民活動中心",
+        "address": "子坑路２７９之２號",
+        "neighborhood": "爪?里"
+    },
+    {
+        "name": "瑞芳國中",
+        "address": "子坑路１號",
+        "neighborhood": "爪?里"
+    },
+    {
+        "name": "瑞芳國中",
+        "address": "子坑路１號",
+        "neighborhood": "新峰里"
+    },
+    {
+        "name": "瑞芳國中",
+        "address": "子坑路１號",
+        "neighborhood": "新峰里"
+    },
+    {
+        "name": "市立托兒所東和分所",
+        "address": "中山路４８之１０號",
+        "neighborhood": "東和里"
+    },
+    {
+        "name": "東和市民活動中心",
+        "address": "中山路２０號",
+        "neighborhood": "東和里"
+    },
+    {
+        "name": "柑坪社區活動中心",
+        "address": "明燈路一段８２之１號",
+        "neighborhood": "柑坪里"
+    },
+    {
+        "name": "弓橋社區活動中心",
+        "address": "九芎橋路２３號",
+        "neighborhood": "弓橋里"
+    },
+    {
+        "name": "猴硐市民活動中心",
+        "address": "侯硐路２５號",
+        "neighborhood": "猴硐里"
+    },
+    {
+        "name": "光復市民活動中心",
+        "address": "柴寮路３０９號",
+        "neighborhood": "光復里"
+    },
+    {
+        "name": "原碩仁國小教室",
+        "address": "魚寮路１２５號",
+        "neighborhood": "碩仁里"
+    },
+    {
+        "name": "吉安宮集會所",
+        "address": "瑞竹路９１之１號",
+        "neighborhood": "吉慶里"
+    },
+    {
+        "name": "吉安宮集會所",
+        "address": "瑞竹路９１之１號",
+        "neighborhood": "吉慶里"
+    },
+    {
+        "name": "吉安市民活動中心",
+        "address": "大埔路２３巷２０號之１",
+        "neighborhood": "吉安里"
+    },
+    {
+        "name": "吉慶國小",
+        "address": "大埔路９５號",
+        "neighborhood": "吉安里"
+    },
+    {
+        "name": "吉慶國小",
+        "address": "大埔路９５號",
+        "neighborhood": "吉安里"
+    },
+    {
+        "name": "上天市民活動中心",
+        "address": "大寮路４９巷５之１號",
+        "neighborhood": "上天里"
+    },
+    {
+        "name": "原市立托兒所長興分所",
+        "address": "粗坑口路１巷２之２號",
+        "neighborhood": "上天里"
+    },
+    {
+        "name": "福德宮",
+        "address": "傑魚坑路５８號",
+        "neighborhood": "傑魚里"
+    },
+    {
+        "name": "傑魚里活動中心",
+        "address": "傑魚坑路２４５巷２之１號２樓",
+        "neighborhood": "傑魚里"
+    },
+    {
+        "name": "基山市民活動中心",
+        "address": "輕便路１８８號",
+        "neighborhood": "基山里"
+    },
+    {
+        "name": "九份國小",
+        "address": "崙頂１４５號",
+        "neighborhood": "永慶里"
+    },
+    {
+        "name": "長樂社區活動中心",
+        "address": "街頂巷５６之１號",
+        "neighborhood": "崇文里"
+    },
+    {
+        "name": "福住市民活動中心",
+        "address": "佛堂巷３６號之１",
+        "neighborhood": "福住里"
+    },
+    {
+        "name": "頌德市民活動中心",
+        "address": "石碑巷５１之１號",
+        "neighborhood": "頌德里"
+    },
+    {
+        "name": "瓜山社區老人長壽俱樂部",
+        "address": "金光路８９號",
+        "neighborhood": "瓜山里"
+    },
+    {
+        "name": "銅山市民活動中心",
+        "address": "祈堂路７４之１號",
+        "neighborhood": "銅山里"
+    },
+    {
+        "name": "新山市民活動中心",
+        "address": "金光路２４１之１號",
+        "neighborhood": "新山里"
+    },
+    {
+        "name": "瓜山國小",
+        "address": "五號路３０６號",
+        "neighborhood": "石山里"
+    },
+    {
+        "name": "濂洞市民活動中心",
+        "address": "洞頂路１５５之８號",
+        "neighborhood": "濂洞里"
+    },
+    {
+        "name": "威遠廟",
+        "address": "明里路７之１號",
+        "neighborhood": "濂新里"
+    },
+    {
+        "name": "南雅里活動中心",
+        "address": "南雅路４１之１號",
+        "neighborhood": "南雅里"
+    },
+    {
+        "name": "鼻頭國小",
+        "address": "鼻頭路９９號",
+        "neighborhood": "鼻頭里"
+    },
+    {
+        "name": "海濱市民活動中心",
+        "address": "濱二路６８之１號",
+        "neighborhood": "海濱里"
+    },
+    {
+        "name": "瑞濱國小",
+        "address": "瑞濱路３４號",
+        "neighborhood": "瑞濱里"
+    },
+    {
+        "name": "瑞濱國小",
+        "address": "瑞濱路３４號",
+        "neighborhood": "瑞濱里"
+    },
+    {
+        "name": "深澳市民活動中心",
+        "address": "深澳路６７之１號",
+        "neighborhood": "深澳里"
+    }
+]

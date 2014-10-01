@@ -1,0 +1,92 @@
+[
+    {
+        "name": "德茂社區活動中心",
+        "address": "下員坑３２７之６號地下３樓",
+        "neighborhood": "德茂里",
+        "location": {
+            "lat": 25.2757003,
+            "lng": 121.5182458
+        }
+    },
+    {
+        "name": "富基市民活動中心",
+        "address": "楓林３７之６號",
+        "neighborhood": "富基里",
+        "location": {
+            "lat": 25.2818568,
+            "lng": 121.5405195
+        }
+    },
+    {
+        "name": "老梅市民活動中心",
+        "address": "老梅路４３號3樓",
+        "neighborhood": "老梅里",
+        "location": {
+            "lat": 25.2892201,
+            "lng": 121.5463682
+        }
+    },
+    {
+        "name": "老人休閒活動中心",
+        "address": "老梅里公地４４號",
+        "neighborhood": "老梅里",
+        "location": {
+            "lat": 25.2548232,
+            "lng": 121.5512722
+        }
+    },
+    {
+        "name": "山溪市民活動中心",
+        "address": "老崩山６之５號",
+        "neighborhood": "山溪里",
+        "location": {
+            "lat": 25.2764917,
+            "lng": 121.5566551
+        }
+    },
+    {
+        "name": "石門國中(七年忠班)",
+        "address": "中央路１之９號",
+        "neighborhood": "石門里",
+        "location": {
+            "lat": 24.9628619,
+            "lng": 121.4257994
+        }
+    },
+    {
+        "name": "尖鹿市民活動中心",
+        "address": "中央路９之３號",
+        "neighborhood": "尖鹿里",
+        "location": {
+            "lat": 24.9627153,
+            "lng": 121.4255421
+        }
+    },
+    {
+        "name": "妙濟寺",
+        "address": "內阿里磅１號",
+        "neighborhood": "乾華里",
+        "location": {
+            "lat": 25.2722641,
+            "lng": 121.5578751
+        }
+    },
+    {
+        "name": "茂林市民活動中心",
+        "address": "茂林社區１之１號",
+        "neighborhood": "茂林里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "草里市民活動中心",
+        "address": "阿里荖３３之１號３樓",
+        "neighborhood": "草里里",
+        "location": {
+            "lat": 25.2792123,
+            "lng": 121.6058416
+        }
+    }
+]

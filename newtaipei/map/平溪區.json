@@ -1,0 +1,110 @@
+[
+    {
+        "name": "薯榔市民活動中心",
+        "address": "靜安路二段６３號",
+        "neighborhood": "薯榔里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "菁桐市民活動中心",
+        "address": "菁桐街６５之１號",
+        "neighborhood": "菁桐里",
+        "location": {
+            "lat": 25.02396,
+            "lng": 121.7251531
+        }
+    },
+    {
+        "name": "白石市民活動中心",
+        "address": "靜安路二段２４１號",
+        "neighborhood": "白石里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "平溪市民活動中心",
+        "address": "公園街１７號",
+        "neighborhood": "石底里",
+        "location": {
+            "lat": 25.0251042,
+            "lng": 121.7379809
+        }
+    },
+    {
+        "name": "平溪國小禮堂",
+        "address": "平溪街５６號",
+        "neighborhood": "平溪里",
+        "location": {
+            "lat": 25.0292313,
+            "lng": 121.7364822
+        }
+    },
+    {
+        "name": "嶺腳市民活動中心",
+        "address": "嶺腳寮１４號",
+        "neighborhood": "嶺腳里",
+        "location": {
+            "lat": 25.0303776,
+            "lng": 121.7793344
+        }
+    },
+    {
+        "name": "東勢市民活動中心",
+        "address": "芊蓁林62-1號",
+        "neighborhood": "東勢里",
+        "location": {
+            "lat": 25.0303776,
+            "lng": 121.7793344
+        }
+    },
+    {
+        "name": "十分市民活動中心",
+        "address": "十分街１５９號",
+        "neighborhood": "十分里",
+        "location": {
+            "lat": 25.0430998,
+            "lng": 121.7767203
+        }
+    },
+    {
+        "name": "十分國小三年級教室",
+        "address": "十分街１５７號",
+        "neighborhood": "望古里",
+        "location": {
+            "lat": 25.0430998,
+            "lng": 121.7767203
+        }
+    },
+    {
+        "name": "南山市民活動中心",
+        "address": "靜安路三段２３２號",
+        "neighborhood": "南山里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "十分國小四年級教室",
+        "address": "十分街１５７號",
+        "neighborhood": "新寮里",
+        "location": {
+            "lat": 25.0430998,
+            "lng": 121.7767203
+        }
+    },
+    {
+        "name": "平湖市民活動中心",
+        "address": "大湖１０號",
+        "neighborhood": "平湖里",
+        "location": {
+            "lat": 25.0193152,
+            "lng": 121.6981908
+        }
+    }
+]

@@ -1,0 +1,557 @@
+[
+    {
+        "name": "仁德市民活動中心",
+        "address": "和平街６巷１弄１號",
+        "neighborhood": "仁德里"
+    },
+    {
+        "name": "汐止區老人活動中心",
+        "address": "公園路２號",
+        "neighborhood": "義民里"
+    },
+    {
+        "name": "汐止國民中學",
+        "address": "大同路二段３９４號",
+        "neighborhood": "禮門里"
+    },
+    {
+        "name": "汐止國民小學",
+        "address": "大同路二段３１３號",
+        "neighborhood": "智慧里"
+    },
+    {
+        "name": "汐止國民小學",
+        "address": "大同路二段３１３號",
+        "neighborhood": "智慧里"
+    },
+    {
+        "name": "汐止國民小學",
+        "address": "大同路二段３１３號",
+        "neighborhood": "大同里"
+    },
+    {
+        "name": "汐止國民小學",
+        "address": "大同路二段３１３號",
+        "neighborhood": "大同里"
+    },
+    {
+        "name": "信望、義民市民活動中心",
+        "address": "公園路６號",
+        "neighborhood": "信望里"
+    },
+    {
+        "name": "虎形山福德宮",
+        "address": "招商街１號",
+        "neighborhood": "新昌里"
+    },
+    {
+        "name": "新昌市民活動中心",
+        "address": "仁愛路３１８號",
+        "neighborhood": "新昌里"
+    },
+    {
+        "name": "秀峰高級中學",
+        "address": "忠孝東路２０１號",
+        "neighborhood": "新昌里"
+    },
+    {
+        "name": "秀峰國民小學",
+        "address": "仁愛路９０號",
+        "neighborhood": "福安里"
+    },
+    {
+        "name": "秀峰國民小學",
+        "address": "仁愛路９０號",
+        "neighborhood": "福安里"
+    },
+    {
+        "name": "秀峰國民小學",
+        "address": "仁愛路９０號",
+        "neighborhood": "福安里"
+    },
+    {
+        "name": "秀峰高級中學",
+        "address": "忠孝東路２０１號",
+        "neighborhood": "秀峰里"
+    },
+    {
+        "name": "秀峰高級中學",
+        "address": "忠孝東２０１號",
+        "neighborhood": "秀峰里"
+    },
+    {
+        "name": "秀峰國民小學",
+        "address": "仁愛路９０號",
+        "neighborhood": "秀峰里"
+    },
+    {
+        "name": "秀峰國民小學",
+        "address": "仁愛路９０號",
+        "neighborhood": "秀山里"
+    },
+    {
+        "name": "秀峰國民小學",
+        "address": "仁愛路９０號",
+        "neighborhood": "秀山里"
+    },
+    {
+        "name": "復興市民活動中心",
+        "address": "復興路２號前",
+        "neighborhood": "復興里"
+    },
+    {
+        "name": "陽光四季社區中庭",
+        "address": "龍安路３６號",
+        "neighborhood": "復興里"
+    },
+    {
+        "name": "陽光四季社區中庭",
+        "address": "龍安路３６號",
+        "neighborhood": "復興里"
+    },
+    {
+        "name": "青山國中小",
+        "address": "莊敬街３３號",
+        "neighborhood": "自強里"
+    },
+    {
+        "name": "青山國中小",
+        "address": "莊敬街３３號",
+        "neighborhood": "自強里"
+    },
+    {
+        "name": "青山國中小",
+        "address": "莊敬街３３號",
+        "neighborhood": "自強里"
+    },
+    {
+        "name": "文化市民活動中心",
+        "address": "汐碇路１４巷２弄１１號之２",
+        "neighborhood": "文化里"
+    },
+    {
+        "name": "福興宮(地下室)",
+        "address": "汐碇路１４巷２弄１１號之１",
+        "neighborhood": "文化里"
+    },
+    {
+        "name": "白雲市民活動中心",
+        "address": "水源路二段１１２號",
+        "neighborhood": "白雲里"
+    },
+    {
+        "name": "白雲市民活動中心",
+        "address": "水源路二段１１２號",
+        "neighborhood": "白雲里"
+    },
+    {
+        "name": "崇德國民小學",
+        "address": "茄苳路１５８號",
+        "neighborhood": "茄苳里"
+    },
+    {
+        "name": "崇德國民小學",
+        "address": "茄苳路１５８號",
+        "neighborhood": "茄苳里"
+    },
+    {
+        "name": "崇德國民小學",
+        "address": "茄苳路１５８號",
+        "neighborhood": "茄苳里"
+    },
+    {
+        "name": "崇德國民小學",
+        "address": "茄苳路１５８號",
+        "neighborhood": "崇德里"
+    },
+    {
+        "name": "崇德國民小學",
+        "address": "茄苳路１５８號",
+        "neighborhood": "崇德里"
+    },
+    {
+        "name": "江山萬里社區會議室",
+        "address": "新台五路二段１７０至２１８號",
+        "neighborhood": "崇德里"
+    },
+    {
+        "name": "建成市場",
+        "address": "建成路３７巷６號",
+        "neighborhood": "城中里"
+    },
+    {
+        "name": "建成市場",
+        "address": "建成路３７巷６號",
+        "neighborhood": "城中里"
+    },
+    {
+        "name": "摩登家庭社區",
+        "address": "忠孝東路４２4至４２８號",
+        "neighborhood": "橋東里"
+    },
+    {
+        "name": "華慶幼兒園",
+        "address": "忠孝東路４４７、４４９號",
+        "neighborhood": "橋東里"
+    },
+    {
+        "name": "青年守則商場",
+        "address": "建成路５８號前",
+        "neighborhood": "建成里"
+    },
+    {
+        "name": "青年守則商場",
+        "address": "建成路５６巷９號前",
+        "neighborhood": "建成里"
+    },
+    {
+        "name": "貨櫃聯絡道橋下籃球場",
+        "address": "鄉長路一段４５巷旁",
+        "neighborhood": "建成里"
+    },
+    {
+        "name": "長安市民活動中心",
+        "address": "長興街一段５０號",
+        "neighborhood": "長安里"
+    },
+    {
+        "name": "保長國民小學",
+        "address": "大同路三段５５３號",
+        "neighborhood": "保安里"
+    },
+    {
+        "name": "東山國民小學",
+        "address": "汐平路二段７６號",
+        "neighborhood": "東山里"
+    },
+    {
+        "name": "保長市民活動中心",
+        "address": "保長路５１巷１１號",
+        "neighborhood": "保長里"
+    },
+    {
+        "name": "長安慈惠堂",
+        "address": "長興街二段５０巷５０號",
+        "neighborhood": "保長里"
+    },
+    {
+        "name": "摩天鎮社區聯誼室",
+        "address": "大同路三段６１７號",
+        "neighborhood": "保新里"
+    },
+    {
+        "name": "保長坑橋頭福德宮",
+        "address": "大同路三段４２４號",
+        "neighborhood": "保新里"
+    },
+    {
+        "name": "鄉長市民活動中心",
+        "address": "鄉友街１０號",
+        "neighborhood": "鄉長里"
+    },
+    {
+        "name": "江北里老人休閒中心",
+        "address": "長江街７１號對面",
+        "neighborhood": "江北里"
+    },
+    {
+        "name": "江北市民活動中心",
+        "address": "汐萬路一段８１號",
+        "neighborhood": "江北里"
+    },
+    {
+        "name": "福正宮(土地公廟)",
+        "address": "汐萬路一段３１２號",
+        "neighborhood": "江北里"
+    },
+    {
+        "name": "北港國民小學",
+        "address": "汐萬路二段２７９號",
+        "neighborhood": "拱北里"
+    },
+    {
+        "name": "北港國民小學",
+        "address": "汐萬路二段２７９號",
+        "neighborhood": "拱北里"
+    },
+    {
+        "name": "雙璽帝堡大廈管理委員會",
+        "address": "汐萬路二段２２８巷３１弄１號",
+        "neighborhood": "拱北里"
+    },
+    {
+        "name": "烘內市民活動中心",
+        "address": "汐萬路三段２５２巷２７號",
+        "neighborhood": "烘內里"
+    },
+    {
+        "name": "福興宮自強育樂中心",
+        "address": "八連路一段２５３號",
+        "neighborhood": "八連里"
+    },
+    {
+        "name": "國家公園別墅活動中心",
+        "address": "長青路１３４號",
+        "neighborhood": "長青里"
+    },
+    {
+        "name": "金龍國民小學",
+        "address": "明峰街２０１號",
+        "neighborhood": "北峰里"
+    },
+    {
+        "name": "金龍國民小學",
+        "address": "明峰街２０１號",
+        "neighborhood": "北峰里"
+    },
+    {
+        "name": "金龍國民小學",
+        "address": "明峰街２０１號",
+        "neighborhood": "金龍里"
+    },
+    {
+        "name": "金龍國民小學",
+        "address": "明峰街２０１號",
+        "neighborhood": "金龍里"
+    },
+    {
+        "name": "金龍市民活動中心",
+        "address": "湖前街３１巷２弄２號",
+        "neighborhood": "金龍里"
+    },
+    {
+        "name": "樟樹市民活動中心",
+        "address": "大同路一段３３９號之２",
+        "neighborhood": "樟樹里"
+    },
+    {
+        "name": "和德宮會議廳",
+        "address": "樟樹一路１２９巷３４弄６號",
+        "neighborhood": "忠孝里"
+    },
+    {
+        "name": "忠孝市民活動中心",
+        "address": "工建路６２號",
+        "neighborhood": "忠孝里"
+    },
+    {
+        "name": "樟樹國民中學",
+        "address": "樟樹二路１３５號",
+        "neighborhood": "忠孝里"
+    },
+    {
+        "name": "樟樹國民中學",
+        "address": "樟樹二路１３５號",
+        "neighborhood": "忠孝里"
+    },
+    {
+        "name": "樟樹國民小學",
+        "address": "樟樹一路１４１巷２號",
+        "neighborhood": "厚德里"
+    },
+    {
+        "name": "樟樹國民小學",
+        "address": "樟樹一路１４１巷２號",
+        "neighborhood": "厚德里"
+    },
+    {
+        "name": "樟樹國民小學",
+        "address": "樟樹一路１４１巷２號",
+        "neighborhood": "厚德里"
+    },
+    {
+        "name": "樟樹國民小學",
+        "address": "樟樹一路１４１巷２號",
+        "neighborhood": "厚德里"
+    },
+    {
+        "name": "樟樹國民中學",
+        "address": "樟樹二路１３５號",
+        "neighborhood": "山光里"
+    },
+    {
+        "name": "樟樹國民中學",
+        "address": "樟樹二路１３５號",
+        "neighborhood": "山光里"
+    },
+    {
+        "name": "北峰國民小學",
+        "address": "環河街１號",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "北峰國民小學",
+        "address": "環河街１號",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "北峰國民小學",
+        "address": "環河街１號",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "北峰國民小學",
+        "address": "環河街１號",
+        "neighborhood": "中興里"
+    },
+    {
+        "name": "北峰國民小學",
+        "address": "環河街１號",
+        "neighborhood": "福德里"
+    },
+    {
+        "name": "北峰國民小學",
+        "address": "環河街１號",
+        "neighborhood": "福德里"
+    },
+    {
+        "name": "興福市民活動中心",
+        "address": "福德一路１４１巷５２號",
+        "neighborhood": "興福里"
+    },
+    {
+        "name": "朝熙大樓",
+        "address": "福德路３８號",
+        "neighborhood": "興福里"
+    },
+    {
+        "name": "康福市民活動中心(2樓)",
+        "address": "福德三路９號",
+        "neighborhood": "康福里"
+    },
+    {
+        "name": "康福市民活動中心(1樓)",
+        "address": "福德三路９號",
+        "neighborhood": "康福里"
+    },
+    {
+        "name": "長堤社區管理中心",
+        "address": "福德一路１０９之２號",
+        "neighborhood": "康福里"
+    },
+    {
+        "name": "湖光市民活動中心",
+        "address": "康寧街５２０之１號",
+        "neighborhood": "湖光里"
+    },
+    {
+        "name": "湖光餐廳旁停車場",
+        "address": "康寧街６８０號之２旁",
+        "neighborhood": "湖光里"
+    },
+    {
+        "name": "日月光社區活動中心",
+        "address": "康寧街７５１巷１３號地下1樓",
+        "neighborhood": "湖光里"
+    },
+    {
+        "name": "水蓮山莊A3棟旁空地",
+        "address": "湖前街１１０巷９７弄３號",
+        "neighborhood": "湖蓮里"
+    },
+    {
+        "name": "水蓮山莊服務中心前空地",
+        "address": "湖前街１１０巷９７弄２４號",
+        "neighborhood": "湖蓮里"
+    },
+    {
+        "name": "聯合幼兒園",
+        "address": "翠峰街２巷２號",
+        "neighborhood": "湖興里"
+    },
+    {
+        "name": "伯爵五代社區活動中心",
+        "address": "伯爵街３５巷口",
+        "neighborhood": "湖興里"
+    },
+    {
+        "name": "博市社區活動活中心",
+        "address": "伯爵街９６巷底",
+        "neighborhood": "湖興里"
+    },
+    {
+        "name": "伯爵夫人社區管理中心",
+        "address": "伯爵街５７巷口",
+        "neighborhood": "湖興里"
+    },
+    {
+        "name": "三和舊市場空地 ",
+        "address": "康寧街６１巷２之１號",
+        "neighborhood": "北山里"
+    },
+    {
+        "name": "大湖國家管理委員會",
+        "address": "康寧街１４１巷２０弄１之８號",
+        "neighborhood": "北山里"
+    },
+    {
+        "name": "北山市民活動中心",
+        "address": "明峰街２９８巷３弄旁",
+        "neighborhood": "北山里"
+    },
+    {
+        "name": "紫明代天府建凌宮(五府千歲)",
+        "address": "明峰街２８８號",
+        "neighborhood": "北山里"
+    },
+    {
+        "name": "瓏山林社區",
+        "address": "忠三街２６巷３３號",
+        "neighborhood": "忠山里"
+    },
+    {
+        "name": "忠山市民活動中心",
+        "address": "忠三街８號",
+        "neighborhood": "忠山里"
+    },
+    {
+        "name": "環河市民活動中心",
+        "address": "南陽街１２３號之１",
+        "neighborhood": "環河里"
+    },
+    {
+        "name": "橫科市民活動中心(2樓)",
+        "address": "橫科路１１９號",
+        "neighborhood": "橫科里"
+    },
+    {
+        "name": "橫科市民活動中心(1樓)",
+        "address": "橫科路１１９號",
+        "neighborhood": "橫科里"
+    },
+    {
+        "name": "白雲國民小學",
+        "address": "民權街二段９０號",
+        "neighborhood": "福山里"
+    },
+    {
+        "name": "白雲國民小學",
+        "address": "民權街二段９０號",
+        "neighborhood": "福山里"
+    },
+    {
+        "name": "名人社區管理委員會",
+        "address": "宜興街５０巷１號２樓",
+        "neighborhood": "宜興里"
+    },
+    {
+        "name": "宜興福德宮",
+        "address": "林森街７０號",
+        "neighborhood": "宜興里"
+    },
+    {
+        "name": "宜興、東勢市民活動中心",
+        "address": "東勢街１５號之１",
+        "neighborhood": "東勢里"
+    },
+    {
+        "name": "北后雲天宮",
+        "address": "東勢街７６巷２６號",
+        "neighborhood": "東勢里"
+    },
+    {
+        "name": "研究苑別墅社區管理委員會管理中心",
+        "address": "東勢街２０１巷１２９弄２號",
+        "neighborhood": "東勢里"
+    }
+]

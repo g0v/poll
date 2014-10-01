@@ -1,0 +1,173 @@
+[
+    {
+        "name": "金山國小",
+        "address": "中山路２３４號",
+        "neighborhood": "和平里",
+        "location": {
+            "lat": 25.2223222,
+            "lng": 121.6368568
+        }
+    },
+    {
+        "name": "金山區中山堂",
+        "address": "溫泉路２巷９號",
+        "neighborhood": "大同里",
+        "location": {
+            "lat": 25.22206,
+            "lng": 121.6405078
+        }
+    },
+    {
+        "name": "豐漁社區活動中心",
+        "address": "民生路１９０號",
+        "neighborhood": "豐漁里",
+        "location": {
+            "lat": 25.2208098,
+            "lng": 121.6414106
+        }
+    },
+    {
+        "name": "磺港承天宮",
+        "address": "磺港路１６１號",
+        "neighborhood": "磺港里",
+        "location": {
+            "lat": 25.2277133,
+            "lng": 121.6468652
+        }
+    },
+    {
+        "name": "金山國小",
+        "address": "中山路２３４號",
+        "neighborhood": "美田里",
+        "location": {
+            "lat": 25.2223222,
+            "lng": 121.6368568
+        }
+    },
+    {
+        "name": "金山高中",
+        "address": "文化二路２號",
+        "neighborhood": "美田里",
+        "location": {
+            "lat": 25.2253891,
+            "lng": 121.6362082
+        }
+    },
+    {
+        "name": "金美國小",
+        "address": "忠孝一路１１１號",
+        "neighborhood": "金美里",
+        "location": {
+            "lat": 25.2203501,
+            "lng": 121.6375869
+        }
+    },
+    {
+        "name": "金美國小",
+        "address": "忠孝一路１１１號",
+        "neighborhood": "金美里",
+        "location": {
+            "lat": 25.2203501,
+            "lng": 121.6375869
+        }
+    },
+    {
+        "name": "金美國小",
+        "address": "忠孝一路１１１號",
+        "neighborhood": "金美里",
+        "location": {
+            "lat": 25.2203501,
+            "lng": 121.6375869
+        }
+    },
+    {
+        "name": "金山區立圖書館",
+        "address": "龜子山８號",
+        "neighborhood": "五湖里",
+        "location": {
+            "lat": 25.2184529,
+            "lng": 121.639196
+        }
+    },
+    {
+        "name": "五南社區活動中心",
+        "address": "南勢２７號",
+        "neighborhood": "五湖里",
+        "location": {
+            "lat": 25.216382,
+            "lng": 121.6330732
+        }
+    },
+    {
+        "name": "三和國小",
+        "address": "六股林口３８號",
+        "neighborhood": "重和里",
+        "location": {
+            "lat": 25.2202858,
+            "lng": 121.6382472
+        }
+    },
+    {
+        "name": "三和國小兩湖分校",
+        "address": "倒照湖１號",
+        "neighborhood": "兩湖里",
+        "location": {
+            "lat": 25.251773,
+            "lng": 121.6114405
+        }
+    },
+    {
+        "name": "六股市民活動中心",
+        "address": "頂六股３號",
+        "neighborhood": "六股里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "六三社區活動中心",
+        "address": "三界壇１０１之１號",
+        "neighborhood": "三界里",
+        "location": {
+            "lat": 25.2331529,
+            "lng": 121.6187297
+        }
+    },
+    {
+        "name": "清泉里社區活動中心",
+        "address": "清水路４９號",
+        "neighborhood": "清泉里",
+        "location": {
+            "lat": 25.2323974,
+            "lng": 121.6297811
+        }
+    },
+    {
+        "name": "西湖里倉庫",
+        "address": "西勢湖９號",
+        "neighborhood": "西湖里",
+        "location": {
+            "lat": 25.2210862,
+            "lng": 121.6374789
+        }
+    },
+    {
+        "name": "萬壽社區活動中心",
+        "address": "海興路６９之１號",
+        "neighborhood": "萬壽里",
+        "location": {
+            "lat": 25.2396318,
+            "lng": 121.6323619
+        }
+    },
+    {
+        "name": "永民社區活動中心",
+        "address": "跳石１７號",
+        "neighborhood": "永民里",
+        "location": {
+            "lat": 25.2591339,
+            "lng": 121.633425
+        }
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "name": "堰堤社區籃球場",
+        "address": "新烏路五段１０８號",
+        "neighborhood": "忠治里"
+    },
+    {
+        "name": "烏來綜合活動中心",
+        "address": "烏來街３４號",
+        "neighborhood": "烏來里"
+    },
+    {
+        "name": "烏來社區活動中心(教會對面)",
+        "address": "環山路８２巷５號２樓",
+        "neighborhood": "烏來里"
+    },
+    {
+        "name": "孝義里辦公處",
+        "address": "阿玉路２０號",
+        "neighborhood": "孝義里"
+    },
+    {
+        "name": "信賢社區活動中心",
+        "address": "信福路４８號",
+        "neighborhood": "信賢里"
+    },
+    {
+        "name": "福山社區活動中心",
+        "address": "李茂岸５１號",
+        "neighborhood": "福山里"
+    }
+]

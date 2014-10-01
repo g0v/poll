@@ -1,0 +1,184 @@
+[
+    {
+        "name": "八賢里活動中心",
+        "address": "八連溪４１號",
+        "neighborhood": [
+            "里",
+            "賢",
+            "八"
+        ],
+        "location": {
+            "lat": 25.21453,
+            "lng": 121.5392539
+        },
+        "power": 1
+    },
+    {
+        "name": "三芝國小",
+        "address": "育英街２２號",
+        "neighborhood": [
+            "里",
+            "頭",
+            "埔"
+        ],
+        "location": {
+            "lat": 25.2581038,
+            "lng": 121.5013799
+        },
+        "power": 3
+    },
+    {
+        "name": "福德宮活動中心",
+        "address": "茂興店８７號",
+        "neighborhood": [
+            "里",
+            "庄",
+            "古"
+        ],
+        "location": {
+            "lat": 25.265169,
+            "lng": 121.486279
+        },
+        "power": 1
+    },
+    {
+        "name": "三和社區活動中心",
+        "address": "蕃社后３之１號",
+        "neighborhood": [
+            "里",
+            "庄",
+            "新"
+        ],
+        "location": {
+            "lat": 25.247556,
+            "lng": 121.4720052
+        },
+        "power": 1
+    },
+    {
+        "name": "三芝國中",
+        "address": "淡金路一段３８號",
+        "neighborhood": [
+            "里",
+            "坪",
+            "埔"
+        ],
+        "location": {
+            "lat": 25.2592717,
+            "lng": 121.5003161
+        },
+        "power": 4
+    },
+    {
+        "name": "茂長里活動中心",
+        "address": "陳厝坑６１之３號",
+        "neighborhood": [
+            "里",
+            "長",
+            "茂"
+        ],
+        "location": {
+            "lat": 25.2519412,
+            "lng": 121.5017987
+        },
+        "power": 1
+    },
+    {
+        "name": "橫山里活動中心",
+        "address": "大坑８６之１號",
+        "neighborhood": [
+            "里",
+            "山",
+            "橫"
+        ],
+        "location": {
+            "lat": 25.2206742,
+            "lng": 121.5283961
+        },
+        "power": 1
+    },
+    {
+        "name": "錫板智成堂",
+        "address": "海尾１７號",
+        "neighborhood": [
+            "里",
+            "板",
+            "錫"
+        ],
+        "location": {
+            "lat": 25.247404,
+            "lng": 121.490923
+        },
+        "power": 1
+    },
+    {
+        "name": "芝蘭老人文康活動中心",
+        "address": "北勢子４１之１號",
+        "neighborhood": [
+            "里",
+            "厝",
+            "後"
+        ],
+        "location": {
+            "lat": 25.2343177,
+            "lng": 121.4755361
+        },
+        "power": 1
+    },
+    {
+        "name": "福德里活動中心",
+        "address": "埔尾９之１號",
+        "neighborhood": [
+            "里",
+            "德",
+            "福"
+        ],
+        "location": {
+            "lat": 25.2587033,
+            "lng": 121.4996959
+        },
+        "power": 1
+    },
+    {
+        "name": "圓山里活動中心",
+        "address": "木屐寮３２之２號",
+        "neighborhood": [
+            "里",
+            "山",
+            "圓"
+        ],
+        "location": {
+            "lat": 0,
+            "lng": 0
+        },
+        "power": 1
+    },
+    {
+        "name": "三芝區農會北新庄辦事處集貨場",
+        "address": "楓子林４９之２號",
+        "neighborhood": [
+            "里",
+            "子",
+            "店"
+        ],
+        "location": {
+            "lat": 25.220799,
+            "lng": 121.5290826
+        },
+        "power": 1
+    },
+    {
+        "name": "興華國小風雨教室",
+        "address": "田心子５號",
+        "neighborhood": [
+            "里",
+            "華",
+            "興"
+        ],
+        "location": {
+            "lat": 25.201225,
+            "lng": 121.493698
+        },
+        "power": 1
+    }
+]

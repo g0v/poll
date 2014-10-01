@@ -1,0 +1,52 @@
+[
+    {
+        "name": "坪林國小",
+        "address": "坪林１１４號",
+        "neighborhood": "坪林里"
+    },
+    {
+        "name": "坪林國中",
+        "address": "國中路４號",
+        "neighborhood": "水德里"
+    },
+    {
+        "name": "協德宮",
+        "address": "𨧤魚堀４４之１號",
+        "neighborhood": "大林里"
+    },
+    {
+        "name": "石凑倉庫",
+        "address": "石凑２７之１號",
+        "neighborhood": "石寳里"
+    },
+    {
+        "name": "鄭文生宅",
+        "address": "北宜路七段２３２號",
+        "neighborhood": "粗窟里"
+    },
+    {
+        "name": "替代役男宿舍",
+        "address": "金瓜寮３號之３",
+        "neighborhood": "粗窟里"
+    },
+    {
+        "name": "上德宮",
+        "address": "碇坪路三段１１６號",
+        "neighborhood": "上德里"
+    },
+    {
+        "name": "上德里新昇倉庫",
+        "address": "大粗坑１１之１號",
+        "neighborhood": "上德里"
+    },
+    {
+        "name": "坪林國小漁光分班",
+        "address": "坪雙路二段２號",
+        "neighborhood": "漁光里"
+    },
+    {
+        "name": "新北市英速魔法學院闊瀨校區",
+        "address": "坪雙路三段２號",
+        "neighborhood": "漁光里"
+    }
+]

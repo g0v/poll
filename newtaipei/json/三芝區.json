@@ -1,0 +1,92 @@
+[
+    {
+        "name": "八賢里活動中心",
+        "address": "八連溪４１號",
+        "neighborhood": "八賢里"
+    },
+    {
+        "name": "三芝國小(1年1班教室)",
+        "address": "育英街２２號",
+        "neighborhood": "埔頭里"
+    },
+    {
+        "name": "三芝國小(1年3班)",
+        "address": "育英街２２號",
+        "neighborhood": "埔頭里"
+    },
+    {
+        "name": "三芝國小(1年5班教室)",
+        "address": "育英街２２號",
+        "neighborhood": "埔頭里"
+    },
+    {
+        "name": "福德宮活動中心",
+        "address": "茂興店８７號",
+        "neighborhood": "古庄里"
+    },
+    {
+        "name": "三和社區活動中心",
+        "address": "蕃社后３之１號",
+        "neighborhood": "新庄里"
+    },
+    {
+        "name": "三芝國中(703教室)",
+        "address": "淡金路一段３８號",
+        "neighborhood": "埔坪里"
+    },
+    {
+        "name": "三芝國中(資源教室A)",
+        "address": "淡金路一段３８號",
+        "neighborhood": "埔坪里"
+    },
+    {
+        "name": "三芝國中(901教室)",
+        "address": "淡金路一段３８號",
+        "neighborhood": "埔坪里"
+    },
+    {
+        "name": "三芝國中(902教室)",
+        "address": "淡金路一段３８號",
+        "neighborhood": "埔坪里"
+    },
+    {
+        "name": "茂長里活動中心",
+        "address": "陳厝坑６１之３號",
+        "neighborhood": "茂長里"
+    },
+    {
+        "name": "橫山里活動中心",
+        "address": "大坑８６之１號",
+        "neighborhood": "橫山里"
+    },
+    {
+        "name": "錫板智成堂",
+        "address": "海尾１７號",
+        "neighborhood": "錫板里"
+    },
+    {
+        "name": "芝蘭老人文康活動中心",
+        "address": "北勢子４１之１號",
+        "neighborhood": "後厝里"
+    },
+    {
+        "name": "福德里活動中心",
+        "address": "埔尾９之１號",
+        "neighborhood": "福德里"
+    },
+    {
+        "name": "圓山里活動中心",
+        "address": "木屐寮３２之２號",
+        "neighborhood": "圓山里"
+    },
+    {
+        "name": "三芝區農會北新庄辦事處集貨場",
+        "address": "楓子林４９之２號",
+        "neighborhood": "店子里"
+    },
+    {
+        "name": "興華國小風雨教室",
+        "address": "田心子５號",
+        "neighborhood": "興華里"
+    }
+]

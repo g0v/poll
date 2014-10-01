@@ -1,0 +1,821 @@
+[
+    {
+        "name": "中和市民活動中心",
+        "address": "小中寮１９之２號",
+        "neighborhood": "中和里",
+        "location": {
+            "lat": 25.2294627,
+            "lng": 121.4849451
+        }
+    },
+    {
+        "name": "屯山國小",
+        "address": "淡金路五段１１１號",
+        "neighborhood": "屯山里",
+        "location": {
+            "lat": 25.2373078,
+            "lng": 121.4562869
+        }
+    },
+    {
+        "name": "正德國中賢孝校區",
+        "address": "後洲子１１號",
+        "neighborhood": "賢孝里",
+        "location": {
+            "lat": 25.2251984,
+            "lng": 121.4468752
+        }
+    },
+    {
+        "name": "興仁國小",
+        "address": "興仁路１０１巷１０號",
+        "neighborhood": "興仁里",
+        "location": {
+            "lat": 25.2174986,
+            "lng": 121.4512794
+        }
+    },
+    {
+        "name": "玄玄廟（原仙媽廟）",
+        "address": "安子內１２號旁",
+        "neighborhood": "蕃薯里",
+        "location": {
+            "lat": 25.213482,
+            "lng": 121.489249
+        }
+    },
+    {
+        "name": "忠山市民活動中心",
+        "address": "椿子林１８號",
+        "neighborhood": "忠山里",
+        "location": {
+            "lat": 25.2175646,
+            "lng": 121.4641975
+        }
+    },
+    {
+        "name": "集應廟",
+        "address": "下圭柔山３５之３號",
+        "neighborhood": "義山里",
+        "location": {
+            "lat": 25.204634,
+            "lng": 121.449669
+        }
+    },
+    {
+        "name": "集應廟",
+        "address": "下圭柔山３５之３號",
+        "neighborhood": "義山里",
+        "location": {
+            "lat": 25.204634,
+            "lng": 121.449669
+        }
+    },
+    {
+        "name": "無極天元宮",
+        "address": "北新路三段３６號",
+        "neighborhood": "水源里",
+        "location": {
+            "lat": 25.1865476,
+            "lng": 121.484715
+        }
+    },
+    {
+        "name": "無極天元宮",
+        "address": "北新路三段３６號",
+        "neighborhood": "水源里",
+        "location": {
+            "lat": 25.1865476,
+            "lng": 121.484715
+        }
+    },
+    {
+        "name": "北新有機農場",
+        "address": "演戲埔腳３之２號",
+        "neighborhood": "忠寮里",
+        "location": {
+            "lat": 25.1926129,
+            "lng": 121.4735666
+        }
+    },
+    {
+        "name": "樹興市民活動中心",
+        "address": "糞箕湖２５號",
+        "neighborhood": "樹興里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "坪頂市民活動中心",
+        "address": "坪頂路７１０巷１號",
+        "neighborhood": "坪頂里",
+        "location": {
+            "lat": 25.162873,
+            "lng": 121.459457
+        }
+    },
+    {
+        "name": "臺灣長老教會關渡教會",
+        "address": "自強路３０７巷４號",
+        "neighborhood": "福德里",
+        "location": {
+            "lat": 25.1320407,
+            "lng": 121.4622843
+        }
+    },
+    {
+        "name": "中華基督教長老會信友堂-關渡自強分堂",
+        "address": "自強路３０７巷２號",
+        "neighborhood": "福德里",
+        "location": {
+            "lat": 25.131952,
+            "lng": 121.4623518
+        }
+    },
+    {
+        "name": "竹圍國小自強分校",
+        "address": "自強路３５號",
+        "neighborhood": "福德里",
+        "location": {
+            "lat": 25.1270383,
+            "lng": 121.4628055
+        }
+    },
+    {
+        "name": "竹圍國小自強分校",
+        "address": "自強路３５號",
+        "neighborhood": "福德里",
+        "location": {
+            "lat": 25.1270383,
+            "lng": 121.4628055
+        }
+    },
+    {
+        "name": "土地公廟旁",
+        "address": "民族路１７巷底",
+        "neighborhood": "竹圍里",
+        "location": {
+            "lat": 25.1372253,
+            "lng": 121.4607718
+        }
+    },
+    {
+        "name": "土地公廟旁",
+        "address": "民族路１７巷底",
+        "neighborhood": "竹圍里",
+        "location": {
+            "lat": 25.1372253,
+            "lng": 121.4607718
+        }
+    },
+    {
+        "name": "關渡大國",
+        "address": "民族路２９巷２弄６號（觀海極品後方）",
+        "neighborhood": "竹圍里",
+        "location": {
+            "lat": 25.1369736,
+            "lng": 121.4627538
+        }
+    },
+    {
+        "name": "竹圍慈濟資源回收場",
+        "address": "民族路６５巷２號",
+        "neighborhood": "竹圍里",
+        "location": {
+            "lat": 25.134146,
+            "lng": 121.463267
+        }
+    },
+    {
+        "name": "私宅",
+        "address": "民權路１７９巷６號",
+        "neighborhood": "民權里",
+        "location": {
+            "lat": 25.1348358,
+            "lng": 121.460089
+        }
+    },
+    {
+        "name": "關渡站前A區中庭廣場",
+        "address": "民權路１７７巷５３號",
+        "neighborhood": "民權里",
+        "location": {
+            "lat": 25.139245,
+            "lng": 121.4598664
+        }
+    },
+    {
+        "name": "民生市民活動中心",
+        "address": "民生路２７號１樓(托兒所)",
+        "neighborhood": "民生里",
+        "location": {
+            "lat": 25.1379647,
+            "lng": 121.4615234
+        }
+    },
+    {
+        "name": "民生里土地公廟",
+        "address": "民生路１１３巷３弄３２號對面",
+        "neighborhood": "民生里",
+        "location": {
+            "lat": 25.1389381,
+            "lng": 121.4634238
+        }
+    },
+    {
+        "name": "民生里休閒區",
+        "address": "民生路１１３巷３弄３２號旁(民生里土地公廟對面)",
+        "neighborhood": "民生里",
+        "location": {
+            "lat": 25.1389381,
+            "lng": 121.4634238
+        }
+    },
+    {
+        "name": "民生市民活動中心",
+        "address": "民生路２７號６樓",
+        "neighborhood": "民生里",
+        "location": {
+            "lat": 25.1379647,
+            "lng": 121.4615234
+        }
+    },
+    {
+        "name": "竹圍國小",
+        "address": "中正東路二段１４５號",
+        "neighborhood": "八勢里",
+        "location": {
+            "lat": 25.1475596,
+            "lng": 121.4600373
+        }
+    },
+    {
+        "name": "竹圍國小",
+        "address": "中正東路二段１４５號",
+        "neighborhood": "八勢里",
+        "location": {
+            "lat": 25.1475596,
+            "lng": 121.4600373
+        }
+    },
+    {
+        "name": "八勢里活動中心",
+        "address": "八勢一街１２巷３號旁",
+        "neighborhood": "八勢里",
+        "location": {
+            "lat": 25.1561835,
+            "lng": 121.4603785
+        }
+    },
+    {
+        "name": "綠波山莊交誼廳",
+        "address": "坪頂路７０巷３７號",
+        "neighborhood": "竿蓁里",
+        "location": {
+            "lat": 25.1623144,
+            "lng": 121.4571382
+        }
+    },
+    {
+        "name": "紅樹林護理之家",
+        "address": "中正東路一段１１１巷２２號",
+        "neighborhood": "竿蓁里",
+        "location": {
+            "lat": 25.1608357,
+            "lng": 121.4551833
+        }
+    },
+    {
+        "name": "竿蓁市民活動中心",
+        "address": "中正東路一段３巷６號１樓",
+        "neighborhood": "竿蓁里",
+        "location": {
+            "lat": 25.1652463,
+            "lng": 121.4514439
+        }
+    },
+    {
+        "name": "竿蓁市民活動中心",
+        "address": "中正東路一段３巷６號１樓",
+        "neighborhood": "竿蓁里",
+        "location": {
+            "lat": 25.1652463,
+            "lng": 121.4514439
+        }
+    },
+    {
+        "name": "消防隊活動中心",
+        "address": "中正東路一段１２５號",
+        "neighborhood": "竿蓁里",
+        "location": {
+            "lat": 25.1594851,
+            "lng": 121.4556043
+        }
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "崁頂里",
+        "location": {
+            "lat": 25.18533,
+            "lng": 121.4441935
+        }
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "崁頂里",
+        "location": {
+            "lat": 25.18533,
+            "lng": 121.4441935
+        }
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "崁頂里",
+        "location": {
+            "lat": 25.18533,
+            "lng": 121.4441935
+        }
+    },
+    {
+        "name": "育英國小",
+        "address": "埤島１４號",
+        "neighborhood": "崁頂里",
+        "location": {
+            "lat": 25.1970634,
+            "lng": 121.4448505
+        }
+    },
+    {
+        "name": "埤島市民活動中心",
+        "address": "埤島１４號",
+        "neighborhood": "埤島里",
+        "location": {
+            "lat": 25.1970634,
+            "lng": 121.4448505
+        }
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "水碓里",
+        "location": {
+            "lat": 25.1815349,
+            "lng": 121.4551812
+        }
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "水碓里",
+        "location": {
+            "lat": 25.1815349,
+            "lng": 121.4551812
+        }
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "水碓里",
+        "location": {
+            "lat": 25.1815349,
+            "lng": 121.4551812
+        }
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "北新里",
+        "location": {
+            "lat": 25.1815349,
+            "lng": 121.4551812
+        }
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "北新里",
+        "location": {
+            "lat": 25.1815349,
+            "lng": 121.4551812
+        }
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "正德里",
+        "location": {
+            "lat": 25.1815349,
+            "lng": 121.4551812
+        }
+    },
+    {
+        "name": "正德國中",
+        "address": "北新路１０９號",
+        "neighborhood": "正德里",
+        "location": {
+            "lat": 25.1815349,
+            "lng": 121.4551812
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新興里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新興里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新興里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新義里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新義里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新義里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新春里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新春里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新春里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新春里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新民里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新民里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新興國小",
+        "address": "新興街１２３號",
+        "neighborhood": "新民里",
+        "location": {
+            "lat": 25.179723,
+            "lng": 121.4400448
+        }
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "北投里",
+        "location": {
+            "lat": 25.18533,
+            "lng": 121.4441935
+        }
+    },
+    {
+        "name": "北投里福德宮",
+        "address": "北新路２２３號旁",
+        "neighborhood": "北投里",
+        "location": {
+            "lat": 25.1785347,
+            "lng": 121.4486557
+        }
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "北投里",
+        "location": {
+            "lat": 25.18533,
+            "lng": 121.4441935
+        }
+    },
+    {
+        "name": "新市國小",
+        "address": "中山北路二段２００號",
+        "neighborhood": "北投里",
+        "location": {
+            "lat": 25.18533,
+            "lng": 121.4441935
+        }
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "鄧公里",
+        "location": {
+            "lat": 25.171016,
+            "lng": 121.449231
+        }
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "鄧公里",
+        "location": {
+            "lat": 25.171016,
+            "lng": 121.449231
+        }
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "鄧公里",
+        "location": {
+            "lat": 25.171016,
+            "lng": 121.449231
+        }
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "幸福里",
+        "location": {
+            "lat": 25.171016,
+            "lng": 121.449231
+        }
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "幸福里",
+        "location": {
+            "lat": 25.171016,
+            "lng": 121.449231
+        }
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "幸福里",
+        "location": {
+            "lat": 25.171016,
+            "lng": 121.449231
+        }
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "學府里",
+        "location": {
+            "lat": 25.171016,
+            "lng": 121.449231
+        }
+    },
+    {
+        "name": "鄧公國小",
+        "address": "學府路９９號",
+        "neighborhood": "學府里",
+        "location": {
+            "lat": 25.171016,
+            "lng": 121.449231
+        }
+    },
+    {
+        "name": "中興市民活動中心",
+        "address": "水源街一段２９號１樓",
+        "neighborhood": "中興里",
+        "location": {
+            "lat": 25.1723664,
+            "lng": 121.4431267
+        }
+    },
+    {
+        "name": "中興市民活動中心",
+        "address": "水源街一段２９號２樓",
+        "neighborhood": "中興里",
+        "location": {
+            "lat": 25.1723664,
+            "lng": 121.4431267
+        }
+    },
+    {
+        "name": "中興市民活動中心",
+        "address": "水源街一段２９號３樓",
+        "neighborhood": "中興里",
+        "location": {
+            "lat": 25.1723664,
+            "lng": 121.4431267
+        }
+    },
+    {
+        "name": "長庚市民活動中心",
+        "address": "中山路７２巷１弄１０號",
+        "neighborhood": "長庚里",
+        "location": {
+            "lat": 25.171328,
+            "lng": 121.4429107
+        }
+    },
+    {
+        "name": "淡水清水巖活動中心",
+        "address": "清水街１６０號",
+        "neighborhood": "清文里",
+        "location": {
+            "lat": 25.1704599,
+            "lng": 121.4411419
+        }
+    },
+    {
+        "name": "觀宗寺",
+        "address": "中正路１５號",
+        "neighborhood": "草東里",
+        "location": {
+            "lat": 25.1695239,
+            "lng": 121.443065
+        }
+    },
+    {
+        "name": "淡水國小",
+        "address": "中山路１６０號",
+        "neighborhood": "協元里",
+        "location": {
+            "lat": 25.1735253,
+            "lng": 121.4411499
+        }
+    },
+    {
+        "name": "永吉里集會所",
+        "address": "清水街２１２號",
+        "neighborhood": "永吉里",
+        "location": {
+            "lat": 25.1718656,
+            "lng": 121.4402308
+        }
+    },
+    {
+        "name": "福佑宮",
+        "address": "中正路２００號",
+        "neighborhood": "民安里",
+        "location": {
+            "lat": 25.1701815,
+            "lng": 121.4399367
+        }
+    },
+    {
+        "name": "新北市淡水地政事務所",
+        "address": "中正路２３３號",
+        "neighborhood": "新生里",
+        "location": {
+            "lat": 25.1729978,
+            "lng": 121.4358822
+        }
+    },
+    {
+        "name": "文化國小",
+        "address": "真理街６號",
+        "neighborhood": "文化里",
+        "location": {
+            "lat": 25.1745343,
+            "lng": 121.4364771
+        }
+    },
+    {
+        "name": "忠義宮蘇府王爺廟",
+        "address": "中正路一段３２號",
+        "neighborhood": "油車里",
+        "location": {
+            "lat": 25.176534,
+            "lng": 121.426747
+        }
+    },
+    {
+        "name": "天生國小",
+        "address": "淡海路７２巷２６號",
+        "neighborhood": "油車里",
+        "location": {
+            "lat": 25.181506,
+            "lng": 121.424601
+        }
+    },
+    {
+        "name": "天生國小",
+        "address": "淡海路７２巷２６號",
+        "neighborhood": "油車里",
+        "location": {
+            "lat": 25.181506,
+            "lng": 121.424601
+        }
+    },
+    {
+        "name": "保安廟",
+        "address": "淡海路１８９巷１０號",
+        "neighborhood": "沙崙里",
+        "location": {
+            "lat": 25.1841326,
+            "lng": 121.4196393
+        }
+    },
+    {
+        "name": "保安廟（聚福廳）",
+        "address": "淡海路１８９巷２５號",
+        "neighborhood": "沙崙里",
+        "location": {
+            "lat": 25.189905,
+            "lng": 121.419476
+        }
+    },
+    {
+        "name": "淡海市民活動中心",
+        "address": "淡海路１１１號",
+        "neighborhood": "大庄里",
+        "location": {
+            "lat": 25.1831264,
+            "lng": 121.4210542
+        }
+    },
+    {
+        "name": "大庄福德廟府",
+        "address": "新民街一段１３６號",
+        "neighborhood": "大庄里",
+        "location": {
+            "lat": 25.1851937,
+            "lng": 121.4293161
+        }
+    },
+    {
+        "name": "行忠宮",
+        "address": "新民街一段８０號",
+        "neighborhood": "大庄里",
+        "location": {
+            "lat": 25.1851937,
+            "lng": 121.4293161
+        }
+    }
+]

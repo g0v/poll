@@ -1,0 +1,929 @@
+[
+    {
+        "name": "蘆洲國小",
+        "address": "中正路１００號",
+        "neighborhood": "光華里",
+        "location": {
+            "lat": 25.0841284,
+            "lng": 121.4699515
+        }
+    },
+    {
+        "name": "蘆洲國小",
+        "address": "中正路１００號",
+        "neighborhood": "光華里",
+        "location": {
+            "lat": 25.0841284,
+            "lng": 121.4699515
+        }
+    },
+    {
+        "name": "蘆洲國小",
+        "address": "中正路１００號",
+        "neighborhood": "光華里",
+        "location": {
+            "lat": 25.0841284,
+            "lng": 121.4699515
+        }
+    },
+    {
+        "name": "蘆洲國小",
+        "address": "中正路１００號",
+        "neighborhood": "光明里",
+        "location": {
+            "lat": 25.0841284,
+            "lng": 121.4699515
+        }
+    },
+    {
+        "name": "蘆洲國小",
+        "address": "中正路１００號",
+        "neighborhood": "光明里",
+        "location": {
+            "lat": 25.0841284,
+            "lng": 121.4699515
+        }
+    },
+    {
+        "name": "蘆洲國小",
+        "address": "中正路１００號",
+        "neighborhood": "光明里",
+        "location": {
+            "lat": 25.0841284,
+            "lng": 121.4699515
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "和平路１１１巷１６號",
+        "neighborhood": "中路里",
+        "location": {
+            "lat": 25.0792709,
+            "lng": 121.467112
+        }
+    },
+    {
+        "name": "中路市民活動中心",
+        "address": "光華路１０７巷１１號",
+        "neighborhood": "中路里",
+        "location": {
+            "lat": 25.082038,
+            "lng": 121.467521
+        }
+    },
+    {
+        "name": "永安華廈社區",
+        "address": "永安南路二段１６巷１８號",
+        "neighborhood": "永安里",
+        "location": {
+            "lat": 25.0769271,
+            "lng": 121.4675645
+        }
+    },
+    {
+        "name": "永安華廈社區",
+        "address": "永安南路二段１６巷１４號",
+        "neighborhood": "永安里",
+        "location": {
+            "lat": 25.0769023,
+            "lng": 121.4676414
+        }
+    },
+    {
+        "name": "永安華廈社區",
+        "address": "永安南路二段１６巷１０號",
+        "neighborhood": "永安里",
+        "location": {
+            "lat": 25.0769023,
+            "lng": 121.4676414
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "九芎里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "九芎里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "九芎里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "永安市民活動中心",
+        "address": "永安南路二段１３４號",
+        "neighborhood": "延平里",
+        "location": {
+            "lat": 25.0792859,
+            "lng": 121.46278
+        }
+    },
+    {
+        "name": "永安市民活動中心",
+        "address": "永安南路二段１３４號",
+        "neighborhood": "延平里",
+        "location": {
+            "lat": 25.0792859,
+            "lng": 121.46278
+        }
+    },
+    {
+        "name": "中路市民活動中心",
+        "address": "光華路１０７巷１１號",
+        "neighborhood": "中華里",
+        "location": {
+            "lat": 25.082038,
+            "lng": 121.467521
+        }
+    },
+    {
+        "name": "中路市民活動中心",
+        "address": "光華路１０７巷１１號",
+        "neighborhood": "中華里",
+        "location": {
+            "lat": 25.082038,
+            "lng": 121.467521
+        }
+    },
+    {
+        "name": "蘆洲國中",
+        "address": "中正路２６５號",
+        "neighborhood": "中原里",
+        "location": {
+            "lat": 25.0869185,
+            "lng": 121.4665637
+        }
+    },
+    {
+        "name": "蘆洲國中",
+        "address": "中正路２６５號",
+        "neighborhood": "中原里",
+        "location": {
+            "lat": 25.0869185,
+            "lng": 121.4665637
+        }
+    },
+    {
+        "name": "蘆洲國中",
+        "address": "中正路２６５號",
+        "neighborhood": "中原里",
+        "location": {
+            "lat": 25.0869185,
+            "lng": 121.4665637
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "長安里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "長安里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "長安里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "長安市民活動中心",
+        "address": "長安街９６號４樓",
+        "neighborhood": "忠義里",
+        "location": {
+            "lat": 25.0806393,
+            "lng": 121.4619398
+        }
+    },
+    {
+        "name": "長安市民活動中心",
+        "address": "長安街９６號４樓",
+        "neighborhood": "忠義里",
+        "location": {
+            "lat": 25.0806393,
+            "lng": 121.4619398
+        }
+    },
+    {
+        "name": "忠義國小",
+        "address": "光榮路９９號",
+        "neighborhood": "正義里",
+        "location": {
+            "lat": 25.0892105,
+            "lng": 121.4639043
+        }
+    },
+    {
+        "name": "忠義國小",
+        "address": "光榮路９９號",
+        "neighborhood": "正義里",
+        "location": {
+            "lat": 25.0892105,
+            "lng": 121.4639043
+        }
+    },
+    {
+        "name": "忠義國小",
+        "address": "光榮路９９號",
+        "neighborhood": "正義里",
+        "location": {
+            "lat": 25.0892105,
+            "lng": 121.4639043
+        }
+    },
+    {
+        "name": "忠義國小",
+        "address": "光榮路９９號",
+        "neighborhood": "正義里",
+        "location": {
+            "lat": 25.0892105,
+            "lng": 121.4639043
+        }
+    },
+    {
+        "name": "忠義國小",
+        "address": "光榮路９９號",
+        "neighborhood": "正義里",
+        "location": {
+            "lat": 25.0892105,
+            "lng": 121.4639043
+        }
+    },
+    {
+        "name": "忠義國小",
+        "address": "光榮路９９號",
+        "neighborhood": "正義里",
+        "location": {
+            "lat": 25.0892105,
+            "lng": 121.4639043
+        }
+    },
+    {
+        "name": "鷺江國中",
+        "address": "長樂路２３５號",
+        "neighborhood": "南港里",
+        "location": {
+            "lat": 25.0902502,
+            "lng": 121.4620383
+        }
+    },
+    {
+        "name": "鷺江國中",
+        "address": "長樂路２３５號",
+        "neighborhood": "南港里",
+        "location": {
+            "lat": 25.0902502,
+            "lng": 121.4620383
+        }
+    },
+    {
+        "name": "鷺江國中",
+        "address": "長樂路２３５號",
+        "neighborhood": "南港里",
+        "location": {
+            "lat": 25.0902502,
+            "lng": 121.4620383
+        }
+    },
+    {
+        "name": "鷺江國中",
+        "address": "長樂路２３５號",
+        "neighborhood": "永樂里",
+        "location": {
+            "lat": 25.0902502,
+            "lng": 121.4620383
+        }
+    },
+    {
+        "name": "鷺江國中",
+        "address": "長樂路２３５號",
+        "neighborhood": "永樂里",
+        "location": {
+            "lat": 25.0902502,
+            "lng": 121.4620383
+        }
+    },
+    {
+        "name": "鷺江國中",
+        "address": "長樂路２３５號",
+        "neighborhood": "永樂里",
+        "location": {
+            "lat": 25.0902502,
+            "lng": 121.4620383
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "成功里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "永康里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "永康里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "永康里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "永康里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "永德里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "成功國小",
+        "address": "長安街３１１號",
+        "neighborhood": "永德里",
+        "location": {
+            "lat": 25.0859546,
+            "lng": 121.4574978
+        }
+    },
+    {
+        "name": "樓厝社區活動中心",
+        "address": "中興街７２號",
+        "neighborhood": "樓厝里",
+        "location": {
+            "lat": 25.0879904,
+            "lng": 121.4821822
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "民族路２３６巷４９號",
+        "neighborhood": "樓厝里",
+        "location": {
+            "lat": 25.0854502,
+            "lng": 121.47845
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "復興路２３４號",
+        "neighborhood": "樓厝里",
+        "location": {
+            "lat": 25.0894069,
+            "lng": 121.4794637
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "信義里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "信義里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "重陽市民活動中心(兒童親子圖書分館)",
+        "address": "集賢路２２１巷１１號２樓",
+        "neighborhood": "玉清里",
+        "location": {
+            "lat": 25.0857186,
+            "lng": 121.483695
+        }
+    },
+    {
+        "name": "重陽市民活動中心",
+        "address": "集賢路２２１巷１１號",
+        "neighborhood": "玉清里",
+        "location": {
+            "lat": 25.0857186,
+            "lng": 121.483695
+        }
+    },
+    {
+        "name": "重陽市民活動中心",
+        "address": "集賢路２２１巷１１號",
+        "neighborhood": "玉清里",
+        "location": {
+            "lat": 25.0857186,
+            "lng": 121.483695
+        }
+    },
+    {
+        "name": "護天宮",
+        "address": "復興路２２７巷２６號",
+        "neighborhood": "復興里",
+        "location": {
+            "lat": 25.091132,
+            "lng": 121.479439
+        }
+    },
+    {
+        "name": "護天宮",
+        "address": "復興路２２７巷２６號",
+        "neighborhood": "復興里",
+        "location": {
+            "lat": 25.091132,
+            "lng": 121.479439
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "民族路２１３號",
+        "neighborhood": "福安里",
+        "location": {
+            "lat": 25.089422,
+            "lng": 121.47799
+        }
+    },
+    {
+        "name": "鷺江社區活動中心",
+        "address": "民權路６８巷４號",
+        "neighborhood": "福安里",
+        "location": {
+            "lat": 25.0879184,
+            "lng": 121.4734399
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "鷺江里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "鷺江里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "鷺江里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "恆德里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "恆德里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "永安兒童公園市民活動中心",
+        "address": "永安北路二段４２之６號",
+        "neighborhood": "恆德里",
+        "location": {
+            "lat": 25.081397,
+            "lng": 121.4817891
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "溪墘里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "溪墘里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "仁復市民活動中心",
+        "address": "中山二路３６巷７號",
+        "neighborhood": "仁復里",
+        "location": {
+            "lat": 25.0826427,
+            "lng": 121.4742727
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "仁德里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "仁德里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "鷺江國小",
+        "address": "民族路７號",
+        "neighborhood": "仁德里",
+        "location": {
+            "lat": 25.0842803,
+            "lng": 121.4761723
+        }
+    },
+    {
+        "name": "玉清市民活動中心",
+        "address": "集賢路２５５號",
+        "neighborhood": "仁義里",
+        "location": {
+            "lat": 25.0895014,
+            "lng": 121.4761555
+        }
+    },
+    {
+        "name": "仁義市民活動中心",
+        "address": "信義路２２２巷３２弄３１之１號",
+        "neighborhood": "仁義里",
+        "location": {
+            "lat": 25.084386,
+            "lng": 121.480717
+        }
+    },
+    {
+        "name": "湧蓮寺",
+        "address": "得勝街９６號",
+        "neighborhood": "得勝里",
+        "location": {
+            "lat": 25.0832607,
+            "lng": 121.4713551
+        }
+    },
+    {
+        "name": "蘆洲監理站",
+        "address": "中山二路１６３號",
+        "neighborhood": "得勝里",
+        "location": {
+            "lat": 25.0807512,
+            "lng": 121.4718001
+        }
+    },
+    {
+        "name": "民生市民活動中心",
+        "address": "民生街１２９巷１４號",
+        "neighborhood": "得仁里",
+        "location": {
+            "lat": 25.0783614,
+            "lng": 121.4728405
+        }
+    },
+    {
+        "name": "民生市民活動中心",
+        "address": "民生街１２９巷１６號",
+        "neighborhood": "得仁里",
+        "location": {
+            "lat": 25.0782689,
+            "lng": 121.472831
+        }
+    },
+    {
+        "name": "蘆洲國小",
+        "address": "中正路１００號",
+        "neighborhood": "保和里",
+        "location": {
+            "lat": 25.0841284,
+            "lng": 121.4699515
+        }
+    },
+    {
+        "name": "蘆洲國小",
+        "address": "中正路１００號",
+        "neighborhood": "保和里",
+        "location": {
+            "lat": 25.0841284,
+            "lng": 121.4699515
+        }
+    },
+    {
+        "name": "景福宮活動中心",
+        "address": "信義路２７巷７號",
+        "neighborhood": "樹德里",
+        "location": {
+            "lat": 25.0796423,
+            "lng": 121.4739087
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "成功路７２巷１５號",
+        "neighborhood": "樹德里",
+        "location": {
+            "lat": 25.0508979,
+            "lng": 121.488442
+        }
+    },
+    {
+        "name": "蘆洲代天府",
+        "address": "信義路３０巷５５號",
+        "neighborhood": "民和里",
+        "location": {
+            "lat": 25.0780955,
+            "lng": 121.4747286
+        }
+    },
+    {
+        "name": "蘆洲奉安宮",
+        "address": "永安北路一段６６巷２號",
+        "neighborhood": "民和里",
+        "location": {
+            "lat": 25.0766167,
+            "lng": 121.4764403
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "水湳里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "水湳里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "水湳里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "水湳里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "水湳里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "水河里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "水河里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "水河里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "水河里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "水河里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "三民高中",
+        "address": "三民路９６號",
+        "neighborhood": "仁愛里",
+        "location": {
+            "lat": 25.0859048,
+            "lng": 121.4731687
+        }
+    },
+    {
+        "name": "三民高中",
+        "address": "三民路９６號",
+        "neighborhood": "仁愛里",
+        "location": {
+            "lat": 25.0859048,
+            "lng": 121.4731687
+        }
+    },
+    {
+        "name": "三民高中",
+        "address": "三民路９６號",
+        "neighborhood": "仁愛里",
+        "location": {
+            "lat": 25.0859048,
+            "lng": 121.4731687
+        }
+    },
+    {
+        "name": "三民高中",
+        "address": "三民路９６號",
+        "neighborhood": "忠孝里",
+        "location": {
+            "lat": 25.0859048,
+            "lng": 121.4731687
+        }
+    },
+    {
+        "name": "三民高中",
+        "address": "三民路９６號",
+        "neighborhood": "忠孝里",
+        "location": {
+            "lat": 25.0859048,
+            "lng": 121.4731687
+        }
+    },
+    {
+        "name": "蘆洲國中",
+        "address": "中正路２６５號",
+        "neighborhood": "保佑里",
+        "location": {
+            "lat": 25.0869185,
+            "lng": 121.4665637
+        }
+    },
+    {
+        "name": "蘆洲國中",
+        "address": "中正路２６５號",
+        "neighborhood": "保佑里",
+        "location": {
+            "lat": 25.0869185,
+            "lng": 121.4665637
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "保新里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    },
+    {
+        "name": "仁愛國小",
+        "address": "民族路４８８號",
+        "neighborhood": "保新里",
+        "location": {
+            "lat": 25.0912245,
+            "lng": 121.4705266
+        }
+    }
+]

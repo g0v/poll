@@ -1,0 +1,1244 @@
+[
+    {
+        "name": "金甌女中101教室",
+        "address": "博愛街３６號",
+        "neighborhood": "光復里",
+        "location": {
+            "lat": 25.0158367,
+            "lng": 121.5192517
+        }
+    },
+    {
+        "name": "金甌女中102教室",
+        "address": "博愛街３６號",
+        "neighborhood": "網溪里",
+        "location": {
+            "lat": 25.0158367,
+            "lng": 121.5192517
+        }
+    },
+    {
+        "name": "竹林小學(一甲)",
+        "address": "竹林路３４號",
+        "neighborhood": "復興里",
+        "location": {
+            "lat": 25.0144112,
+            "lng": 121.5173613
+        }
+    },
+    {
+        "name": "永和幼兒園博愛分班",
+        "address": "竹林路３９巷３５號",
+        "neighborhood": "復興里",
+        "location": {
+            "lat": 25.0156224,
+            "lng": 121.5205465
+        }
+    },
+    {
+        "name": "新北市國父紀念館",
+        "address": "竹林路２０２號",
+        "neighborhood": "竹林里",
+        "location": {
+            "lat": 25.0087458,
+            "lng": 121.5205808
+        }
+    },
+    {
+        "name": "新北市國父紀念館",
+        "address": "竹林路２０２號",
+        "neighborhood": "竹林里",
+        "location": {
+            "lat": 25.0087458,
+            "lng": 121.5205808
+        }
+    },
+    {
+        "name": "網溪國小一年1班",
+        "address": "竹林路７９號",
+        "neighborhood": "桂林里",
+        "location": {
+            "lat": 25.0129384,
+            "lng": 121.5193637
+        }
+    },
+    {
+        "name": "網溪國小一年2班",
+        "address": "竹林路７９號",
+        "neighborhood": "桂林里",
+        "location": {
+            "lat": 25.0129384,
+            "lng": 121.5193637
+        }
+    },
+    {
+        "name": "網溪國小一年3班",
+        "address": "竹林路７９號",
+        "neighborhood": "上林里",
+        "location": {
+            "lat": 25.0129384,
+            "lng": 121.5193637
+        }
+    },
+    {
+        "name": "網溪國小一年4班",
+        "address": "竹林路７９號",
+        "neighborhood": "上林里",
+        "location": {
+            "lat": 25.0129384,
+            "lng": 121.5193637
+        }
+    },
+    {
+        "name": "新北市國父紀念館",
+        "address": "竹林路２０２號",
+        "neighborhood": "福林里",
+        "location": {
+            "lat": 25.0087458,
+            "lng": 121.5205808
+        }
+    },
+    {
+        "name": "新北市國父紀念館",
+        "address": "竹林路２０２號",
+        "neighborhood": "福林里",
+        "location": {
+            "lat": 25.0087458,
+            "lng": 121.5205808
+        }
+    },
+    {
+        "name": "溪洲市民活動中心3樓",
+        "address": "勵行街４２之１號",
+        "neighborhood": "勵行里",
+        "location": {
+            "lat": 25.0135193,
+            "lng": 121.5167281
+        }
+    },
+    {
+        "name": "溪洲市民活動中心2樓",
+        "address": "勵行街４２之１號",
+        "neighborhood": "中興里",
+        "location": {
+            "lat": 25.0135193,
+            "lng": 121.5167281
+        }
+    },
+    {
+        "name": "溪洲市民活動中心2樓",
+        "address": "勵行街４２之１號",
+        "neighborhood": "中興里",
+        "location": {
+            "lat": 25.0135193,
+            "lng": 121.5167281
+        }
+    },
+    {
+        "name": "網溪國小一年5班",
+        "address": "竹林路７９號",
+        "neighborhood": "永興里",
+        "location": {
+            "lat": 25.0129384,
+            "lng": 121.5193637
+        }
+    },
+    {
+        "name": "網溪國小一年6班",
+        "address": "竹林路７９號",
+        "neighborhood": "永興里",
+        "location": {
+            "lat": 25.0129384,
+            "lng": 121.5193637
+        }
+    },
+    {
+        "name": "網溪國小一年7班",
+        "address": "竹林路７９號",
+        "neighborhood": "正興里",
+        "location": {
+            "lat": 25.0129384,
+            "lng": 121.5193637
+        }
+    },
+    {
+        "name": "網溪國小二年1班",
+        "address": "竹林路７９號",
+        "neighborhood": "正興里",
+        "location": {
+            "lat": 25.0129384,
+            "lng": 121.5193637
+        }
+    },
+    {
+        "name": "豫溪市民活動中心",
+        "address": "中正路６３７號",
+        "neighborhood": "豫溪里",
+        "location": {
+            "lat": 25.0100058,
+            "lng": 121.515515
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "中正路６８０巷１５號",
+        "neighborhood": "豫溪里",
+        "location": {
+            "lat": 25.0095779,
+            "lng": 121.5181493
+        }
+    },
+    {
+        "name": "新北市立圖書館永和分館",
+        "address": "國光路２號",
+        "neighborhood": "光明里",
+        "location": {
+            "lat": 25.008623,
+            "lng": 121.519749
+        }
+    },
+    {
+        "name": "新北市立圖書館永和分館前",
+        "address": "國光路２號",
+        "neighborhood": "光明里",
+        "location": {
+            "lat": 25.008623,
+            "lng": 121.519749
+        }
+    },
+    {
+        "name": "福和國中705教室",
+        "address": "永利路７１號",
+        "neighborhood": "福和里",
+        "location": {
+            "lat": 25.0040252,
+            "lng": 121.5208617
+        }
+    },
+    {
+        "name": "福和國中704教室",
+        "address": "永利路７１號",
+        "neighborhood": "福和里",
+        "location": {
+            "lat": 25.0040252,
+            "lng": 121.5208617
+        }
+    },
+    {
+        "name": "福和國中703教室",
+        "address": "永利路７１號",
+        "neighborhood": "福和里",
+        "location": {
+            "lat": 25.0040252,
+            "lng": 121.5208617
+        }
+    },
+    {
+        "name": "復興商工302教室",
+        "address": "秀朗路一段２０１號",
+        "neighborhood": "得和里",
+        "location": {
+            "lat": 25.0034336,
+            "lng": 121.5182465
+        }
+    },
+    {
+        "name": "復興商工304教室",
+        "address": "秀朗路一段２０１號",
+        "neighborhood": "得和里",
+        "location": {
+            "lat": 25.0034336,
+            "lng": 121.5182465
+        }
+    },
+    {
+        "name": "復興商工701教室",
+        "address": "秀朗路一段２０１號",
+        "neighborhood": "得和里",
+        "location": {
+            "lat": 25.0034336,
+            "lng": 121.5182465
+        }
+    },
+    {
+        "name": "育才小學一年智班",
+        "address": "福和路１２５巷２０號",
+        "neighborhood": "永貞里",
+        "location": {
+            "lat": 25.0070989,
+            "lng": 121.5217335
+        }
+    },
+    {
+        "name": "育才小學一年藍班",
+        "address": "福和路１２５巷２０號",
+        "neighborhood": "永貞里",
+        "location": {
+            "lat": 25.0070989,
+            "lng": 121.5217335
+        }
+    },
+    {
+        "name": "永和國中903教室",
+        "address": "國中路１１１號",
+        "neighborhood": "永福里",
+        "location": {
+            "lat": 25.0066996,
+            "lng": 121.5233461
+        }
+    },
+    {
+        "name": "永和國中906教室",
+        "address": "國中路１１１號",
+        "neighborhood": "永福里",
+        "location": {
+            "lat": 25.0066996,
+            "lng": 121.5233461
+        }
+    },
+    {
+        "name": "永和國中911教室",
+        "address": "國中路１１１號",
+        "neighborhood": "河濱里",
+        "location": {
+            "lat": 25.0066996,
+            "lng": 121.5233461
+        }
+    },
+    {
+        "name": "河濱第一市民活動中心",
+        "address": "林森路１０巷１８弄６號",
+        "neighborhood": "河濱里",
+        "location": {
+            "lat": 25.0066434,
+            "lng": 121.5260151
+        }
+    },
+    {
+        "name": "永和國中914教室",
+        "address": "國中路１１１號",
+        "neighborhood": "秀和里",
+        "location": {
+            "lat": 25.0066996,
+            "lng": 121.5233461
+        }
+    },
+    {
+        "name": "福和國中702教室",
+        "address": "永利路７１號",
+        "neighborhood": "秀和里",
+        "location": {
+            "lat": 25.0040252,
+            "lng": 121.5208617
+        }
+    },
+    {
+        "name": "福和國中701教室",
+        "address": "永利路７１號",
+        "neighborhood": "秀和里",
+        "location": {
+            "lat": 25.0040252,
+            "lng": 121.5208617
+        }
+    },
+    {
+        "name": "永和秀朗社區活動中心",
+        "address": "秀朗路二段２４巷１８號",
+        "neighborhood": "永元里",
+        "location": {
+            "lat": 25.0021357,
+            "lng": 121.5203478
+        }
+    },
+    {
+        "name": "得和市民活動中心",
+        "address": "秀朗路二段２４巷３５號",
+        "neighborhood": "永元里",
+        "location": {
+            "lat": 25.0019133,
+            "lng": 121.5202024
+        }
+    },
+    {
+        "name": "得和市民活動中心",
+        "address": "秀朗路二段２４巷３５號",
+        "neighborhood": "永元里",
+        "location": {
+            "lat": 25.0019133,
+            "lng": 121.5202024
+        }
+    },
+    {
+        "name": "秀朗國小102教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民權里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小103教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民權里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "民權市民活動中心",
+        "address": "民權路６０號４樓",
+        "neighborhood": "民權里",
+        "location": {
+            "lat": 24.9977764,
+            "lng": 121.51994
+        }
+    },
+    {
+        "name": "秀朗國小105教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民族里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小108教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民族里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小109教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民族里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗市民活動中心",
+        "address": "成功路一段２０之１號",
+        "neighborhood": "秀朗里",
+        "location": {
+            "lat": 25.0049759,
+            "lng": 121.5269456
+        }
+    },
+    {
+        "name": "秀朗市民活動中心",
+        "address": "成功路一段２０之１號",
+        "neighborhood": "秀朗里",
+        "location": {
+            "lat": 25.0049759,
+            "lng": 121.5269456
+        }
+    },
+    {
+        "name": "秀朗市民活動中心",
+        "address": "成功路一段２０之１號",
+        "neighborhood": "秀成里",
+        "location": {
+            "lat": 25.0049759,
+            "lng": 121.5269456
+        }
+    },
+    {
+        "name": "民宅(秀和宮)",
+        "address": "成功路二段１巷１號",
+        "neighborhood": "秀成里",
+        "location": {
+            "lat": 25.0015652,
+            "lng": 121.5271224
+        }
+    },
+    {
+        "name": "聖安宮",
+        "address": "秀朗路二段８２巷５弄１號",
+        "neighborhood": "秀林里",
+        "location": {
+            "lat": 25.0030057,
+            "lng": 121.5206867
+        }
+    },
+    {
+        "name": "濟安宮",
+        "address": "永利路１２７號",
+        "neighborhood": "秀林里",
+        "location": {
+            "lat": 25.002927,
+            "lng": 121.5239479
+        }
+    },
+    {
+        "name": "秀朗國小110教室",
+        "address": "得和路２０２號",
+        "neighborhood": "秀得里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小112教室",
+        "address": "得和路２０２號",
+        "neighborhood": "秀得里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小114教室",
+        "address": "得和路２０２號",
+        "neighborhood": "秀元里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小116教室",
+        "address": "得和路２０２號",
+        "neighborhood": "秀元里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小146教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民生里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小148教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民生里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小151教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民生里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小153教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民本里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小154教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民本里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小120教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民富里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "合安幼兒園",
+        "address": "民樂街５９巷１５號",
+        "neighborhood": "民富里",
+        "location": {
+            "lat": 24.9982824,
+            "lng": 121.528252
+        }
+    },
+    {
+        "name": "朝代大第",
+        "address": "成功路二段４７巷１號",
+        "neighborhood": "民樂里",
+        "location": {
+            "lat": 25.0003834,
+            "lng": 121.526855
+        }
+    },
+    {
+        "name": "朝代大第",
+        "address": "成功路二段４７巷１號",
+        "neighborhood": "民樂里",
+        "location": {
+            "lat": 25.0003834,
+            "lng": 121.526855
+        }
+    },
+    {
+        "name": "成功大第",
+        "address": "成功路二段８１號中庭",
+        "neighborhood": "民樂里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "秀朗國小142教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民治里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "秀朗國小144教室",
+        "address": "得和路２０２號",
+        "neighborhood": "民治里",
+        "location": {
+            "lat": 24.9997541,
+            "lng": 121.5211113
+        }
+    },
+    {
+        "name": "智光商工102教室",
+        "address": "中正路１００號",
+        "neighborhood": "智光里",
+        "location": {
+            "lat": 24.9956049,
+            "lng": 121.5142563
+        }
+    },
+    {
+        "name": "智光商工103教室",
+        "address": "中正路１００號",
+        "neighborhood": "智光里",
+        "location": {
+            "lat": 24.9956049,
+            "lng": 121.5142563
+        }
+    },
+    {
+        "name": "潭墘市民活動中心",
+        "address": "安樂路１０２號",
+        "neighborhood": "潭安里",
+        "location": {
+            "lat": 24.999428,
+            "lng": 121.514338
+        }
+    },
+    {
+        "name": "潭墘市民活動中心",
+        "address": "安樂路１０２號",
+        "neighborhood": "潭安里",
+        "location": {
+            "lat": 24.999428,
+            "lng": 121.514338
+        }
+    },
+    {
+        "name": "永和國小212教室",
+        "address": "秀朗路一段１２０號",
+        "neighborhood": "潭安里",
+        "location": {
+            "lat": 25.0035303,
+            "lng": 121.5170956
+        }
+    },
+    {
+        "name": "永和國小213教室",
+        "address": "秀朗路一段１２０號",
+        "neighborhood": "潭安里",
+        "location": {
+            "lat": 25.0035303,
+            "lng": 121.5170956
+        }
+    },
+    {
+        "name": "永和國小102教室",
+        "address": "秀朗路一段１２０號",
+        "neighborhood": "潭墘里",
+        "location": {
+            "lat": 25.0035303,
+            "lng": 121.5170956
+        }
+    },
+    {
+        "name": "永和國小101教室",
+        "address": "秀朗路一段１２０號",
+        "neighborhood": "潭墘里",
+        "location": {
+            "lat": 25.0035303,
+            "lng": 121.5170956
+        }
+    },
+    {
+        "name": "永和國小英語教室",
+        "address": "秀朗路一段１２０號",
+        "neighborhood": "潭墘里",
+        "location": {
+            "lat": 25.0035303,
+            "lng": 121.5170956
+        }
+    },
+    {
+        "name": "永和國小103教室",
+        "address": "秀朗路一段１２０號",
+        "neighborhood": "店街里",
+        "location": {
+            "lat": 25.0035303,
+            "lng": 121.5170956
+        }
+    },
+    {
+        "name": "永和國小104教室",
+        "address": "秀朗路一段１２０號",
+        "neighborhood": "店街里",
+        "location": {
+            "lat": 25.0035303,
+            "lng": 121.5170956
+        }
+    },
+    {
+        "name": "大新光明市民活動中心2樓",
+        "address": "大新街４５巷１之１號２樓",
+        "neighborhood": "大新里",
+        "location": {
+            "lat": 24.9686638,
+            "lng": 121.543598
+        }
+    },
+    {
+        "name": "大新光明市民活動中心3樓",
+        "address": "大新街４５巷１之１號３樓",
+        "neighborhood": "大新里",
+        "location": {
+            "lat": 25.008631,
+            "lng": 121.5154915
+        }
+    },
+    {
+        "name": "永和國小501教室",
+        "address": "秀朗路一段１２０號",
+        "neighborhood": "永安里",
+        "location": {
+            "lat": 25.0035303,
+            "lng": 121.5170956
+        }
+    },
+    {
+        "name": "永和國小502教室",
+        "address": "秀朗路一段１２０號",
+        "neighborhood": "永安里",
+        "location": {
+            "lat": 25.0035303,
+            "lng": 121.5170956
+        }
+    },
+    {
+        "name": "永和國小503教室",
+        "address": "秀朗路一段１２０號",
+        "neighborhood": "永安里",
+        "location": {
+            "lat": 25.0035303,
+            "lng": 121.5170956
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "安樂路４６９巷１號",
+        "neighborhood": "永樂里",
+        "location": {
+            "lat": 25.0054539,
+            "lng": 121.514101
+        }
+    },
+    {
+        "name": "永和天主堂",
+        "address": "自由街６９號",
+        "neighborhood": "永樂里",
+        "location": {
+            "lat": 25.0051249,
+            "lng": 121.513524
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "永貞路３２０號旁車庫",
+        "neighborhood": "水源里",
+        "location": {
+            "lat": 25.0051599,
+            "lng": 121.511625
+        }
+    },
+    {
+        "name": "水源市民活動中心",
+        "address": "保平路１７７巷６弄２號",
+        "neighborhood": "水源里",
+        "location": {
+            "lat": 25.004862,
+            "lng": 121.509728
+        }
+    },
+    {
+        "name": "奧爾仕幼兒園",
+        "address": "保平路２０３巷２號",
+        "neighborhood": "水源里",
+        "location": {
+            "lat": 25.0049004,
+            "lng": 121.5088123
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "永和路一段４９巷４號",
+        "neighborhood": "協和里",
+        "location": {
+            "lat": 25.0068257,
+            "lng": 121.5125563
+        }
+    },
+    {
+        "name": "東聖宮",
+        "address": "保平路５０巷１０弄３號",
+        "neighborhood": "協和里",
+        "location": {
+            "lat": 25.0079707,
+            "lng": 121.5112367
+        }
+    },
+    {
+        "name": "永和雙和教會",
+        "address": "中和路３８９巷５號",
+        "neighborhood": "雙和里",
+        "location": {
+            "lat": 25.0005795,
+            "lng": 121.508148
+        }
+    },
+    {
+        "name": "永和雙和教會",
+        "address": "中和路３８９巷５號",
+        "neighborhood": "雙和里",
+        "location": {
+            "lat": 25.0005795,
+            "lng": 121.508148
+        }
+    },
+    {
+        "name": "嘉樂幼兒園",
+        "address": "中和路５０１巷１７號",
+        "neighborhood": "安和里",
+        "location": {
+            "lat": 25.0030098,
+            "lng": 121.5103026
+        }
+    },
+    {
+        "name": "自來水公司北區工程處停車場",
+        "address": "水源街５２號旁停車場",
+        "neighborhood": "安和里",
+        "location": {
+            "lat": 25.0044596,
+            "lng": 121.5103603
+        }
+    },
+    {
+        "name": "浸信會中和堂",
+        "address": "永和路一段１５３號",
+        "neighborhood": "前溪里",
+        "location": {
+            "lat": 25.0073845,
+            "lng": 121.5135027
+        }
+    },
+    {
+        "name": "永平高中704教室",
+        "address": "永平路２０５號",
+        "neighborhood": "和平里",
+        "location": {
+            "lat": 25.0107014,
+            "lng": 121.5087055
+        }
+    },
+    {
+        "name": "永平高中705教室",
+        "address": "永平路２０５號",
+        "neighborhood": "和平里",
+        "location": {
+            "lat": 25.0107014,
+            "lng": 121.5087055
+        }
+    },
+    {
+        "name": "永平高中706教室",
+        "address": "永平路２０５號",
+        "neighborhood": "和平里",
+        "location": {
+            "lat": 25.0107014,
+            "lng": 121.5087055
+        }
+    },
+    {
+        "name": "民宅(聖媽宮)",
+        "address": "保平路２４６號旁",
+        "neighborhood": "保平里",
+        "location": {
+            "lat": 25.0053862,
+            "lng": 121.509043
+        }
+    },
+    {
+        "name": "民宅",
+        "address": "保平路２１４巷３弄１號",
+        "neighborhood": "保平里",
+        "location": {
+            "lat": 25.006221,
+            "lng": 121.509336
+        }
+    },
+    {
+        "name": "空屋",
+        "address": "保平路２６８巷５１弄２２號",
+        "neighborhood": "保平里",
+        "location": {
+            "lat": 25.0063699,
+            "lng": 121.507792
+        }
+    },
+    {
+        "name": "永平高中701教室",
+        "address": "永平路２０５號",
+        "neighborhood": "中溪里",
+        "location": {
+            "lat": 25.0107014,
+            "lng": 121.5087055
+        }
+    },
+    {
+        "name": "永平高中702教室",
+        "address": "永平路２０５號",
+        "neighborhood": "中溪里",
+        "location": {
+            "lat": 25.0107014,
+            "lng": 121.5087055
+        }
+    },
+    {
+        "name": "永平高中703教室",
+        "address": "永平路２０５號",
+        "neighborhood": "中溪里",
+        "location": {
+            "lat": 25.0107014,
+            "lng": 121.5087055
+        }
+    },
+    {
+        "name": "永平高中813教室",
+        "address": "永平路２０５號",
+        "neighborhood": "保安里",
+        "location": {
+            "lat": 25.0107014,
+            "lng": 121.5087055
+        }
+    },
+    {
+        "name": "永平國小113教室",
+        "address": "保生路２５號",
+        "neighborhood": "保安里",
+        "location": {
+            "lat": 25.0078768,
+            "lng": 121.5057539
+        }
+    },
+    {
+        "name": "永平國小114教室",
+        "address": "保生路２５號",
+        "neighborhood": "保安里",
+        "location": {
+            "lat": 25.0078768,
+            "lng": 121.5057539
+        }
+    },
+    {
+        "name": "永平國小115教室",
+        "address": "保生路２５號",
+        "neighborhood": "保安里",
+        "location": {
+            "lat": 25.0078768,
+            "lng": 121.5057539
+        }
+    },
+    {
+        "name": "永平國小116教室",
+        "address": "保生路２５號",
+        "neighborhood": "保順里",
+        "location": {
+            "lat": 25.0078768,
+            "lng": 121.5057539
+        }
+    },
+    {
+        "name": "永平國小117教室",
+        "address": "保生路２５號",
+        "neighborhood": "保順里",
+        "location": {
+            "lat": 25.0078768,
+            "lng": 121.5057539
+        }
+    },
+    {
+        "name": "永平國小118教室",
+        "address": "保生路２５號",
+        "neighborhood": "保順里",
+        "location": {
+            "lat": 25.0078768,
+            "lng": 121.5057539
+        }
+    },
+    {
+        "name": "永平國小119教室",
+        "address": "保生路２５號",
+        "neighborhood": "保順里",
+        "location": {
+            "lat": 25.0078768,
+            "lng": 121.5057539
+        }
+    },
+    {
+        "name": "永平國小語文教室",
+        "address": "保生路２５號",
+        "neighborhood": "保順里",
+        "location": {
+            "lat": 25.0078768,
+            "lng": 121.5057539
+        }
+    },
+    {
+        "name": "永平國小101教室",
+        "address": "保生路２５號",
+        "neighborhood": "保順里",
+        "location": {
+            "lat": 25.0078768,
+            "lng": 121.5057539
+        }
+    },
+    {
+        "name": "永平國小102教室",
+        "address": "保生路２５號",
+        "neighborhood": "保順里",
+        "location": {
+            "lat": 25.0078768,
+            "lng": 121.5057539
+        }
+    },
+    {
+        "name": "保福宮",
+        "address": "仁愛路２０２巷３號之１",
+        "neighborhood": "下溪里",
+        "location": {
+            "lat": 25.012473,
+            "lng": 121.50894
+        }
+    },
+    {
+        "name": "保福宮前",
+        "address": "仁愛路２０２巷３號之１",
+        "neighborhood": "下溪里",
+        "location": {
+            "lat": 25.012473,
+            "lng": 121.50894
+        }
+    },
+    {
+        "name": "觀音寺",
+        "address": "新生路２７３巷１之１號",
+        "neighborhood": "大同里",
+        "location": {
+            "lat": 25.0169369,
+            "lng": 121.509499
+        }
+    },
+    {
+        "name": "永和幼兒園大同分班",
+        "address": "新生路２６號",
+        "neighborhood": "新生里",
+        "location": {
+            "lat": 25.0162239,
+            "lng": 121.508462
+        }
+    },
+    {
+        "name": "永成市民活動中心",
+        "address": "環河西路二段５號",
+        "neighborhood": "永成里",
+        "location": {
+            "lat": 25.0167416,
+            "lng": 121.5088938
+        }
+    },
+    {
+        "name": "文化下溪市民活動中心",
+        "address": "保福路三段２之１號",
+        "neighborhood": "忠義里",
+        "location": {
+            "lat": 25.0156339,
+            "lng": 121.508566
+        }
+    },
+    {
+        "name": "頂溪國小118教室",
+        "address": "文化路１３３號",
+        "neighborhood": "仁愛里",
+        "location": {
+            "lat": 25.0155338,
+            "lng": 121.5116017
+        }
+    },
+    {
+        "name": "頂溪國小119教室",
+        "address": "文化路１３３號",
+        "neighborhood": "仁愛里",
+        "location": {
+            "lat": 25.0155338,
+            "lng": 121.5116017
+        }
+    },
+    {
+        "name": "頂溪國小121教室",
+        "address": "文化路１３３號",
+        "neighborhood": "文化里",
+        "location": {
+            "lat": 25.0155338,
+            "lng": 121.5116017
+        }
+    },
+    {
+        "name": "頂溪國小122教室",
+        "address": "文化路１３３號",
+        "neighborhood": "文化里",
+        "location": {
+            "lat": 25.0155338,
+            "lng": 121.5116017
+        }
+    },
+    {
+        "name": "永和天恩堂",
+        "address": "信義路２３號",
+        "neighborhood": "信義里",
+        "location": {
+            "lat": 25.0121183,
+            "lng": 121.5138588
+        }
+    },
+    {
+        "name": "永和天恩堂",
+        "address": "信義路２３號",
+        "neighborhood": "信義里",
+        "location": {
+            "lat": 25.0121183,
+            "lng": 121.5138588
+        }
+    },
+    {
+        "name": "頂溪國小115教室",
+        "address": "文化路１３３號",
+        "neighborhood": "後溪里",
+        "location": {
+            "lat": 25.0155338,
+            "lng": 121.5116017
+        }
+    },
+    {
+        "name": "頂溪國小123教室",
+        "address": "文化路１３３號",
+        "neighborhood": "上溪里",
+        "location": {
+            "lat": 25.0155338,
+            "lng": 121.5116017
+        }
+    },
+    {
+        "name": "頂溪國小124教室",
+        "address": "文化路１３３號",
+        "neighborhood": "上溪里",
+        "location": {
+            "lat": 25.0155338,
+            "lng": 121.5116017
+        }
+    },
+    {
+        "name": "忠孝市民活動中心4樓",
+        "address": "忠孝街２６巷８號４樓",
+        "neighborhood": "頂溪里",
+        "location": {
+            "lat": 25.0168758,
+            "lng": 121.5152773
+        }
+    },
+    {
+        "name": "南清宮",
+        "address": "忠孝街３４巷１０號",
+        "neighborhood": "頂溪里",
+        "location": {
+            "lat": 25.0164869,
+            "lng": 121.5147348
+        }
+    },
+    {
+        "name": "忠孝市民活動中心5樓",
+        "address": "忠孝街２６巷８號５樓",
+        "neighborhood": "河堤里",
+        "location": {
+            "lat": 25.0168758,
+            "lng": 121.5152773
+        }
+    },
+    {
+        "name": "忠孝市民活動中心5樓",
+        "address": "忠孝街２６巷８號５樓",
+        "neighborhood": "河堤里",
+        "location": {
+            "lat": 25.0168758,
+            "lng": 121.5152773
+        }
+    },
+    {
+        "name": "及人小學A-101教室",
+        "address": "文化路１７２號",
+        "neighborhood": "新?里",
+        "location": {
+            "lat": 25.0156301,
+            "lng": 121.5118606
+        }
+    },
+    {
+        "name": "及人小學A-102教室",
+        "address": "文化路１７２號",
+        "neighborhood": "新?里",
+        "location": {
+            "lat": 25.0156301,
+            "lng": 121.5118606
+        }
+    }
+]

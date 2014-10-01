@@ -1,0 +1,712 @@
+[
+    {
+        "name": "祖田市民活動中心",
+        "address": "中央路四段２８３之１號２樓",
+        "neighborhood": "祖田里"
+    },
+    {
+        "name": "頂新里市民活動中心",
+        "address": "中央路四段２８３之１號",
+        "neighborhood": "頂新里"
+    },
+    {
+        "name": "原住民巿民活動中心",
+        "address": "中央路四段２８３之１號",
+        "neighborhood": "頂新里"
+    },
+    {
+        "name": "頂埔國小",
+        "address": "中央路四段２０５號",
+        "neighborhood": "頂福里"
+    },
+    {
+        "name": "頂埔國小",
+        "address": "中央路四段２０５號",
+        "neighborhood": "頂福里"
+    },
+    {
+        "name": "頂福社區活動中心",
+        "address": "中州路２８巷２８號",
+        "neighborhood": "頂福里"
+    },
+    {
+        "name": "頂埔市民活動中心1樓",
+        "address": "中央路四段５５之１２號１樓",
+        "neighborhood": "頂埔里"
+    },
+    {
+        "name": "頂埔巿民活動中心1樓",
+        "address": "中央路四段５５之１２號１樓",
+        "neighborhood": "頂埔里"
+    },
+    {
+        "name": "頂埔巿民活動中心2樓",
+        "address": "中央路四段５５之１２號２樓",
+        "neighborhood": "頂埔里"
+    },
+    {
+        "name": "沛陂巿民活動中心1樓",
+        "address": "三民路２３巷８弄９號１樓(沛陂社區公園內)",
+        "neighborhood": "沛陂里"
+    },
+    {
+        "name": "沛陂巿民活動中心2樓",
+        "address": "三民路２３巷８弄９號２樓(沛陂社區公園內)",
+        "neighborhood": "沛陂里"
+    },
+    {
+        "name": "沛陂里社區活動中心",
+        "address": "福安街１５號",
+        "neighborhood": "沛陂里"
+    },
+    {
+        "name": "土城國中",
+        "address": "永寧路１８號",
+        "neighborhood": "永寧里"
+    },
+    {
+        "name": "土城國中",
+        "address": "永寧路１８號",
+        "neighborhood": "永寧里"
+    },
+    {
+        "name": "土城國中",
+        "address": "永寧路１８號",
+        "neighborhood": "永寧里"
+    },
+    {
+        "name": "土城國中",
+        "address": "永寧路１８號",
+        "neighborhood": "永寧里"
+    },
+    {
+        "name": "土城國中",
+        "address": "永寧路１８號",
+        "neighborhood": "永寧里"
+    },
+    {
+        "name": "大安集會所",
+        "address": "中央路三段１３４號",
+        "neighborhood": "大安里"
+    },
+    {
+        "name": "臺北市政府捷運工程局北區工程處第五土木工務所",
+        "address": "承天路２號(永寧站２號出口前之工務所)",
+        "neighborhood": "大安里"
+    },
+    {
+        "name": "南天母新城社區會議室",
+        "address": "南天母路６７號",
+        "neighborhood": "大安里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員仁里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員仁里"
+    },
+    {
+        "name": "員仁社區活動中心(左側)",
+        "address": "中華路二段９０號",
+        "neighborhood": "員仁里"
+    },
+    {
+        "name": "員仁社區活動中心(右側)",
+        "address": "中華路二段９０號",
+        "neighborhood": "員仁里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "埤塘里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "埤塘里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "埤塘里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "土城里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "土城里"
+    },
+    {
+        "name": "長風巿民活動中心",
+        "address": "順風路２７號",
+        "neighborhood": "長風里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員信里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員信里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員信里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員林里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員林里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員林里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員林里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員福里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員福里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員福里"
+    },
+    {
+        "name": "土城國小",
+        "address": "興城路１７號",
+        "neighborhood": "員福里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "日和里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "日和里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "日和里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "日和里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "日新里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "日新里"
+    },
+    {
+        "name": "日新巿民活動中心",
+        "address": "裕生路１００巷５號",
+        "neighborhood": "日新里"
+    },
+    {
+        "name": "莒光四村活動中心",
+        "address": "中央路一段１８９巷２號",
+        "neighborhood": "裕生里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "裕生里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "裕生里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "裕生里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "貨饒里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "貨饒里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "貨饒里"
+    },
+    {
+        "name": "信義國小",
+        "address": "四川路二段２４５巷６０號",
+        "neighborhood": "瑞興里"
+    },
+    {
+        "name": "信義國小",
+        "address": "四川路二段２４５巷６０號",
+        "neighborhood": "瑞興里"
+    },
+    {
+        "name": "信義國小",
+        "address": "四川路二段２４５巷６０號",
+        "neighborhood": "復興里"
+    },
+    {
+        "name": "信義國小",
+        "address": "四川路二段２４５巷６０號",
+        "neighborhood": "復興里"
+    },
+    {
+        "name": "信義國小",
+        "address": "四川路二段２４５巷６０號",
+        "neighborhood": "復興里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "廣福里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "廣福里"
+    },
+    {
+        "name": "廣福巿民活動中心",
+        "address": "學府路一段９９巷底",
+        "neighborhood": "廣福里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "學成里"
+    },
+    {
+        "name": "學成巿民活動中心",
+        "address": "學成路９７巷８號",
+        "neighborhood": "學成里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "埤林里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "埤林里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "埤林里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "埤林里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "埤林里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "廣興里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "廣興里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "樂利里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "樂利里"
+    },
+    {
+        "name": "樂利國小",
+        "address": "裕生路６５號",
+        "neighborhood": "樂利里"
+    },
+    {
+        "name": "廣福國小",
+        "address": "學府路一段１２７號",
+        "neighborhood": "學府里"
+    },
+    {
+        "name": "海山高工",
+        "address": "學府路一段２４１號",
+        "neighborhood": "學府里"
+    },
+    {
+        "name": "海山高工",
+        "address": "學府路一段２４１號",
+        "neighborhood": "明德里"
+    },
+    {
+        "name": "海山高工",
+        "address": "學府路一段２４１號",
+        "neighborhood": "明德里"
+    },
+    {
+        "name": "海山高工",
+        "address": "學府路一段２４１號",
+        "neighborhood": "明德里"
+    },
+    {
+        "name": "中正國中",
+        "address": "金城路二段２４７號",
+        "neighborhood": "學士里"
+    },
+    {
+        "name": "中正國中",
+        "address": "金城路二段２４７號",
+        "neighborhood": "學士里"
+    },
+    {
+        "name": "中正國中",
+        "address": "金城路二段２４７號",
+        "neighborhood": "學士里"
+    },
+    {
+        "name": "中正國中",
+        "address": "金城路二段２４７號",
+        "neighborhood": "柑林里"
+    },
+    {
+        "name": "中正國中",
+        "address": "金城路二段２４７號",
+        "neighborhood": "柑林里"
+    },
+    {
+        "name": "中正國中",
+        "address": "金城路二段２４７號",
+        "neighborhood": "中正里"
+    },
+    {
+        "name": "中正巿民活動中心",
+        "address": "裕民路１８５巷３６弄２號對面",
+        "neighborhood": "中正里"
+    },
+    {
+        "name": "青雲里活動中心(左側)",
+        "address": "清水路１４１巷１８號地下１樓",
+        "neighborhood": "青雲里"
+    },
+    {
+        "name": "青雲里活動中心(右側)",
+        "address": "清水路１４１巷１８號地下１樓",
+        "neighborhood": "青雲里"
+    },
+    {
+        "name": "清和里活動中心",
+        "address": "青雲路３６８號",
+        "neighborhood": "清和里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "清和里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "清和里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "清和里"
+    },
+    {
+        "name": "清水托兒所(清化里活動中心)",
+        "address": "青雲路３６８號４樓",
+        "neighborhood": "清化里"
+    },
+    {
+        "name": "清水國小",
+        "address": "金城路二段３５６號",
+        "neighborhood": "清溪里"
+    },
+    {
+        "name": "清水國小",
+        "address": "金城路二段３５６號",
+        "neighborhood": "清溪里"
+    },
+    {
+        "name": "清溪里活動中心(左側)",
+        "address": "清水路２４３之１號",
+        "neighborhood": "清溪里"
+    },
+    {
+        "name": "清溪里活動中心(右側)",
+        "address": "清水路２４３之１號",
+        "neighborhood": "清溪里"
+    },
+    {
+        "name": "青山里活動中心",
+        "address": "明德路一段７４之１號",
+        "neighborhood": "青山里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "青山里"
+    },
+    {
+        "name": "清水國小",
+        "address": "金城路二段３５６號",
+        "neighborhood": "清水里"
+    },
+    {
+        "name": "清水國小",
+        "address": "金城路二段３５６號",
+        "neighborhood": "清水里"
+    },
+    {
+        "name": "清水里活動中心(左側)",
+        "address": "清水路２３４巷５號",
+        "neighborhood": "清水里"
+    },
+    {
+        "name": "清水里活動中心(右側)",
+        "address": "清水路２３４巷５號",
+        "neighborhood": "清水里"
+    },
+    {
+        "name": "清水國小",
+        "address": "金城路二段３５６號",
+        "neighborhood": "清水里"
+    },
+    {
+        "name": "清水國小",
+        "address": "金城路二段３５６號",
+        "neighborhood": "永豐里"
+    },
+    {
+        "name": "清水國小",
+        "address": "金城路二段３５６號",
+        "neighborhood": "永豐里"
+    },
+    {
+        "name": "清水國小",
+        "address": "金城路二段３５６號",
+        "neighborhood": "永豐里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "永富里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "永富里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "永富里"
+    },
+    {
+        "name": "廷寮社區活動中心(右側)",
+        "address": "永豐路１７１號旁",
+        "neighborhood": "廷寮里"
+    },
+    {
+        "name": "廷寮社區活動中心(左側)",
+        "address": "永豐路１７１號旁",
+        "neighborhood": "廷寮里"
+    },
+    {
+        "name": "廷寮巿民活動中心",
+        "address": "永豐路２４０之１號",
+        "neighborhood": "廷寮里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "金城里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "金城里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "金城里"
+    },
+    {
+        "name": "?廷巿民活動中心(左側)",
+        "address": "延吉街１３７巷１５號",
+        "neighborhood": "?廷里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "?廷里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "?廷里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "?廷里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "?廷里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "延吉里"
+    },
+    {
+        "name": "延吉巿民活動中心(右側)",
+        "address": "延吉街１３７巷１３號",
+        "neighborhood": "延吉里"
+    },
+    {
+        "name": "清水中學",
+        "address": "明德路一段７２號",
+        "neighborhood": "延吉里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "延壽里"
+    },
+    {
+        "name": "延壽巿民活動中心",
+        "address": "延和路１２５巷２８號２樓",
+        "neighborhood": "延壽里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "延壽里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "延祿里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "延祿里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "延祿里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "平和里"
+    },
+    {
+        "name": "平和里活動中心",
+        "address": "延和路１０５巷８弄７號",
+        "neighborhood": "平和里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "平和里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "平和里"
+    },
+    {
+        "name": "安和巿民活動中心",
+        "address": "延和路８８巷１０弄３號",
+        "neighborhood": "安和里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "安和里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "安和里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "延和里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "延和里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "延和里"
+    },
+    {
+        "name": "安和國小",
+        "address": "延和路２３號",
+        "neighborhood": "延和里"
+    }
+]

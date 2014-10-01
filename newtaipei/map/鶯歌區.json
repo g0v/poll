@@ -1,0 +1,443 @@
+[
+    {
+        "name": "建德市民活動中心",
+        "address": "中正一路建德巷１１號",
+        "neighborhood": "建德里",
+        "location": {
+            "lat": 24.9564305,
+            "lng": 121.3644804
+        }
+    },
+    {
+        "name": "東鶯市民動中心",
+        "address": "文化路２１５號",
+        "neighborhood": "東鶯里",
+        "location": {
+            "lat": 24.9534381,
+            "lng": 121.3546061
+        }
+    },
+    {
+        "name": "宏德宮",
+        "address": "中正一路３０１巷１號",
+        "neighborhood": "北鶯里",
+        "location": {
+            "lat": 24.9570813,
+            "lng": 121.3557783
+        }
+    },
+    {
+        "name": "宏德宮",
+        "address": "中正一路３０１巷１號",
+        "neighborhood": "北鶯里",
+        "location": {
+            "lat": 24.9570813,
+            "lng": 121.3557783
+        }
+    },
+    {
+        "name": "西鶯活動中心一樓",
+        "address": "中正一路２０３號",
+        "neighborhood": "西鶯里",
+        "location": {
+            "lat": 24.95711,
+            "lng": 121.353501
+        }
+    },
+    {
+        "name": "新北市立圖書館鶯歌分館(林長壽圖書館)",
+        "address": "中山路１５０號",
+        "neighborhood": "西鶯里",
+        "location": {
+            "lat": 24.9574289,
+            "lng": 121.349591
+        }
+    },
+    {
+        "name": "中鶯舊集會所",
+        "address": "市場旁",
+        "neighborhood": "中鶯里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    },
+    {
+        "name": "鶯歌長老教會",
+        "address": "光復街１１號",
+        "neighborhood": "南鶯里",
+        "location": {
+            "lat": 24.955115,
+            "lng": 121.351345
+        }
+    },
+    {
+        "name": "建國國小",
+        "address": "育英街２號",
+        "neighborhood": "南鶯里",
+        "location": {
+            "lat": 24.9549871,
+            "lng": 121.3468031
+        }
+    },
+    {
+        "name": "建國國小",
+        "address": "育英街２號",
+        "neighborhood": "南鶯里",
+        "location": {
+            "lat": 24.9549871,
+            "lng": 121.3468031
+        }
+    },
+    {
+        "name": "建國國小",
+        "address": "育英街２號",
+        "neighborhood": "建國里",
+        "location": {
+            "lat": 24.9549871,
+            "lng": 121.3468031
+        }
+    },
+    {
+        "name": "建國國小",
+        "address": "育英街２號",
+        "neighborhood": "建國里",
+        "location": {
+            "lat": 24.9549871,
+            "lng": 121.3468031
+        }
+    },
+    {
+        "name": "建國國小",
+        "address": "育英街２號",
+        "neighborhood": "建國里",
+        "location": {
+            "lat": 24.9549871,
+            "lng": 121.3468031
+        }
+    },
+    {
+        "name": "二甲市民活動中心",
+        "address": "二甲路３６之２號",
+        "neighborhood": "二甲里",
+        "location": {
+            "lat": 24.9358336,
+            "lng": 121.3385645
+        }
+    },
+    {
+        "name": "二橋國小",
+        "address": "中正三路１０６號",
+        "neighborhood": "二橋里",
+        "location": {
+            "lat": 24.940845,
+            "lng": 121.337613
+        }
+    },
+    {
+        "name": "二橋國小",
+        "address": "中正三路１０６號",
+        "neighborhood": "二橋里",
+        "location": {
+            "lat": 24.940845,
+            "lng": 121.337613
+        }
+    },
+    {
+        "name": "鶯歌高職",
+        "address": "中正三路１５４號",
+        "neighborhood": "二橋里",
+        "location": {
+            "lat": 24.9393432,
+            "lng": 121.335057
+        }
+    },
+    {
+        "name": "二橋市民活動中心",
+        "address": "中正三路３３７號",
+        "neighborhood": "二橋里",
+        "location": {
+            "lat": 24.935175,
+            "lng": 121.327526
+        }
+    },
+    {
+        "name": "尖山市民活動中心",
+        "address": "尖山路１９３號",
+        "neighborhood": "尖山里",
+        "location": {
+            "lat": 24.9469,
+            "lng": 121.34324
+        }
+    },
+    {
+        "name": "尖山國中",
+        "address": "國中街１號",
+        "neighborhood": "尖山里",
+        "location": {
+            "lat": 24.9436834,
+            "lng": 121.3421355
+        }
+    },
+    {
+        "name": "尖山國中",
+        "address": "國中街１號",
+        "neighborhood": "尖山里",
+        "location": {
+            "lat": 24.9436834,
+            "lng": 121.3421355
+        }
+    },
+    {
+        "name": "鶯歌衛生所",
+        "address": "文化路３８９號",
+        "neighborhood": "南靖里",
+        "location": {
+            "lat": 24.950582,
+            "lng": 121.352538
+        }
+    },
+    {
+        "name": "南靖市民活動中心",
+        "address": "文化路３９５號",
+        "neighborhood": "南靖里",
+        "location": {
+            "lat": 24.950284,
+            "lng": 121.352776
+        }
+    },
+    {
+        "name": "三鶯路福德宮",
+        "address": "三鶯路９２號",
+        "neighborhood": "南靖里",
+        "location": {
+            "lat": 24.9433203,
+            "lng": 121.358398
+        }
+    },
+    {
+        "name": "同慶市民活動中心",
+        "address": "尖山埔路１０４號",
+        "neighborhood": "同慶里",
+        "location": {
+            "lat": 24.9512086,
+            "lng": 121.3468928
+        }
+    },
+    {
+        "name": "昌福國小",
+        "address": "永明街２２號",
+        "neighborhood": "永昌里",
+        "location": {
+            "lat": 24.9558709,
+            "lng": 121.3393858
+        }
+    },
+    {
+        "name": "昌福國小",
+        "address": "永明街２２號",
+        "neighborhood": "永昌里",
+        "location": {
+            "lat": 24.9558709,
+            "lng": 121.3393858
+        }
+    },
+    {
+        "name": "昌福國小",
+        "address": "永明街２２號",
+        "neighborhood": "永昌里",
+        "location": {
+            "lat": 24.9558709,
+            "lng": 121.3393858
+        }
+    },
+    {
+        "name": "鶯歌國中",
+        "address": "尖山埔路１０８號",
+        "neighborhood": "永昌里",
+        "location": {
+            "lat": 24.9504628,
+            "lng": 121.3448645
+        }
+    },
+    {
+        "name": "鶯歌國中",
+        "address": "尖山埔路１０８號",
+        "neighborhood": "永昌里",
+        "location": {
+            "lat": 24.9504628,
+            "lng": 121.3448645
+        }
+    },
+    {
+        "name": "永吉市民活動中心(吉德宮)",
+        "address": "德昌二街３巷１號之１",
+        "neighborhood": "永吉里",
+        "location": {
+            "lat": 24.9575278,
+            "lng": 121.3332406
+        }
+    },
+    {
+        "name": "永吉老人休閒中心",
+        "address": "鶯桃路２０６巷２４弄３０之１號",
+        "neighborhood": "永吉里",
+        "location": {
+            "lat": 24.9595085,
+            "lng": 121.3376792
+        }
+    },
+    {
+        "name": "永福宮",
+        "address": "鶯桃路２９６巷５５弄",
+        "neighborhood": "永吉里",
+        "location": {
+            "lat": 24.9618804,
+            "lng": 121.3362908
+        }
+    },
+    {
+        "name": "鳳祥市民活動中心",
+        "address": "鶯桃路３８１巷２弄１５號",
+        "neighborhood": "鳳祥里",
+        "location": {
+            "lat": 24.9637719,
+            "lng": 121.332456
+        }
+    },
+    {
+        "name": "鳳鳴國中",
+        "address": "永和街３３號",
+        "neighborhood": "鳳祥里",
+        "location": {
+            "lat": 24.9671451,
+            "lng": 121.3318568
+        }
+    },
+    {
+        "name": "鳳鳴國中",
+        "address": "永和街３３號",
+        "neighborhood": "鳳祥里",
+        "location": {
+            "lat": 24.9671451,
+            "lng": 121.3318568
+        }
+    },
+    {
+        "name": "鳳鳴國小",
+        "address": "永和街１２０號",
+        "neighborhood": "鳳鳴里",
+        "location": {
+            "lat": 24.969172,
+            "lng": 121.334826
+        }
+    },
+    {
+        "name": "鳳鳴市民活動中心",
+        "address": "永和街３４巷８號",
+        "neighborhood": "鳳鳴里",
+        "location": {
+            "lat": 24.9674932,
+            "lng": 121.3332341
+        }
+    },
+    {
+        "name": "鳳鳴國中",
+        "address": "永和街３３號",
+        "neighborhood": "鳳鳴里",
+        "location": {
+            "lat": 24.9671451,
+            "lng": 121.3318568
+        }
+    },
+    {
+        "name": "鳳福市民活動中心",
+        "address": "鳳吉一街１６７之１號",
+        "neighborhood": "鳳福里",
+        "location": {
+            "lat": 24.9768676,
+            "lng": 121.331244
+        }
+    },
+    {
+        "name": "鳳福市民活動中心",
+        "address": "鳳吉一街１６７之１號",
+        "neighborhood": "鳳福里",
+        "location": {
+            "lat": 24.9768676,
+            "lng": 121.331244
+        }
+    },
+    {
+        "name": "福德祠(長壽俱樂部)",
+        "address": "福隆一街７９之１號",
+        "neighborhood": "鳳福里",
+        "location": {
+            "lat": 24.9711362,
+            "lng": 121.3241675
+        }
+    },
+    {
+        "name": "謝文成宅",
+        "address": "大湖路５３０巷３５號",
+        "neighborhood": "大湖里",
+        "location": {
+            "lat": 24.961587,
+            "lng": 121.342535
+        }
+    },
+    {
+        "name": "大湖市民活動中心",
+        "address": "明圓街４１號",
+        "neighborhood": "大湖里",
+        "location": {
+            "lat": 24.9775446,
+            "lng": 121.3365461
+        }
+    },
+    {
+        "name": "簡義木宅",
+        "address": "大湖路７２８號",
+        "neighborhood": "大湖里",
+        "location": {
+            "lat": 24.9769911,
+            "lng": 121.3324184
+        }
+    },
+    {
+        "name": "新北市立鶯歌幼兒園(地下室）",
+        "address": "大湖路３３６號",
+        "neighborhood": "中湖里",
+        "location": {
+            "lat": 24.9711911,
+            "lng": 121.3460244
+        }
+    },
+    {
+        "name": "中湖市民活動中心",
+        "address": "中湖街２３號",
+        "neighborhood": "中湖里",
+        "location": {
+            "lat": 24.9769485,
+            "lng": 121.3375851
+        }
+    },
+    {
+        "name": "中湖國小",
+        "address": "中湖街２５號",
+        "neighborhood": "中湖里",
+        "location": {
+            "lat": 24.9728344,
+            "lng": 121.3479281
+        }
+    },
+    {
+        "name": "三湖宮",
+        "address": "三界公坑３號",
+        "neighborhood": "東湖里",
+        "location": {
+            "lat": 0,
+            "lng": 0
+        }
+    }
+]
